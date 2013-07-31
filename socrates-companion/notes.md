@@ -18,6 +18,52 @@ readers should judge for themselves, I find his reconstruction to be as
 flawed and full of wish-fulfillment as the ones he criticizes earlier in
 the essay.
 
+## Chapter 2: Socratic Irony (Iakovos Vasiliou)
+
+Vasiliou begins by observing that when we read Plato, we inevitably and
+frequently ask questions like, "Is Socrates serious?" However, "the
+possibility of wondering whether Aristotle or Kant is serious does not
+arise; there is almost no space for that question to be intelligible."
+Vlastos argues that this shows the manifest reality of some kind of play in
+the case of Plato's Socrates. As he argues repeatedly, even if someone's
+final interpretation is that Socrates *is* serious, this would need to be
+*argued for* in the case of Socrates, and unlike (most) other philosophers.
+
+Vasiliou then analyzes two main types of Socratic irony. Conditional irony,
+which usually appears in Socrates' hyperbolic praise of his interlocutors,
+involves a suppressed protasis: Socrates wants desperately to become Euthyphro's
+student, *if Euthyphro knows what he claims to know about piety*. In these
+cases, Socrates inevitably denies the implied antecedent, and by
+implication, he denies the entire condition as well. (As Vasiliou points
+out, this is formally a fallacy, but it is in line with normal
+conversational implications: "I'll go to the movies with you, if I finish
+studying for the test" is, in normal conversations, defeated by my not
+finishing my studying, even if by logic this is a fallacy.) The other type
+of irony is reverse irony, which usually appears when Socrates disavows
+knowledge or asserts one of the Socratic paradoxes. In these cases,
+Socrates provokes his interlocutors (and Plato's readers) by being
+completely honest but saying something that listeners and readers are bound
+to find impossible.
+
+Vasiliou's analyses of these cases is very strong, but I have one quarrel
+with his case. I'm not convinced that he has answered a problem raised by
+Charles Griswold. Griswold notes that in many cases the audience for
+Socratic irony must be Plato's readers and not any character internal to
+the dialogues. If this is so, and Vasiliou seems to agree that it is---at
+least in some cases---then the irony belongs to Plato rather than to
+Socrates. It becomes part of Plato's communication with his readers rather
+than anything Socrates communicates to anyone. Vasiliou seems to recognize
+this partly, but he also wants to have it both ways. He argues that Plato
+allows Socratic irony to have an audience that Socrates never finds in the
+dialogues, an audience of us---Plato's readers. But that simply sounds to
+me like a roundabout way of saying something that Vasiliou is at pains to
+deny: much of the irony he covers is Platonic not Socratic.(ft. This issue
+is complex. Vasiliou admits initially that in some sense *all* of the irony
+is Platonic since he is the author of all of these words. However, he
+insists that the irony he discusses throughout also belongs in an important
+sense to Socrates the character. I don't think that he can make good on
+that claim, ultimately.)
+
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
 Reshotko argues that virtue is knowledge, but this definition can only

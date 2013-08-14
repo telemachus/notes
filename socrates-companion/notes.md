@@ -64,6 +64,33 @@ insists that the irony he discusses throughout also belongs in an important
 sense to Socrates the character. I don't think that he can make good on
 that claim, ultimately.)
 
+## Chapter 3: Socratic Philosophizing
+
+Wolfsdorf considers a cluster of problems about Socratic method. Following
+Vlastos, he begins with the Socratic elenchus, and he considers such
+questions as these: Is the elenchus constructive or only destructive? Is
+Socrates entitled to think that the elenchus can disprove specific theses
+or can it only show inconsistency among a set of theses? Is the elenchus
+Socrates' only method? Does Socrates investigate propositions or lives?
+Does Socrates pursue truth via the elenchus (or any other method) or does
+he only seek to display ignorance? Is the elenchus adversarial or
+cooperative?
+
+Unlike all the other contributions to the volume, Wolfsdorf arranges his
+essay temporally. He examines 21 essays by various scholars in the order
+they were published, and one by one he unpacks their views on his topic. He
+does not present his own views or any summary views, and so the chapter is
+impossible to further summarize. At the end of the essay, Wolfsdorf
+recommends that future studies expand in two ways. First, they should move
+beyond logic to "consider the psychological attitudes" of the speakers in
+the dialogues, remaining open to the possibility that "Plato employs
+Socrates and his interlocutors variously in different argumentative
+contexts." Second, they should expand consideration of Socratic arguments
+beyond the elenchus in order to consider the many other various ways in
+which Socrates argues. Wolfsdorf grants that piecemeal work has been done
+towards both goals, but he believes that far more work remains in order to
+yield real results.
+
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
 Reshotko argues that virtue is knowledge, but this definition can only

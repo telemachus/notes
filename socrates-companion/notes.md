@@ -91,6 +91,24 @@ which Socrates argues. Wolfsdorf grants that piecemeal work has been done
 towards both goals, but he believes that far more work remains in order to
 yield real results.
 
+## Chapter 4: Socratic Metaphysics
+
+Prior argues, against Dancy and Vlastos and with Allen and Fine, that the
+character Socrates in the early dialogues *is* a metaphysician. He has an
+ontology of forms that is in many essential ways similar to, and
+a precursor for, the famous Platonic theory of forms that appears in the
+middle dialogues.
+
+Prior bases his argument on Socrates' use of the same language for Forms as
+the middle period, Socratic arguments that objects like "justice" and
+"piety" exist, are universals, explain the properties of actions, people
+and so on, serve as standards for thought and action and are
+self-predicating. In fact, the metaphysics of the early Socrates shares
+everything with Plato except for separation of the Forms and Plato's
+general other-worldliness, according to Prior. In this sense, the views we
+find in the early dialogues clearly foreshadow and lead to the view of the
+middle dialogues.
+
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
 Reshotko argues that virtue is knowledge, but this definition can only

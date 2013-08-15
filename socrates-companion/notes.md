@@ -109,6 +109,31 @@ general other-worldliness, according to Prior. In this sense, the views we
 find in the early dialogues clearly foreshadow and lead to the view of the
 middle dialogues.
 
+## Chapter 5: Socratic Ignorance and Types of Knowledge
+
+McPartland discusses the tension between Socrates' frequent disavowals of
+knowledge and his occasional knowledge claims. He points out immediately
+that what Socrates disavows of claims to possess as 'knowledge' may differ
+from what we understand by that word. Instead what Socrates disavows is
+a superhumanly strong and stable cognitive state, and what he possesses is
+something very like justified true belief. On this account, the disavowals
+and avowals that Socrates makes become far less shocking (and interesting)
+than they appear at first glance. However, a different question emerges:
+Why does Socrates insist that the superhuman cognitive state that he lacks
+(along with every other person he has ever met and, as he sometimes
+implies, could ever meet) is *essential* for happiness?
+
+McPartland distinguishes three types of Socratic disavowals concerning
+ethical knowledge:
+
++ Socrates denies that he has definitional knowledge of virtue (in general)
+  as well as specific virtues.
++ Socrates denies that a person without definitional knowledge can know (1)
+  what features a virtue possesses and (2) whether specific actions or
+  sorts of actions belong are virtuous.
++ Socrates denies that he knows how to make people better. He cannot teach
+  virtue.
+
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
 Reshotko argues that virtue is knowledge, but this definition can only
@@ -129,3 +154,26 @@ other-regarding love in the *Lysis*. Instead, she argues that theories of
 other-regarding love are themselves problematic. Although I worry that this
 amounts to burning down the village in order to save it, she makes serious
 criticisms of two modern theories of other-regarding love.
+
+## Errors
+
+### Chapter 4
+
++ Reference to Prior 2014 on page 81 should read Prior 2004.
++ 'which turns on a theory of the way in which Forms are' on page 84 should
+  read 'which turns on a theory of hte way in which Forms are separate'.
+
+### Chapter 5
+
++ Citation of verbs: usually infinitives, but almost never 'epistamai'
+  (once in a footnote and once later in the body of the article), which is
+  sometimes also 'epistasai'; also 'oida' versus 'eidenai' and why 'eidos'?
++ Final paragraph in left-hand column on page 108 is formatted as
+  a continuation of the earlier blockquote, but it is a return to the
+  author's article.
++ Complete inconsistency in how dialogue blockquotes are introduced: bold,
+  all-caps full names; abbreviated names, bold all caps; small-caps full
+  names.
++ Citation of Nozick 1995 which does not appear in the bibliography.
+  Reference is to 'Socratic Puzzles', Robert Nozick, Phronesis (40), 2,
+  1995, 143-155.

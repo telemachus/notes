@@ -12,7 +12,7 @@ chapter as such.
 Waterfield makes a compelling case that all contemporary attempts to
 discover the *real* or *historical* Socrates are flawed. In fact, he
 convinced me that no such investigation could possibly succeed given the
-nature of our evidence. He suprised the hell out of me, however, by
+nature of our evidence. He surprised the hell out of me, however, by
 offering his own *real* Socrates in the final part of the essay. Although
 readers should judge for themselves, I find his reconstruction to be as
 flawed and full of wish-fulfillment as the ones he criticizes earlier in
@@ -114,14 +114,16 @@ middle dialogues.
 McPartland discusses the tension between Socrates' frequent disavowals of
 knowledge and his occasional knowledge claims. He points out immediately
 that what Socrates disavows of claims to possess as 'knowledge' may differ
-from what we understand by that word. Instead what Socrates disavows is
-a superhumanly strong and stable cognitive state, and what he possesses is
+from what we understand by that word. Instead what Socrates disavows is an
+extraordinarily strong and stable cognitive state, and what he possesses is
 something very like justified true belief. On this account, the disavowals
 and avowals that Socrates makes become far less shocking (and interesting)
-than they appear at first glance. However, a different question emerges:
-Why does Socrates insist that the superhuman cognitive state that he lacks
-(along with every other person he has ever met and, as he sometimes
-implies, could ever meet) is *essential* for happiness?
+than they appear at first glance. In addition, Socrates no longer
+contradicts himself if the knowledge he disavows differs from the knowledge
+he possesses. However, a different question emerges: Why does Socrates
+insist that the superhuman cognitive state that he lacks (along with every
+other person he has ever met and, as he sometimes implies, could ever meet)
+is *essential* for happiness?
 
 McPartland distinguishes three types of Socratic disavowals concerning
 ethical knowledge:
@@ -133,6 +135,39 @@ ethical knowledge:
   sorts of actions belong are virtuous.
 + Socrates denies that he knows how to make people better. He cannot teach
   virtue.
+
+## Chapter 6: The Priority of Definition
+
+Socrates famously sought definitions for ethical terms, and Hugh Benson
+considers his motivation for this pursuit. He admits that Socrates may have
+had multiple motivations, but argues that a particularly important one was
+Socrates' belief that definitions had "special epistemic status", namely
+his belief that "knowledge of these answers is...epistemically prior to
+other sorts of knowledge" (137).
+
+The principle of the priority of definition:
+
+> (PD) If A fails to know what F-ness is, then A fails to know anything
+> about F-ness.
+
+(PD) itself is a conjunction of two principles:
+
+> (P) If A fails to know what F-ness is, then A fails to know, for any x,
+> that x is F.
+
+> (D) If A fails to know what F-ness is, then A fails to know, for any G,
+> that F-ness is G.
+
+Principle (P) is why, for example, Socrates worries in *Hippias Major* that
+unless he can define the fine, he cannot say of any particular speech that
+it is fine. Principle (D) is why, for example, Socrates says in *Republic
+I* that he cannot say whether justice is beneficial for those who possess
+it.
+
+After a careful review of the textual evidence for and against Socratic
+commitment to (PD) and the philosophical merits of the principle, Benson
+asserts that (1) Socrates was committed to (PD) and that (2) (PD) itself is
+more plausible than contemporary detractors have thought.
 
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
@@ -161,7 +196,7 @@ criticisms of two modern theories of other-regarding love.
 
 + Reference to Prior 2014 on page 81 should read Prior 2004.
 + 'which turns on a theory of the way in which Forms are' on page 84 should
-  read 'which turns on a theory of hte way in which Forms are separate'.
+  read 'which turns on a theory of the way in which Forms are separate'.
 
 ### Chapter 5
 
@@ -169,9 +204,9 @@ criticisms of two modern theories of other-regarding love.
   (once in a footnote and once later in the body of the article), which is
   sometimes also 'epistasai'; also 'oida' versus 'eidenai' and why 'eidos'?
 + Final paragraph in left-hand column on page 108 is formatted as
-  a continuation of the earlier blockquote, but it is a return to the
+  a continuation of the earlier block quote, but it is a return to the
   author's article.
-+ Complete inconsistency in how dialogue blockquotes are introduced: bold,
++ Complete inconsistency in how dialogue block quotes are introduced: bold,
   all-caps full names; abbreviated names, bold all caps; small-caps full
   names.
 + Citation of Nozick 1995 which does not appear in the bibliography.

@@ -171,6 +171,21 @@ more plausible than contemporary detractors have thought.
 
 ## Chapter 7: Socratic Eudaimonism (Naomi Reshotko)
 
+Reshotko considers how Socrates understands *eudaimonia*, the "central
+value and supreme goal of a human life" (156), and what he makes of the
+relationship between *eudaimonia* and *aretē*, virtue or excellence.
+According to Reshotko, Socrates pursues *eudaimonia* in a practical rather
+than a theoretical manner. He does not seek a conceptual or logical
+understanding of *eudaimonia*. Instead, Socrates wants to find real life
+ways that are most likely to lead to *eudaimonia*. In addition, Reshotko
+believes that it is anachronistic to use intentional contexts to explain
+Socrates's radical views of human desire. Reshotko forcefully argues that
+Socrates means it: People only desire what is truly good for them. She
+does, however, admit that Socrates allows that things not actually for for
+people might appear best to them as a result of ignorance or confusion. She
+stresses the practicality and objectivity of Socrates's interest in
+*eudaimonia*.
+
 Reshotko argues that virtue is knowledge, but this definition can only
 apply to people. Notice that in *Hippias Major* 295c8-e3, Socrates argues
 for a definition of τὸ καλόν that cannot possibly be knowledge since it

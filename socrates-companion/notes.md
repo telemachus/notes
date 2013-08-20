@@ -193,6 +193,20 @@ must apply equally to people, animals, objects, boats and fields of study.
 And Socrates explicitly says that the definition must apply to all things
 "in the same manner" (295d6).
 
+## Chapter 8: Socratic Moral Psychology
+
+Their arguments about the power of appearance seem to proceed on *a priori*
+grounds far more than by consideration of anything Socrates or any
+interlocutor says. Their *a priori* opinions also don't strike me as
+especially obvious.
+
+A good contrast with Chapter 7. Reshotko tries to argue almost completely
+from what Socrates (and other characters) say, while Brickhouse and Smith
+care a great deal more about philosophical plausibility. They struggle to
+make more room than Penner and Reshotko for non-rational persuasion. The
+result will seem to many readers like a very weak or attenuated version of
+motivational *intellectualism*.
+
 ## Chapter 9: Socrates on love (Suzanne Obdrzalek)
 
 Obdrzalek reviews the Socratic theory of love, as found primarily in
@@ -227,3 +241,10 @@ criticisms of two modern theories of other-regarding love.
 + Citation of Nozick 1995 which does not appear in the bibliography.
   Reference is to 'Socratic Puzzles', Robert Nozick, Phronesis (40), 2,
   1995, 143-155.
+
+### Chapter 8
+
++ Twice on page 194, they switch too rapidly from 'they' to 'we' when
+  discussing one of their own articles.
++ Moss quotation on page 198 "philosophy bin general" should be "philosophy
+  in general".

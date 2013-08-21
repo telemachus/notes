@@ -219,6 +219,19 @@ other-regarding love are themselves problematic. Although I worry that this
 amounts to burning down the village in order to save it, she makes serious
 criticisms of two modern theories of other-regarding love.
 
+## Chapter 10: Socrates' Political Philosophy
+
+Curtis Johnson suggests that we can solve the disagreement between an
+(apparently) liberal or disobedient *Apology* and an (apparently)
+authoritarian *Crito* by interpreting *Apology* as more authoritarian than
+it initially seems. (This is a minority view. Most readers try to make
+*Crito* more liberal instead.) However, he also suggests that in addition
+to following the commands of human or divine superiors, Socrates will also
+follow the argument (λόγος) that seems best to him on each occasion.
+I worry that this opens up a huge potential gap where anything might go,
+especially given Socrates' generally negative views of human cognitive
+achievement.
+
 ## Errors
 
 ### Chapter 4

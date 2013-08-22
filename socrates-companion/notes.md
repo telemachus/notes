@@ -232,6 +232,16 @@ I worry that this opens up a huge potential gap where anything might go,
 especially given Socrates' generally negative views of human cognitive
 achievement.
 
+## Chapter 11: Socratic Theology and Piety
+
+At the end of this chapter, Mark McPherran examines the fomal accusations
+of impiety made against Socrates. In a previous section McPherran offers an
+attractive explanation of the religious views of Socrates, but that
+explanation has little in common with what Socrates says in his own defense
+at trial. Charges of "Why didn't Thinker just say that?" are tricky, but
+nevertheless I'm struck by the gap between what Socrates says on his own
+behalf and how McPherran explains his views.
+
 ## Errors
 
 ### Chapter 4
@@ -261,3 +271,19 @@ achievement.
   discussing one of their own articles.
 + Moss quotation on page 198 "philosophy bin general" should be "philosophy
   in general".
+
+### Chapter 11
+
++ References to Xenophon's *Symposium* abbreviated to *Sym.* on pages 271
+  and 266. Abbreviations list on page viii says *Symp.* for Plato's and
+  *Sym.* for Xenophon's *Symposium*. Clear in context, but still.
+
+  This turns out to be a near-universal problem. Almost all authors use
+  *Sym.* as the abbreviation for both Plato's and Xenophon's *Symposium*.
+  There is also no good rationale for how the choose to treat the names of
+  plays. All the abbreviations are Latin, so *Birds* is *Av.* for *Aves*.
+  Except that it is cited at least once as *Birds*. Also *Clouds*, which
+  has no abbreviation or index entry, is always *Clouds*, its English
+  title.
+
++ Stray bit of UTF8 garbage after *nomizein* on page 272.

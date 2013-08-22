@@ -242,6 +242,41 @@ at trial. Charges of "Why didn't Thinker just say that?" are tricky, but
 nevertheless I'm struck by the gap between what Socrates says on his own
 behalf and how McPherran explains his views.
 
+## Chapter 12: Socrates' Religious Experiences
+
+Using a four-part taxonomy of *mania* from Plato's *Phaedrus*, John
+Bussanich categorizes and examines the various religious experiences of
+Socrates. The chapter is necessarily highly speculative, and it wasn't
+clear to me whether Bussanich intended his remarks to apply to Socrates the
+person or the character of the same name in the writings of Plato and
+Xenophon.
+
+## Chapter 13: The Politics of Impiety
+
+Rather than a purely political or purely religious motivation, Mark
+Ralkowski argues for a mixed-motivation explanation of the trial and
+convication of Socrates. Socrates was certainly anti-democratic, but that
+doesn't mean that he was pro-oligarchy. Instead he was an idealist.
+Nevertheless, his anti-democratic statements might easily lead the city
+and the jury to find him threatening, especially given the political
+climate of 399. In addition, the religious *was* political to the ancient
+Athenians. Socrates' private *daimonion* would have set him apart from the
+rest of the city in a threatening manner.
+
+## General thoughts
+
+To one degree or another, almost every article in this collection falls
+victim to the worry "Why didn't Socrates just say that?" Over and over
+again, we are run though a complex, subtle interpretation that Socrates
+"may have intended" or "might have meant". I don't necessarily mean this as
+a complaint, but it does make me worried. My worry is not over any
+particular interpretation but over the possibility that any interpretation
+might ever reach consensus. But maybe that's the wrong thing to hope for.
+Isn't the problem also present in Homer, Vergil and Shakespeare? And even
+if literature is somehow different, isn't the problem also present in Kant,
+Hume and more? Is the problem really *worse* in the case of Socrates?
+I think so, but I'm unsure how I would argue for this honestly.
+
 ## Errors
 
 ### Chapter 4
@@ -287,3 +322,9 @@ behalf and how McPherran explains his views.
   title.
 
 + Stray bit of UTF8 garbage after *nomizein* on page 272.
+
+### Chapter 12
+
++ Reference to "R. I" (i.e. *Republic* Book 1) on page 311 is actually from
+  Book 7 of *Republic*. Problem is the abbreviations. See also page 204,
+  269, 285, 294, 295, 316, 319, 333 and 353.

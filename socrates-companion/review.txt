@@ -2,20 +2,16 @@ Bussanich, John and Nicholas D. Smith (edd.). <i>The Bloomsbury companion to
 Socrates.</i> Bloomsbury companions. London; New York: Bloomsbury Academic,
 2013. ix, 421 p. $190.00. ISBN 9781441112842.
 
-Reviewed by Peter Aronoff, Trinity School
-(peter.aronoff@trinityschoolnyc.org)
+Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
 
 [Authors and titles are listed at the end of the review.]
 
 Although it enters an already crowded field, this new companion to Socrates
-will be very welcome to scholars. In the words of the editors, the book
-aims "to assemble a comprehensive guide to the main issues engaged in the
-philosophy of Socrates" (vi), and these essays fulfill that aim admirably.
-The writing throughout is clear, and although the topics of the essays are
-generally narrow, the coverage is very deep. I will first say how this
-volume compares to the two other companions to Socrates already in print
-and then discuss individual chapters. At the end, I will provide a list of
-editorial considerations and errata.
+will be very welcome to scholars. The book aims "to assemble a comprehensive
+guide to the main issues engaged in the philosophy of Socrates" (vi), and
+these essays fulfill that aim admirably. I will first say how this volume
+compares to the two other Socratic companions already in print and then
+discuss individual chapters. At the end, I will provide a list of errata.
 
 Despite obvious overlap, each of the three companions to Socrates has its
 own particular strength. Blackwell's <i>A Companion to Socrates</i>[[1]]
@@ -26,36 +22,37 @@ to psychoanalysis and modern education. <i>The Cambridge Companion to
 Socrates</i>[[2]] and the companion under review here are both similar in
 topics and approach. In fact, eight topics and two authors appear in both
 volumes. However, they still differ greatly in audience. The Cambridge
-companion is well-suited to undergraduates or general readers seeking
+companion is well-suited to undergraduates or non-expert readers seeking
 a clear, brief introduction to central topics in the philosophy of
-Socrates. The volume under review here, on the other hand, provides a far
-deeper look at the last 25 to 30 years of scholarship on each topic. These
-reviews of the literature are detailed: it's not uncommon for an author to
-go through four or more variant solutions to a puzzle, all similar but with
-subtle distinctions. As a result, the Bloomsbury companion would likely
-overwhelm less experienced readers. Scholars and graduate students,
-however, will be glad to have this kind of comprehensive coverage of
-central Socratic topics, all in one place.
+Socrates. The volume under review here, on the other hand, covers the same
+topics but provides a far more detailed look at the last 30 years of
+scholarship. These reviews of the literature are detailed: it's not
+uncommon for an author to compare four or more variant solutions to
+a puzzle, all similar but with subtle distinctions. As a result, the
+Bloomsbury companion would likely overwhelm less experienced readers.
+Scholars and graduate students, however, will be glad to have this kind of
+comprehensive coverage of central Socratic questions all in one place.
+(Greek is never required. The scattered references to specific words are
+all transliterated.)
 
 Robin Waterfield opens the book by reviewing the evidence for the
 historical figure of Socrates. He makes a forceful case for extreme
 scepticism: none of the witnesses can be trusted whether alone or in
 combinations. Surprisingly, Waterfield himself still attempts to
-reconstruct a picture of the historical Socrates at the end of his essay.
-I find his positive conclusions less convincing than his sceptical
-arguments, but they do testify to how badly we all seem to want the true
-Socrates.
+reconstruct a picture of the historical Socrates after that. I find his
+positive conclusions less convincing than his sceptical arguments, but they
+do testify to how badly we all seem to want the true Socrates.
 
 Iakovos Vasiliou begins his chapter on Socratic irony with what he calls
 play. Play is that feature of Plato's Socrates that <i>forces</i> readers
 to wonder if Socrates is serious. Vasiliou contrasts this playfulness with
 most philosophical writing. As he says, no one asks whether Aristotle or
 Kant is serious. It barely makes sense even to ask that about such authors.
-What this suggests to me, though Vasiliou doesn't put it quite this way, is
-that philosophical readers of Plato who ignore the play are being
-intellectually dishonest. They cannot simply claim that they care only
-about truth and the arguments, since if they ignore the play, they are
-likely not even to know what Socrates actually claims.
+This suggests to me, though Vasiliou doesn't put it quite this way, that
+philosophical readers of Plato who ignore the play are being intellectually
+dishonest. They cannot simply claim that they care only about truth and the
+arguments, since if they ignore the play, they are likely not even to know
+what Socrates actually claims.
 
 David Wolfsdorf's essay considers Socratic methodology, broadly speaking,
 with a particular focus on the elenchus. Unlike all the other
@@ -63,18 +60,17 @@ contributions, this chapter is completely devoted to reviewing other
 scholarship and it proceeds temporally, article by article, through 21
 articles. Although at the very end, Wolfsdorf suggests possible paths for
 future research, he offers effectively no views of his own. He summarizes
-only. Wolfsdorf intends this to preserve "the integrity" of other views
-and to illustrate "their dialectical engagement within" this topic (35).
-Unfortunately, I think the experiment is a failure. The result is very dry
-reading and does not seem to me to help the reader significantly.
+only. I appreciate Wolfsdorf's intention to preserve "the integrity" (35)
+of other views, but I wish that he had done more to give the ideas
+a narrative arc.
 
 William Prior convincingly argues that Socrates has a metaphysics. He
-should not be viewed only as a moral thinker, as Vlastos and others argue.
-Using evidence from <i>Euthyphro</i> and <i>Hippias Major</i>, Prior
-demonstrates that the Socratic pursuit of definitions relies on a theory of
-forms that resembles the more famous Platonic theory in numerous respects.
-As such, Prior also argues for continuity between the early and middle
-dialogues in this regard.
+should not be viewed only as a moral thinker. Using evidence from
+<i>Euthyphro</i> and <i>Hippias Major</i>, Prior demonstrates that the
+Socratic pursuit of definitions relies on a theory of forms that resembles
+the more famous Platonic theory in numerous respects. As such, Prior also
+argues for continuity between the early and middle dialogues in this
+regard.
 
 Keith McPartland carefully charts the diverse interpretations of Socratic
 ignorance. He also takes seriously Socrates' occasional avowals of
@@ -111,7 +107,7 @@ Reshotko, Socrates pursues <i>eudaimonia</i> in a practical rather than
 a theoretical manner. This leads her to argue that most commentators are
 misguided when they seek necessary and sufficient conditions for
 <i>eudaimonia</i> in Socratic arguments. Even more radically, Reshotko
-argues that Socrates identifies our ultimate goal as omniscience.[[2]] In
+argues that Socrates identifies our ultimate goal as omniscience.[[3]] In
 an effort to be happy, we would ideally know literally everything. Reshotko
 grants that this goal is impossible, but maintains that "Socrates thought
 there was a great deal to be gained by trying" (158). I'm honestly unsure
@@ -122,7 +118,7 @@ In the next chapter, Thomas C. Brickhouse and Nicholas D. Smith provide an
 exemplary contrast with Reshotko. While Reshotko tries to argue primarily
 from what Socrates (and other characters) say without consideration of
 contemporary philosophy, Brickhouse and Smith use philosophical
-plausibility to drive their interpretation of Socrates' words.[[3]] In this
+plausibility to drive their interpretation of Socrates' words.[[4]] In this
 examination of Socratic moral psychology, for example, they struggle to
 make more room than Reshotko for the psychological force of desire. They do
 so explicitly because they believe that their interpretation better handles
@@ -152,8 +148,8 @@ readers try to make <i>Crito</i> more liberal instead.) However, he also
 suggests that, in addition to following the commands of human or divine
 superiors, Socrates will also follow the argument (<i>logos</i>) that seems
 best to him on each occasion. I worry that this opens up a huge potential
-gap where anything might go, especially given Socrates' generally negative
-views of human cognitive achievement.
+for conflict between the state and an agent's belief about the best
+argument, and Johnson doesn't address this potential problem.
 
 At the end of his chapter on Socratic theology and piety, Mark McPherran
 examines the formal accusations of impiety made against Socrates. In
@@ -162,9 +158,9 @@ religious views of Socrates, but that explanation has little in common with
 what Socrates says in his own defense at trial. Charges of "Why didn't
 Socrates just say that?" are tricky, but nevertheless I'm struck by the gap
 between what Socrates says on his own behalf and how McPherran explains his
-views. Most troublesome is that McPherran says that Socrates was "obliged"
-by Meletus to focus on atheism (274 and see also 272), but it was Socrates
-who led Meletus to atheism in the first place.
+views. Most troublesome is that McPherran says that Socrates is "obliged"
+by Meletus to focus on atheism (274 and see also 272), but it is Socrates
+who leads Meletus to atheism in the first place.
 
 Using a four-part taxonomy of <i>mania</i> from Plato's <i>Phaedrus</i>,
 John Bussanich categorizes and examines the various religious experiences
@@ -183,6 +179,8 @@ the jury to find him threatening, especially given the political climate of
 Athenians. Socrates' private <i>daimonion</i> would have set him apart from
 the rest of the city in a threatening manner.
 
+In sum, this is an excellent volume on Socratic philosophy for advanced
+readers.
 
 Table of Contents
 
@@ -209,14 +207,17 @@ a review by C.C.W. Taylor on <u
 n=http://ndpr.nd.edu/news/25092-a-companion-to-socrates>Notre Dame
 Philosophical Reviews</u>.
 
-[[2]] This is my word rather than Reshotko's, but I feel that it's fair.
+[[2]] Morrison, Donald, R., ed. <i>The Cambridge Companion to Socrates</i>
+Cambridge, 2011. See <b>2011.07.13</b> for a BMCR review.
+
+[[3]] This is my word rather than Reshotko's, but I feel that it's fair.
 Reshotko says more than once that Socrates views the knowledge essential to
 <i>eudaimonia</i> to cover <i>everything</i>. As she puts it, "Socrates
 thought all knowledge equally important and an equal factor in virtue so
 that the completely and truly virtuous person is the one who has all of
 every kind of knowledge" (158).
 
-[[3]] Sophisticated readers may want to deny that it's possible to do one
+[[4]] Sophisticated readers may want to deny that it's possible to do one
 without a healthy dose of the other, but I don't accept that it's
 impossible for one to predominate. I would argue that the clash between
 Reshotko and Brickhouse and Smith is evidence that it is possible.

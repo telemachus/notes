@@ -1,52 +1,37 @@
 Errata
 
-In the list of abbreviations on page vii, *R.* I is said to stand for
-*Republic* Book I. Perhaps because of an over-eager search and replace,
-however, numerous citations in the essays for *R.* I are actually
-references to other books of *Republic*, not book I. In practice, *R.*
-I confusingly means any book of the *Republic*. Incorrect *R.* I citations
-can be found on pages 204, 269, 285, 294, 295, 316, 219, 311, 333 and 353.
+In the list of abbreviations on page vii, <i>R.</i> I is said to stand for
+<i>Republic</i> Book I. Perhaps because of an over-eager search and
+replace, however, numerous citations in the essays for <i>R.</i> I are
+actually references to other books of Republic, not book I. In practice,
+<i>R.</i> I confusingly means any book of the <i>Republic</i>. Incorrect
+<i>R.</i> I citations can be found on pages 204, 269, 285, 294, 295, 316,
+219, 311, 333 and 353.
 
-The list of abbreviations on page viii gives *Symp.* for Plato's
-*Symposium* and *Sym.* for Xenophon's, but in practice almost all
-contributors use a *third* abbreviation (*Smp.*) for both works. This
-doesn't affect understanding the citations, but it would be better to
-bring the abbreviation list in line with the book's overall practice.
+The list of abbreviations on page viii gives <i>Symp.</i> for Plato's
+<i>Symposium</i> and <i>Sym.</i> for Xenophon's, but in practice almost all
+contributors use a third abbreviation (<i>Smp.</i>) for both works.
 
 In Chapter 4 on page 81, the reference to "Prior 2014" should read "Prior
 2004". In the same chapter on page 84, the sentence ending "which turns on
 a theory of the way in which Forms are" should read "which turns on
 a theory of the way in which Forms are separate."
 
-In Chapter 5, the author frequently specifies what verb Socrates uses in
-a particular claim of ignorance or knowledge. This is essential if you want
-to track whether Socrates uses individual verbs of cognition in different
-ways. Verbs are initially all cited as infinitives, regardless of which
-form is used in the sentence, except for *epistamai* which is always given
-in that form rather than *epistasthai* (perhaps because it's a deponent?).
-However, late in the essay that changes and *epistasthai* begins to appear.
-This is slightly jarring, but probably will cause no real confusion.
-A larger problem, though, is that in a handful of places later in the essay
-specific finite or participial forms are cited rather than infinitives. In
-particular, on pages 104-106, *oida* and *eidenai* are cited, often within
-one passage. This is likely to give readers who don't know Greek the
-impression that Socrates uses *two* verbs here, but of course *eidenai*
-just is the infinitive of *oida*. It would have been clearer to be more
-consistent, either by always using the infinitive (*eidenai*,
-*epistasthai*) or always using the first dictionary form (*oida*,
-*epistamai*). On page 108 in this chapter, there is a formatting problem.
-In the left-hand column on the bottom of the page, a paragraph from the
-author is formatted as the continuation of a block quote from *Euthydemus*.
-Finally in the footnotes for this chapter there is a reference on page 341
-(footnote 14) to Nozick 1995, but the bibliography has no entry for Nozick.
-The missing reference is Robert Nozick, "Socratic Puzzles", *Phronesis*
-(40), 2, 1995, 143-155.
+In Chapter 5, the author frequently specifies what Greek verb Socrates uses
+in a particular claim of ignorance or knowledge. This enables readers to
+track whether Socrates uses specific verbs of cognition in different ways.
+Verbs are generally cited as infinitives, but not consistently. This is
+a problem for the Greekless reader who will take, for example, <i>oida</i>
+and <i>eidenai</i> to be two distinct verbs. On page 108 in this chapter,
+there is a formatting problem. In the left-hand column on the bottom of the
+page, a paragraph from the author is formatted as the continuation of
+a block quote from <i>Euthydemus</i>. Finally in the footnotes for this
+chapter there is a reference on page 341 (footnote 14) to Nozick 1995, but
+the bibliography has no entry for Nozick.  The missing reference is Robert
+Nozick, "Socratic Puzzles", <i>Phronesis</i> (40), 2, 1995, 143-155.
 
 In Chapter 8 on page 194, the authors switch very rapidly between "we" and
 "they" when discussing an earlier article that they wrote. One sentence
 begins "If we are right about this", but the next starts "In this way, then
-on their view." In the same chapter, on page 198 in the block quote on the
-top left, "philosophy bin general" should read "philosophy in general."
-
-In Chapter 11 on page 272, there is a stray garbage character after the
-word *nomizein*.
+on their view..." In the same chapter, on page 198 in the block quote on
+the top left, "philosophy bin general" should read "philosophy in general."

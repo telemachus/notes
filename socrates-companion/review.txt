@@ -6,10 +6,10 @@ Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
 
 [Authors and titles are listed at the end of the review.]
 
-Although it enters an already crowded field, this new companion to Socrates
-will be very welcome to scholars. The book aims "to assemble a comprehensive
-guide to the main issues engaged in the philosophy of Socrates" (vi), and
-these essays fulfill that aim admirably. I will first say how this volume
+Although it enters a crowded field, this new companion to Socrates will be
+very welcome to scholars. The book aims "to assemble a comprehensive guide
+to the main issues engaged in the philosophy of Socrates" (vi), and these
+essays fulfill that aim admirably. I will first say how this volume
 compares to the two other Socratic companions already in print and then
 discuss individual chapters. At the end, I will provide a list of errata.
 
@@ -19,21 +19,18 @@ has the broadest range of viewpoints and topics. Its authors are not all
 philosophers or Classicists, and it includes essays on subjects such as
 Socrates in art, in Arabic philosophy, in the Renaissance and in relation
 to psychoanalysis and modern education. <i>The Cambridge Companion to
-Socrates</i>[[2]] and the companion under review here are both similar in
-topics and approach. In fact, eight topics and two authors appear in both
-volumes. However, they still differ greatly in audience. The Cambridge
-companion is well-suited to undergraduates or non-expert readers seeking
-a clear, brief introduction to central topics in the philosophy of
-Socrates. The volume under review here, on the other hand, covers the same
-topics but provides a far more detailed look at the last 30 years of
-scholarship. These reviews of the literature are detailed: it's not
-uncommon for an author to compare four or more variant solutions to
-a puzzle, all similar but with subtle distinctions. As a result, the
-Bloomsbury companion would likely overwhelm less experienced readers.
-Scholars and graduate students, however, will be glad to have this kind of
-comprehensive coverage of central Socratic questions all in one place.
-(Greek is never required. The scattered references to specific words are
-all transliterated.)
+Socrates</i>[[2]] and the companion under review are similar in topics and
+approach. In fact, eight topics and two authors appear in both volumes.
+However, they still differ greatly in audience. The Cambridge companion is
+well-suited to undergraduates or non-expert readers seeking a clear, brief
+introduction to central topics in the philosophy of Socrates. The volume
+under review, on the other hand, covers the same topics but provides a far
+more detailed look at the last 30 years of scholarship. These reviews of
+the literature are quite detailed. Scholars and graduate students will be
+glad to have comprehensive overviews of central Socratic questions all in
+one place, but the Bloomsbury companion might overwhelm less experienced
+readers. (Greek, however, is never required. The scattered references to
+specific words are all transliterated.)
 
 Robin Waterfield opens the book by reviewing the evidence for the
 historical figure of Socrates. He makes a forceful case for extreme
@@ -47,12 +44,12 @@ Iakovos Vasiliou begins his chapter on Socratic irony with what he calls
 play. Play is that feature of Plato's Socrates that <i>forces</i> readers
 to wonder if Socrates is serious. Vasiliou contrasts this playfulness with
 most philosophical writing. As he says, no one asks whether Aristotle or
-Kant is serious. It barely makes sense even to ask that about such authors.
-This suggests to me, though Vasiliou doesn't put it quite this way, that
-philosophical readers of Plato who ignore the play are being intellectually
-dishonest. They cannot simply claim that they care only about truth and the
-arguments, since if they ignore the play, they are likely not even to know
-what Socrates actually claims.
+Kant is serious. The question barely makes sense for such authors. This
+suggests to me, though Vasiliou doesn't put it quite this way, that
+philosophical readers of Plato who ignore the play face a problem. They
+cannot simply say that they care only about truth and the arguments,
+since if they ignore the play, they are likely not even to know what
+Socrates actually claims.
 
 David Wolfsdorf's essay considers Socratic methodology, broadly speaking,
 with a particular focus on the elenchus. Unlike all the other
@@ -64,42 +61,43 @@ only. I appreciate Wolfsdorf's intention to preserve "the integrity" (35)
 of other views, but I wish that he had done more to give the ideas
 a narrative arc.
 
-William Prior convincingly argues that Socrates has a metaphysics. He
-should not be viewed only as a moral thinker. Using evidence from
-<i>Euthyphro</i> and <i>Hippias Major</i>, Prior demonstrates that the
-Socratic pursuit of definitions relies on a theory of forms that resembles
-the more famous Platonic theory in numerous respects. As such, Prior also
-argues for continuity between the early and middle dialogues in this
-regard.
+William Prior convincingly argues that Socrates has a metaphysics and that
+he he is not only a moral thinker. Using evidence from <i>Euthyphro</i> and
+<i>Hippias Major</i>, Prior demonstrates that the Socratic pursuit of
+definitions relies on a theory of forms that resembles the more famous
+Platonic theory in numerous respects. As such, Prior also argues for
+continuity between the early and middle dialogues in this regard rather
+than a radical break.
 
 Keith McPartland carefully charts the diverse interpretations of Socratic
 ignorance. He also takes seriously Socrates' occasional avowals of
 knowledge as well as the surprising confidence (even arrogance) that
-Socrates has in his own opinions. McPartland favors an interpretation that
-Socrates distinguishes between an extraordinarily strong cognitive state
-that he lacks and more everyday knowledge that he possesses. Although
-I agree that this can be a logically consistent position, I'm less
-convinced that it can be psychologically stable. Socrates insists that the
-superhuman cognitive state is <i>essential</i> for happiness
-(<i>eudaimonia</i>) and that he (and everyone he has ever met) fails to
-reach this state. Why does that not eat away at his arrogance? Why does
-that not open up sceptical doubts about even the true beliefs that he
-possesses "based on a warrant sufficient for unhedged assertion and full
-confidence" (135)? (I view this more as a lingering problem about Socrates
-than a criticism of McPartland's essay.)
+Socrates frequently displays. According to McPartland, Socrates
+distinguishes between an extraordinarily strong cognitive state that he
+lacks and more everyday knowledge that he possesses. Although I agree that
+this can be a logically consistent position, I'm less convinced that it can
+be psychologically stable. Socrates insists that the superhuman cognitive
+state is <i>essential</i> for happiness (<i>eudaimonia</i>) and that he
+(and everyone he has ever met) does not possess such knowledge. Why does
+that not eat away at his arrogance? Why does that not open up sceptical
+doubts about even the true beliefs that he possesses "based on a warrant
+sufficient for unhedged assertion and full confidence" (135)? I take this
+to be a reminder that there <i>is</i> something very paradoxical about
+Socrates' attitudes rather than an argument against McPartland's
+interpretation.
 
-Hugh H. Benson makes a strong case that Socrates is committed to a principle
-of priority of definition. Roughly: If someone fails to know what F is,
-then that person fails to know anything about F. Even more interestingly,
-however, Benson argues that many recent denials of this are based far more
-on contemporary philosophical concerns than what Socrates says. Benson
-responds to the philosophical concerns by arguing that it is those concerns
-that are flawed more than Socrates' commitment to the priority of
-definition. In response to Peter Geach's famous claim that "We know heaps
-of things without being able to define" terms (quoted on 155), Benson
-relies on something like McPartland's strong view of knowledge. He argues
-that we may have justified true beliefs about such things, but we don't, in
-a Socratic sense, possess knowledge about them.
+Hugh H. Benson makes a strong case that Socrates is committed to
+a principle of priority of definition. Roughly: If someone fails to know
+what F is, then that person fails to know anything about F. Even more
+interestingly, however, Benson argues that many recent denials of this are
+based on contemporary philosophical concerns more than what Socrates says.
+Benson responds to the philosophical concerns by arguing in favor of the
+principle of priority of definition himself. In response to Peter Geach's
+famous claim that "We know heaps of things without being able to define"
+terms (quoted on 155), Benson relies on something like McPartland's strong
+view of knowledge. He argues that we may have justified true beliefs about
+such things, but we don't, in a Socratic sense, possess knowledge about
+them.
 
 Naomi Reshotko reviews the Socratic understanding of <i>eudaimonia</i>, the
 "central value and supreme goal of a human life" (156). According to
@@ -108,11 +106,11 @@ a theoretical manner. This leads her to argue that most commentators are
 misguided when they seek necessary and sufficient conditions for
 <i>eudaimonia</i> in Socratic arguments. Even more radically, Reshotko
 argues that Socrates identifies our ultimate goal as omniscience.[[3]] In
-an effort to be happy, we would ideally know literally everything. Reshotko
-grants that this goal is impossible, but maintains that "Socrates thought
-there was a great deal to be gained by trying" (158). I'm honestly unsure
-of what to make of this, but the chapter is challenging and well-worth
-reading for more traditional interpreters of Socratic ethics.
+an effort to be happy, we should strive to know literally everything.
+Reshotko grants that this goal is impossible, but maintains that "Socrates
+thought there was a great deal to be gained by trying" (158). I'm honestly
+unsure of what to make of this, but the chapter is challenging and
+well-worth reading for more traditional interpreters of Socratic ethics.
 
 In the next chapter, Thomas C. Brickhouse and Nicholas D. Smith provide an
 exemplary contrast with Reshotko. While Reshotko tries to argue primarily
@@ -144,23 +142,23 @@ Curtis Johnson suggests that we can solve the disagreement between an
 (apparently) liberal or disobedient <i>Apology</i> and an (apparently)
 authoritarian <i>Crito</i> by interpreting <i>Apology</i> as more
 authoritarian than it initially seems. (This is a minority view. Most
-readers try to make <i>Crito</i> more liberal instead.) However, he also
-suggests that, in addition to following the commands of human or divine
-superiors, Socrates will also follow the argument (<i>logos</i>) that seems
-best to him on each occasion. I worry that this opens up a huge potential
-for conflict between the state and an agent's belief about the best
-argument, and Johnson doesn't address this potential problem.
+readers try to make <i>Crito</i> more liberal instead.) However, Johnson
+also argues that, in addition to following the commands of human or divine
+superiors, Socrates will follow the argument (<i>logos</i>) that seems best
+to him on each occasion. I worry, however, that this opens up a huge
+potential for conflict between what the state commands and what an agent
+believes is the best argument. Johnson does not discuss how Socrates might
+have balanced these demands in the face of such a conflict.
 
-At the end of his chapter on Socratic theology and piety, Mark McPherran
-examines the formal accusations of impiety made against Socrates. In
-a previous section McPherran offers an attractive explanation of the
-religious views of Socrates, but that explanation has little in common with
-what Socrates says in his own defense at trial. Charges of "Why didn't
-Socrates just say that?" are tricky, but nevertheless I'm struck by the gap
-between what Socrates says on his own behalf and how McPherran explains his
-views. Most troublesome is that McPherran says that Socrates is "obliged"
-by Meletus to focus on atheism (274 and see also 272), but it is Socrates
-who leads Meletus to atheism in the first place.
+In his chapter on Socratic theology and piety, Mark McPherran offers an
+attractive explanation of the religious views of Socrates. However,
+McPherran's description has little in common with what Socrates says in his
+own defense at trial. Charges of "Why didn't Socrates just say that?" are
+potentially unfair, but nevertheless I'm struck by the gap between what
+Socrates and McPherran say about Socrates' religious views and practice.
+Most troublesome is that McPherran says that Socrates is "obliged" by
+Meletus to focus on atheism (274 and see also 272), but it is Socrates who
+leads Meletus to atheism in the first place.
 
 Using a four-part taxonomy of <i>mania</i> from Plato's <i>Phaedrus</i>,
 John Bussanich categorizes and examines the various religious experiences
@@ -170,12 +168,12 @@ person or the character of the same name in the writings of Plato and
 Xenophon.
 
 Rather than a purely political or purely religious motivation, Mark
-Ralkowski argues for a mixed-motivation explanation of the trial and
-conviction of Socrates. Socrates was certainly anti-democratic, but that
+Ralkowski argues that the trial and conviction of Socrates had mixed
+motives. Socrates was anti-democratic, according to Ralkowski, but that
 doesn't mean that he was pro-oligarchy. Instead he was an idealist.
 Nevertheless, his anti-democratic statements might easily lead the city and
 the jury to find him threatening, especially given the political climate of
-399. In addition, the religious <i>was</i> political to the ancient
+399 BCE. In addition, the religious <i>was</i> political to the ancient
 Athenians. Socrates' private <i>daimonion</i> would have set him apart from
 the rest of the city in a threatening manner.
 

@@ -31,7 +31,7 @@ the bibliography has no entry for Nozick.  The missing reference is Robert
 Nozick, "Socratic Puzzles", <i>Phronesis</i> (40), 2, 1995, 143-155.
 
 In Chapter 8 on page 194, the authors switch very rapidly between "we" and
-"they" when discussing an earlier article that they wrote. One sentence
-begins "If we are right about this", but the next starts "In this way, then
-on their view..." In the same chapter, on page 198 in the block quote on
-the top left, "philosophy bin general" should read "philosophy in general."
+"they" when discussing an article that they wrote. One sentence begins "If
+we are right about this", but the next starts "In this way, then on their
+view..." In the same chapter, on page 198 in the block quote on the top
+left, "philosophy bin general" should read "philosophy in general."

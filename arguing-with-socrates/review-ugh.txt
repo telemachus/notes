@@ -1,0 +1,167 @@
+Warne, Christopher. Arguing with Socrates: an introduction to Plato's shorter dialogues. London; New York: Bloomsbury Academic, 2013. xii, 209 p. $27.95 (pb). ISBN 9781441195449.
+
+Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
+
+<u n=http://books.google.com/books?id=gjLW-upBJ84C&dq>Preview</u>
+
+Although I have some reservations, Christopher Warne provides helpful
+introductions to the arguments of several popular Platonic dialogues. The
+book should provoke and challenge readers, but it may also mislead them
+(and frustrate their teachers). After a brief overview of the book's aims
+and contents, I will discuss where I think the book fails and where it
+succeeds.
+
+As Warne implies in the preface, this volume intends to meet the needs of
+early-level undergraduates by focusing on "the stories and themes of the
+individual dialogues". In particular, Warne strives to look at the
+dialogues in a very specific manner. He cares predominantly about arguments
+rather than history or personalities. He wishes to read the dialogues
+individually: a problem in <i>Meno</i>, for example, should not receive an
+explanation that relies on arguments from <i>Protagoras</i>. Additionally,
+Warne admits that he sometimes puts forward "controversial" claims in "a
+deliberate attempt to stimulate the reader" (xi). Warne does not, for the
+most part, argue towards his own conclusions. Instead he tends to proceed
+dialectically, considering different arguments without making any final
+determination.
+
+The book contains two sections of very unequal length. Part One, at 31
+pages, includes two chapters: 'People' and 'How Socrates argues'. The first
+discusses Socrates, the interlocutors and Plato. The second covers central
+issues in Socratic methodology: the elenchus, "What is F?" questions,
+epistemology, epagoge and irony (both Socratic and Platonic). Part Two, at
+147 pages, includes nine chapters, each on a different Platonic dialogue:
+<i>Apology</i>, <i>Crito</i>, <i>Hippias Major</i>, <i>Ion</i>,
+<i>Laches</i>, <i>Meno</i>, <i>Protagoras</i> and <i>Symposium</i>. Each
+chapter in the second half of the book contains five sub-sections, always
+in the same order: (1) an introduction, (2) a review of the dialogue's
+dramatic situation, (3) a look at a key theme from the dialogue in
+a general fashion, without any specific reference to the dialogue or its
+ancient Greek setting,[[1]] (4) a more detailed look at specific arguments
+in the text and (5) a conclusion. Section (4) is always the longest of the
+five sections, though sections (2) and (3) often play important roles as
+well.
+
+The book treats historical and biographical matters in a fickle and frankly
+dangerous manner. On the one hand, Warne frequently disclaims expertise or
+a deeper interest in history or biography[[2]]. On the other hand, he
+discusses history often. My concern is two-fold: first, he often fails to
+give proper references for his claims; second, he often fails to make clear
+how dubious or controversial his ideas are. In combination, these flaws
+make it nearly impossible for the book's target audience (introductory
+level philosophy students) to assess Warne's suggestions. Warne says
+explicitly, both in his preface and in Chapter 1 (where history is most at
+issue), that he sometimes deliberately says controversial things. But
+I think it's very different to play devil's advocate on philosophical
+matters as opposed to historical ones. A student can indepently assess
+philosophical claims using only her reason and the text, but she cannot do
+the same for historical or biographical assertions. I'll discuss a few
+examples below to make my concerns clearer.
+
+To begin, let's consider two short examples. Warne writes casually that
+Socrates "possibly worked as a mason or a usurer" (5). This off-hand
+comment follows very shortly after Warne says that "our concern is Socrates
+the character in Plato's shorter dialogues and not Socrates the man" (4).
+This suggests Plato as a source, but I strongly suspect, despite this, that
+Warne has Diogenes Laertius in mind when he imagines Socrates as a money
+lender (DL II 20).[[3]] When considering the notoriously difficult question
+of where (if anywhere) we can find Plato's views in the Socratic dialogues,
+Warne cites the allegedly Platonic Second Letter (183). Warne says nothing
+about the doubts concerning <i>all</i> the so-called Platonic letters, much
+less the specific doubts over this one. Again, a naive reader is likely to
+take the citation at face value.
+
+Before moving off this subject, I want to consider one longer example.
+Warne refers to the excellent reputation Socrates had as a soldier, but he
+attempts to undercut this in two ways. First he says "Although he was
+by all accounts a brave soldier, he excelled himself in <i>retreat</i>"
+(5)[[4]]. Second, Warne notes that Socrates saved Alcibiades in battle, but
+he informs the reader that Alcibiades was "a controversial figure who would
+later betray the Athenians" (5). In the spirit of charity, Warne may
+mention Alcibiades only to show that (some?) Athenians may have resented
+Socrates on this account. Nevertheless, that seems to offer support to
+a poor line of reasoning. Do we really want to criticize a soldier for
+saving the life of a fellow soldier because the saved man went on to do bad
+things? And to describe Socrates as being excellent at retreat does not at
+all do justice to the relevant Platonic passages. For example, when Laches
+describes Socrates at the retreat from Delium, he emphatically does not say
+"Socrates retreated very bravely" but rather "if the other Athenians had
+fought like Socrates, we wouldn't have lost the battle. There would not
+have been a retreat" (<i>Laches</i> 181b).
+
+On the principle of charity, we can consider these views to be deliberately
+provocative rather than Warne's own considered opinion, but that's still of
+limited help here. Although it may make good sense to offer deliberately
+provocative philosophical opinions in an attempt to make students think for
+themselves and not be complacent, I can't see how the same applies to these
+biographical assertions. Even if Warne is only playing devil's advocate,
+why would he want to encourage students even to consider diminishing our
+assessment of Socrates by calling his bravery into question or associating
+him with dubiously ethical money-lending practices?
+
+[[1]] It is easier to give examples than to explain these sections. The
+chapter on <i>Laches</i>, for example, talks about courage generally and
+the the chapter on <i>Crito</i> talks about obedience to the law.
+
+[[2]] For example, see pages 4 and 35 (both at the bottom of the page).
+
+[[3]] My argument for this is simple: I don't believe Plato every suggests
+that Socrates lent out money to collect interest. Plato's Socrates doesn't
+seem to have excess money to use that way, and I think what he says about
+money and ethics suggests he would find such a living repugnant.
+
+[[4]] The emphasis is Warne's. In a footnote here, Warne also acknowledges
+Alan Bloom's <i>The Closing of the American Mind</i>.
+
+--- Deleted for the moment
+
+The chapter on 'People' is unfortunately the weakest in the book. Perhaps
+Warne is within his rights to say that he will not even try to discuss the
+Socratic problem. Instead he proposes to discuss only Socrates the
+character that appears in Plato's shorter dialogues.[[2]] However, this is
+not what he actually does. Instead, he passes along unattributed ancient
+gossip. For example, he writes that Socrates "possibly worked as a mason or
+usurer." He does not say where this speculations come from. Once he opens
+such doors, Warne owes it to his readers to cite references and to discuss,
+at least briefly, the credibility or otherwise of our ancient sources. In
+his very brief overview of Plato's life later in the same chapter, Warne
+takes issue with a common portrait of Plato's career. He writes, "Pascal
+confounded this picture of Plato the academic: 'We always picture Plato and
+Aristotle wearing long academic gowns, but they were ordinary decent people
+... who enjoyed a laugh with their friends ... if they wrote about politics
+it was as if to lay down rules for a madhouse'."[[3]] I don't think I fully
+understand what Pascal is getting at there, but much more importantly, how
+could this vague, airy bit of Pascal possibly "confound" our understanding
+of Plato's career? Pascal seems to be simply asserting his view of Plato
+and Aristotle -- "ordinary decent people" -- and again Warne does not tell
+the reader <i>why</i> this should move us. In sum, I would not recommend
+students read this chapter, and I would likely warn them against taking it
+at face value, in case they did decide to read it. It is unhelpful at best
+and positively harmful at worst.
+
+In his preface, Warne writes that he had a hard time finding secondary
+literature on Plato that met his "needs as a second-year undergraduate"
+(xi). In one sense, this is surely surprising since introductory works on
+Plato have always been so numerous. But Warne goes on to make clear that he
+wasn't looking for just any introductory book: "Frequently, arguments
+appeared to ahve been plucked from dialogues and appraised with reference
+to remarks in other dialogues, which left little sense of [the] whole from
+which they were taken"[[1]] (xi). Apparently Warne didn't want just any
+introduction to Plato and that the introduction he has written has
+a specific aim. Although I have concerns about a number of Warne's choices,
+overall this book does admirably succeed in its purpose of providing
+stimulating introductions to the arguments of individual dialogues with
+little or no reference to other works by Plato (much less other ancient
+authors).
+
+Although I have serious reservations about aspects of this book, overall
+Christopher Warne admirably succeeds in his purpose of providing stimulating
+introductions to the arguments of individual dialogues.
+
+[[1]] There is a small typo here: the word 'the' is not present in the
+original.
+
+[[2]] See below for questions about Warne has in mind by "Plato's shorter
+dialogues".
+
+[[3]] The ellipses are Warne's. I have reproduced the quotation exactly as
+he gives it.

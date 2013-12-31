@@ -3,3 +3,104 @@ Warne, Christopher. Arguing with Socrates: an introduction to Plato's shorter di
 Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
 
 <u n=http://books.google.com/books?id=gjLW-upBJ84C&dq>Preview</u>
+
+It would be difficult to overstate how much work it takes to treat Socrates
+and Plato like "normal" philosophers. And that's not even the <i>really</i>
+shocking thing. The really shocking thing is that most of the time we don't
+even notice how far outside of normal the two of them are as philosophers
+because other people have already done the work for us, and we simply take
+their results for granted. Although I have serious reservations about
+Christopher Warne's <i>Arguing with Socrates</i>, I want to start by
+commending it for not completely glossing over the problems we face if we
+want to talk about Socrates (and Plato) as part of the history of
+philosophy.
+
+Let me start by briefly explaining the abnormality of Socrates and Plato.
+Socrates, and this is well known, wrote no philosophy. As a result,
+whatever philosophical views we attribute to him we get secondhand (at
+best—though often not even that directly). The three best known sources,
+Aristophanes, Plato and Xenophon, are respectively a comedian, a writer of
+conversational dramas and a historian. The picture we get of Socrates from
+their works is, to put it mildly, very disparate. The character named
+'Socrates' says wildly different things from author to author. Also, and
+this is less often admitted, even within the works of one of these authors
+Socrates contradicts himself frequently. Now as for Plato, I just described
+him, unhelpfully, as a writer of conversational dramas. That was not
+entirely serious. I don't actually know what to call the works of Plato.
+Like many people, I'll usually write 'dialogues', but that's a bit of a cop
+out. I do know, however, that they are not philosophy, as that word is
+commonly used now. Certainly Plato's writings are filled with arguments,
+and the characters in his works talk constantly about topics that are
+central to philosophy: ethics, metaphysics, epistemology. But so are the
+works of Kafka or Borges or Dostoyevsky. And yet, we all know that Plato is
+a philosopher, while those other three wrote fiction. For the moment,
+I don't want to challenge either categorization, but I do want to stress
+that neither is obvious.
+
+In the face of what I've described we have two choices, speaking very
+generally. We can face the weirdness or we can ignore it. Most people,
+honestly, ignore it. You can tell pretty easily when someone is ignoring
+the peculiarity of Plato: they write things like "Plato says..." or "Plato
+believes", and when you look up the reference, Socrates or Alcibiades or
+Theaetetus will be speaking.[[1]] The same goes for Socrates, mutatis
+mutandis, though in his case the problems are vastly magnified.
+
+In order to make this more concrete, and before (finally) getting to the
+book I'm supposed to be reviewing here, let me say a little about Plato's
+<i>Laches</i>. In this dialogue two fathers, Lysimachus and Melesias, ask
+two generals, Nicias and Laches, advice about whether or not to train their
+sons in hoplite combat. Laches recommends inviting Socrates, who just
+happens to be around, to join the discussion, and everyone readily agrees.
+After a relatively long section of prepatory back and forth, the
+philosophical topic of the dialogue emerges: What is courage? The generals
+propose various answers, all of which Socrates knocks down. The dialogue
+ends with Socrates promising to visit Lysimachus "tomorrow"[[2]] so that they
+can look for a better teacher to help them all out.
+
+The historical ironies of <i>these</i> men discussing <i>this</i> topic are
+especially painful. The dramatic date is sometime between 424, when
+Socrates and Laches fought together at the battle of Delium, and 418, when
+Laches died at the battle of Mantinea. But the dialogue wasn't written or
+made public until far later, at the earliest not until after 399, the year
+that Socrates died. Within the dialogue, Nicias and Laches are
+well-respected Athenian generals and Socrates is invited to join the
+discussion since he takes a special interest in the education of young
+people. For the reader, however, all of this is bitter in hindsight. Both
+Laches and Nicias have lost their lives as commanders at battles that were
+disastrous for the Athenians.[[3]] A jury of some 500 of Socrates's peers
+has condemned him to death for "corrupting the young". Surely these can't
+be the best experts on military education, courage and how to raise young
+men?
+
+But these sorts of historical ironies, and they are <i>everywhere</i> in
+Plato's dialogues, are nearly impossible to apply philosophically. That is,
+we can talk more or less vaguely about suggestions, tone, foreboding,
+foreshadowing or pathos, but how exactly are we to turn any of this into
+a premise in an argument? It is perhaps for this reason that so many
+philosophers simply ignore the dramatic elements of the dialogues. There's
+no clear way to turn these sorts of features into arguments. And arguments
+are what philosophy demands.
+
+So what's all this got to do with Warne's new book? (Circle back. Review
+the book: good on dialectical introduction to arguments; very poor on
+history; only so-so on deeper interaction of drama and philosophy.)
+
+[[1]] Let me stress that I am not belittling this approach. I think that it
+has been enormously fruitful. And in fact at least one author has used this
+very productivity as an argument on behalf of reading Plato's dialogues in
+a "doctrinal" manner. Terrence Irwin, in the preface to <i>Plato's
+Ethics</i>, suggests that "a doctrinal approach will be most convincing if
+it allows us to attribute a significant philosophical position to Plato"
+(viii). In effect, the proof is in the eating. I think this argument, as
+well as the doctrinal approach to Plato, has a great deal in its favor. My
+point here, however, is that we can be misled into thinking that such an
+approach is the <i>default</i> when it is anything but.
+
+[[2]] Promises like this of more discussion "later" or "tomorrow" often
+appear in Platonic dialogues. Like the promised poems of lyric poets,
+tomorrow never comes. (Cf. Elroy Bundy <i>Studia Pindarica</i>, 21.) It
+appears to be a literary device in Plato: a way for him to highlight the
+incompleteness or failure of present arguments perhaps?
+
+[[3]] Laches at Mantinea in 418, as I said above, and Nicias in 413, during
+the Sicilian Expedition.

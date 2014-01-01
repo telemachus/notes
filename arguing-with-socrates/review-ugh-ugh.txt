@@ -15,19 +15,18 @@ commending it for not completely glossing over the problems we face if we
 want to talk about Socrates (and Plato) as part of the history of
 philosophy.
 
-Let me start by briefly explaining the abnormality of Socrates and Plato.
-Socrates, and this is well known, wrote no philosophy. As a result,
+Let me start by briefly explaining the problems concerning Socrates and
+Plato. Socrates, and this is well known, wrote no philosophy. As a result,
 whatever philosophical views we attribute to him we get secondhand (at
 best—though often not even that directly). The three best known sources,
 Aristophanes, Plato and Xenophon, are respectively a comedian, a writer of
-conversational dramas and a historian. The picture we get of Socrates from
 their works is, to put it mildly, very disparate. The character named
 'Socrates' says wildly different things from author to author. Also, and
 this is less often admitted, even within the works of one of these authors
 Socrates contradicts himself frequently. Now as for Plato, I just described
 him, unhelpfully, as a writer of conversational dramas. That was not
 entirely serious. I don't actually know what to call the works of Plato.
-Like many people, I'll usually write 'dialogues', but that's a bit of a cop
+Like many people, I usually write 'dialogues', but that's a bit of a cop
 out. I do know, however, that they are not philosophy, as that word is
 commonly used now. Certainly Plato's writings are filled with arguments,
 and the characters in his works talk constantly about topics that are
@@ -45,8 +44,21 @@ believes", and when you look up the reference, Socrates or Alcibiades or
 Theaetetus will be speaking.[[1]] The same goes for Socrates, mutatis
 mutandis, though in his case the problems are vastly magnified.
 
-In order to make this more concrete, and before (finally) getting to the
-book I'm supposed to be reviewing here, let me say a little about Plato's
+In this new book, Christopher Warne faces some of these problems, and the
+result is a somewhat unusual blend of analytic treatment of arguments
+combined with dramatic interpretation. Although I have some reservations,
+Warne provides thoughtful introductions to several popular Platonic
+dialogues. The book should provoke and challenge readers, though I will
+also argue that it may mislead them. After a brief overview of the book's
+aims and contents, I will discuss particular strengths and weaknesses.
+
+--- Shelved for now
+
+So what's all this got to do with Warne's new book? (Circle back. Review
+the book: good on dialectical introduction to arguments; very poor on
+history; only so-so on deeper interaction of drama and philosophy.)
+
+In order to make this more concrete, let me say a little about Plato's
 <i>Laches</i>. In this dialogue two fathers, Lysimachus and Melesias, ask
 two generals, Nicias and Laches, advice about whether or not to train their
 sons in hoplite combat. Laches recommends inviting Socrates, who just
@@ -54,8 +66,8 @@ happens to be around, to join the discussion, and everyone readily agrees.
 After a relatively long section of prepatory back and forth, the
 philosophical topic of the dialogue emerges: What is courage? The generals
 propose various answers, all of which Socrates knocks down. The dialogue
-ends with Socrates promising to visit Lysimachus "tomorrow"[[2]] so that they
-can look for a better teacher to help them all out.
+ends with Socrates promising to visit Lysimachus "tomorrow"[[2]] so that
+they can look for a better teacher to help them all out.
 
 The historical ironies of <i>these</i> men discussing <i>this</i> topic are
 especially painful. The dramatic date is sometime between 424, when
@@ -80,10 +92,6 @@ a premise in an argument? It is perhaps for this reason that so many
 philosophers simply ignore the dramatic elements of the dialogues. There's
 no clear way to turn these sorts of features into arguments. And arguments
 are what philosophy demands.
-
-So what's all this got to do with Warne's new book? (Circle back. Review
-the book: good on dialectical introduction to arguments; very poor on
-history; only so-so on deeper interaction of drama and philosophy.)
 
 [[1]] Let me stress that I am not belittling this approach. I think that it
 has been enormously fruitful. And in fact at least one author has used this

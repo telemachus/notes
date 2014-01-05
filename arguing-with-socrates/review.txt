@@ -9,16 +9,12 @@ Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
 Christopher Warne does two things especially well in this new book. First,
 he skillfully combines two approaches to Plato that commonly clash.
 Following Debra Nails,[[1]] we can call these the literary-contextualist
-and the analytic-developmentalist styles. The first reads individual
-dialogues closely and independently, paying careful attention to literary
-techniques and historical allusions. The second cares almost solely for
-arguments, downplays the dramatic structure of Plato's writing and happily
-puts together arguments on the basis of premises drawn from multiple
-dialogues. The second strength of <i>Arguing with Socrates</i> is that it
-forces readers to think for themselves. Warne generally proceeds
-dialectically: he looks at arguments from many sides, but doesn't argue for
-his own conclusions. For both reasons this book should prove very useful to
-its target audience, namely early-level undergraduates.
+and the analytic-developmentalist styles.[[2]] Second, <i>Arguing with
+Socrates</i> forces readers to think for themselves. Warne generally
+proceeds dialectically: he looks at arguments from many sides, but he
+rarely argues for his own conclusions. For both reasons this book should
+prove very useful to its target audience, namely early-level
+undergraduates.
 
 The book contains two main sections. The first, which is much briefer at 28
 pages, has two chapters: 'People' and 'How Socrates argues'. The second
@@ -35,10 +31,10 @@ in the book. Warne manages to introduce students briefly but clearly to
 central questions about Socratic methodology. He covers the
 <i>elenchus</i>, Socratic definitions (i.e. the 'What is F-ness?'
 questions), Socratic ignorance and irony (both Socratic and Platonic). In
-addition, Warne provides excellent coverage of Socratic epagoge for
+addition, Warne provides excellent coverage of Socratic <i>epagoge</i> for
 non-specialists. In particular, he explains that most of the arguments
-employing epagoge are not inductive proofs but rather illustrations that
-reveal the concept of a universal to interlocutors (and readers).
+employing <i>epagoge</i> are not inductive proofs but rather illustrations
+that reveal the concept of a universal to interlocutors (and readers).
 
 The chapters on individual dialogues all follow the same structure. For
 each dialogue, Warne considers (1) the dramatic situation, (2) the central
@@ -72,42 +68,43 @@ pride of place, but he also considers Aristophanes and Xenophon, among
 others. Taylor and Warne are both pitched at a very introductory level, but
 Rudebusch makes more demands on his readers. Rudebusch and Warne are very
 much aimed at philosophers, while Taylor would also suit Classicists or the
-elusive "general reader".
+elusive general reader.
 
 As much as these three books overlap, they each have distinct best uses.
 Taylor provides the best introduction to Socrates as a historical
 individual, and Rudesusch offers the most challenging and detailed
 interpretation of Socratic philosophy <i>as a whole</i>. Warne, however,
 gives the most guidance to less experienced students. In particular, he
-does the most to walk such students carefully through the arguments of the
-nine dialogues he covers. He shows students, by example, how to analyze and
+does the most to walk readers carefully through the arguments of the nine
+dialogues he covers. He shows students, by example, how to analyze and
 assess philosophical claims. <i>Arguing with Socrates</i> would be
-especially useful for first- or second-year students who were new to
-writing philosophical papers. Since Warne poses questions rather than
-giving answers, there is still plenty of room for students to explore their
-own views, but Warne has prepared the ground well for them in advance.
+especially useful for first- or second-year undergraduates who were new to
+writing philosophical papers. Warne poses questions and weighs potential
+answers, but he doesn't usually make final decisions. Thus there is still
+plenty of room for students to explore their own views, but Warne has
+prepared the ground well for them in advance.
 
 For such students, I recommend this book enthusiastically, but I do have
 one significant reservation. Warne is not always at his best when
-discussing history and biography. This is not surprising, since Warne says
-repeatedly that the book is meant to be for philosophers not historians. In
+discussing history and biography. This is not surprising since Warne says
+repeatedly that the book is meant for philosophers more than historians. In
 addition, Warne mentions that he sometimes makes deliberately provocative
-historical claims in order to stimulate readers[[2]]. But whether he is
-playing devil's advocate or simply not being sufficiently critical, he
-makes a number of claims that concern me. For example, Warne says, without
-any further elaboration, that Socrates may have worked as a mason or
-a usurer (5). He treats the Second Letter as evidence for Plato's views as
-an author (183). And Warne suggests that we might re-evaluate the courage
-Socrates displayed as a soldier since "he excelled himself in
-<i>retreat</i>" (5).[[3]]
+historical claims in order to stimulate readers[[3]]. Whether he is playing
+devil's advocate or simply not being sufficiently critical, he makes
+a number of claims that concern me. For example, Warne says, without any
+further elaboration, that Socrates may have worked as a mason or a usurer
+(5). He treats the Second Letter as evidence for Plato's views as an author
+(183). And Warne suggests that we might re-evaluate the courage Socrates
+displayed as a soldier since "he excelled himself in <i>retreat</i>"
+(5).[[4]]
 
 The overwhelming majority of these questionable claims or provocations
 appear in Chapter 1, 'People'. To be frank, I would recommend that students
-skip this chapter. Playing devil's advocate can work well for philosophical
-arguments, since a student needs only patience and thought to respond
-there. But in the case of historical facts, students are not easily able to
-assess Warne's claims, especially since he often omits mention of his
-(ancient or modern) sources. As a result, I think that Chapter 1 is the
+skip this chapter altogether. Playing devil's advocate can work well for
+philosophical arguments, since a student needs only patience and thought to
+respond there. But in the case of historical facts, students are not easily
+able to assess Warne's claims, especially since he often omits mention of
+his ancient or modern sources. As a result, I think that Chapter 1 is the
 exception in an otherwise very student-friendly and useful book about
 Plato's Socrates.
 
@@ -120,13 +117,19 @@ Chapter 1) I recommend it very strongly.
 n=http://plato.stanford.edu/entries/socrates/#2.2>Nail's article on
 Socrates</u> from the Stanford Encyclopedia of Philosophy.
 
-[[2]] See pages 4 and 7 in the first chapter. In a similar spirit, note
+[[2]] The first appraoch reads individual dialogues closely and
+independently, paying careful attention to literary techniques and
+historical allusions. The second cares almost solely for arguments,
+downplays the dramatic structure of Plato's writing and happily puts
+together arguments on the basis of premises drawn from multiple dialogues.
+
+[[3]] See pages 4 and 7 in the first chapter. In a similar spirit, note
 what Warne says on page xi of the preface.
 
-[[3]] The emphasis is Warne's. I find this suggestion particularly
+[[4]] The emphasis is Warne's. I find this suggestion particularly
 outrageous. It runs directly against the clear implication of the passage
-Warne seems to have in mind. What Laches says in that passage
-(<i>Laches</i> 181B) is that if the Athenian army had possessed more
-soldiers like Socrates <i>they would not have needed to retreat at all</i>.
-That is, they would have won the battle of Delium. It is sheer bad faith to
-turn this into "Socrates was a great soldier—when he was running away."
+Warne seems to have in mind. What Laches says there (<i>Laches</i> 181B) is
+that if the Athenian army had possessed more soldiers like Socrates <i>they
+would not have needed to retreat at all</i>.  That is, they would have won
+the battle of Delium. It is bad faith to turn this into "Socrates was
+a great soldier—when he was running away."

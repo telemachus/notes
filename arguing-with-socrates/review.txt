@@ -81,7 +81,7 @@ assess philosophical claims. <i>Arguing with Socrates</i> would be
 especially useful for first- or second-year undergraduates who were new to
 writing philosophical papers. Warne poses questions and weighs potential
 answers, but he doesn't usually make final decisions. Thus there is still
-plenty of room for students to explore their own views, but Warne has
+plenty of room for students to explore their own views, and Warne has
 prepared the ground well for them in advance.
 
 For such students, I recommend this book enthusiastically, but I do have
@@ -89,7 +89,7 @@ one significant reservation. Warne is not always at his best when
 discussing history and biography. This is not surprising since Warne says
 repeatedly that the book is meant for philosophers more than historians. In
 addition, Warne mentions that he sometimes makes deliberately provocative
-historical claims in order to stimulate readers[[3]]. Whether he is playing
+historical claims in order to stimulate readers.[[3]] Whether he is playing
 devil's advocate or simply not being sufficiently critical, he makes
 a number of claims that concern me. For example, Warne says, without any
 further elaboration, that Socrates may have worked as a mason or a usurer
@@ -117,7 +117,7 @@ Chapter 1) I recommend it very strongly.
 n=http://plato.stanford.edu/entries/socrates/#2.2>Nail's article on
 Socrates</u> from the Stanford Encyclopedia of Philosophy.
 
-[[2]] The first appraoch reads individual dialogues closely and
+[[2]] The first approach reads individual dialogues closely and
 independently, paying careful attention to literary techniques and
 historical allusions. The second cares almost solely for arguments,
 downplays the dramatic structure of Plato's writing and happily puts
@@ -130,6 +130,6 @@ what Warne says on page xi of the preface.
 outrageous. It runs directly against the clear implication of the passage
 Warne seems to have in mind. What Laches says there (<i>Laches</i> 181B) is
 that if the Athenian army had possessed more soldiers like Socrates <i>they
-would not have needed to retreat at all</i>.  That is, they would have won
+would not have needed to retreat at all</i>. That is, they would have won
 the battle of Delium. It is bad faith to turn this into "Socrates was
 a great soldier—when he was running away."

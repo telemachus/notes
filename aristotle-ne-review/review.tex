@@ -1,0 +1,90 @@
+% [[- LaTeX prelude
+\documentclass[11pt,letterpaper,oneside]{commentariat}
+\usepackage{fontspec}
+\setmainfont[Renderer=ICU,Mapping=tex-text,BoldFont={Gentium Basic Bold}]%
+    {Gentium Plus}
+\usepackage{titles}
+
+\newcommand{\chapterTitle}{}
+\newcommand{\comName}{Commentary}
+
+\makeatletter
+\renewcommand\contentsname{Contents}
+\let\oldChapter\chapter
+\renewcommand*\chapter{%
+    \@ifstar{\starchapter}{\@dblarg\nostarchapter}
+}
+\newcommand*\starchapter[1]{%
+    \oldChapter*{{#1}}%
+    \if@mainmatter%
+        \renewcommand{\chapterTitle}{{#1}}%
+        \addcontentsline{toc}{chapter}{{#1}}%
+    \fi
+}
+\def\nostarchapter[#1]#2{\oldChapter[{#1}]{{#2}}}
+\makeatother
+
+\newcommand{\sectionTitle}{}
+\newcommand{\intSec}[1]{%
+    \section*{{#1}}%
+    \addcontentsline{toc}{section}{{#1}}%
+    \renewcommand{\sectionTitle}{{#1}}%
+}
+\renewcommand\thesection{\arabic{section}}
+\setcounter{secnumdepth}{0}
+\usepackage{extramarks}
+\newcommand{\comment}[2]{%
+    \subsection{\ifx#2#1\relax{#1}\else{#1}--{#2}\fi}
+    \markright{#1}
+}
+\newcommand{\intHeader}{%
+    {\chapterTitle}: {\sectionTitle}%
+}
+\newcommand{\comHeader}{%
+    \edef\tempa{\rightmark}\edef\tempb{\lastrightmark}%
+    {\MakeUppercase{\chapterTitle}}: %
+    \rightmark\ifx\tempa\tempb\relax\else--\lastrightmark\fi
+}
+\usepackage{etoolbox}
+\renewcommand{\mymarks}{%
+    \expandafter\ifstrequal\chapterTitle{Commentary}%
+        {\comHeader}%
+        {\expandafter\ifstrequal\chapterTitle{Introduction}%
+            {\MakeUppercase{\intHeader}}%
+            {\MakeUppercase{\chapterTitle}}%
+        }%
+}
+
+\usepackage{natbib}
+\renewcommand{\bibsection}{\chapter{Bibliography}}
+\bibpunct{(}{)}{;}{a}{,}{,}
+\usepackage{enumitem}
+\setlist{noitemsep}
+\bibpunct{(}{)}{;}{a}{,}{,}
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage{lips}
+\usepackage{calc}
+\usepackage[linktoc=all]{hyperref}
+\pagestyle{myheadings}
+
+\newcommand\NE{\book{{N}icomachean {E}thics}}
+% -]]
+
+% [[- Document-
+\begin{document}
+
+\include{titlepage}
+
+\frontmatter
+ \include{toc}
+
+\mainmatter
+ \include{chapter1}
+
+\backmatter
+ \bibliographystyle{apa}
+ \bibliography{review}
+
+\end{document}
+% -]]

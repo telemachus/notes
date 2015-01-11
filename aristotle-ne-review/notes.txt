@@ -1,0 +1,53 @@
+An issue that appears in a number of contributions concerns cultural
+narrowness.[[1]]  In a nutshell, does Aristotle provide an account of happiness
+that applies to all people or is his account constrained in one or more ways by
+his cultural vantage? First, does Aristotle's account no longer apply to
+contemporary readers as a result of cultural change or distance? Second, does
+Aristotle's account apply even to all people of his own time and place? Or does
+it apply only to a very select group of wealthy, citizen males of 4th century
+Athens?[[2]]
+
+In the book's introduction, Ronald Polansky argues that Aristotle's ethics are
+not "pertinent only to his time" (9). Polansky's first argument is based on
+a well-known article of Elizabeth Anscombe.[[3]] They argue that Aristotle's
+approach to ethics is broader than modern ethics rather than narrower. Whereas
+modern philosophical ethics focuses solely on right action, the domain of
+morality, Aristotle considers far more: fear and courage, pleasure, the proper
+use of money. Polansky's second argument is far broader than this first one:
+<q>When Aristotle treats the virtues of character and intellect, he aims to be
+comprehensive. The eleven or so virtues of character intend to cover all that
+contributes to making actions and emotions appropriate. Virtues having to do
+with fear and confidence, bodily pleasures, money, honor, anger, social
+interactions, and fairness hardly seem antiquated, and they may deal with all
+the vital areas of practical life. Aristotle has virtues relating to sense of
+humor and expenditure on parties, not because they ancient Greeks had a culture
+so different from ours, different though it may be, but because these have
+a role in any culture, and they pertain to how we assess human lives.</q> (8).
+Polansky appears to claim here that (1) Aristotle indeed "may" deal with
+everything essential to a good life and (2) that nothing he includes is
+essential only to his culture.
+
+By way of considering Polansky's claims, we can examine two of the other essays
+in the volume. Hellen Cullyer admits that there is a <i>prima facie</i> case
+that Aristotle's views on magnificence, or large expenditures, may restrict the
+scope of his ethics to the very wealthy. However, she argues (following
+Pakaluk) that we can understand Aristotle to intend any "expenditures beyond
+those of normal household outlays" (138). In his chapter on phronesis and the
+virtues, Daniel C. Russell also considers Aristotle on magnificence as well as
+magnanimity, a character trait that appears restricted to people of "high
+social prominence" (216). Russell's specific concern is the reciprocity of the
+virtues.  Since Aristotle believes that a person must have all the virtues in
+order to possess any of them, a virtue that only applies to the very wealthy or
+the socially elite is a serious problem for his entire endeavor.
+
+A question I would add that none of these authors considers is this: Would
+Aristotle himself agree that his ethics applies to all humans? Clearly not,
+since he restricts it to mature adults (get reference). But even if we wave
+this more trivial objection, isn't it clear that Aristotle knows his account of
+ethics does not and cannot apply to women or slaves?
+
+[[1]] I've borrowed this term from Ronald Polansky's introduction.
+
+[[2]] Or perhaps wealthy male Greeks more generally.
+
+[[3]] "Modern Moral Philosophy" <i>Philosophy</i> (1958), 33, 1-19.

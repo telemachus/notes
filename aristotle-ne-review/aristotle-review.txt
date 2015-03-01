@@ -6,143 +6,32 @@ Peter Aronoff, Trinity School, peter.aronoff@trinityschoolnyc.org
 
 <u n=https://books.google.com/books?id=AjXkAwAAQBAJ>Preview</u>
 
-The Cambridge Companion to Philosophy series continues to devote ample
-attention to ancient philosophy. In 2007 the series began to publish companions
-to individual books of particular importance to philosophy in addition to
-companions to philosophers and schools. This excellent companion to Aristotle's
-<i>Nicomachean Ethics</i> (hereafter <i>NE</i>) is the third of the first
-twelve such volumes on a work of ancient philosophy.[[1]] The series aims to
-provide a "lively, clear introductions" that are "enjoyed by students,
-scholars, and anyone with an interest in philosophy." This volume amply
-fulfills those goals for Aristotle's <i>NE</i>. I expect that it will be most
-useful to students—advanced undergraduates and graduate students given the
-specificity of the contributions—but the book should also be useful to scholars
-as well.
+The Cambridge Companion to Philosophy series continues to devote ample attention to ancient philosophy. In 2007 the series began to publish companions to individual books of particular importance to philosophy in addition to companions to philosophers and schools. This excellent companion to Aristotle's <i>Nicomachean Ethics</i> (hereafter <i>NE</i>) is the third of the first twelve such volumes on a work of ancient philosophy.[[1]] The series aims to provide a "lively, clear introductions" that are "enjoyed by students, scholars, and anyone with an interest in philosophy." This volume amply fulfills those goals for Aristotle's <i>NE</i>. I expect that it will be most useful to students—advanced undergraduates and graduate students given the specificity of the contributions—but the book should also be useful to scholars as well.
 
-The companion has many strengths that recommend it. The range of topics is very
-complete. In addition to covering standard issues in the interpretation of the
-<i>NE</i> such as <i>eudaimonia</i>, the doctrine of the mean, choice and
-responsibility, the various virtues of character and intellect, Aristotle's
-theory of action, <i>akrasia</i>, friendship and pleasure, the book also
-includes essays on the relationship of the <i>NE</i> to Aristotle's other
-ethical and political writings and a very full bibliography arranged by topic.
-The quality of writing throughout is very high, and each chapter provides
-a clear roadmap of the topic at hand. Students will learn not only the content
-of these central questions about Aristotle's <i>NE</i> but also why they matter
-for the larger interpretation of Aristotle's ethical thinking and their broader
-philosophical importance. In addition, each chapter introduces relevant
-secondary literature in a way that should not overwhelm readers new to the
-subjects.[[2]]
+The companion has many strengths that recommend it. The range of topics is very complete. In addition to covering standard issues in the interpretation of the <i>NE</i> such as <i>eudaimonia</i>, the doctrine of the mean, choice and responsibility, the various virtues of character and intellect, Aristotle's theory of action, <i>akrasia</i>, friendship and pleasure, the book also includes essays on the relationship of the <i>NE</i> to Aristotle's other ethical and political writings and a very full bibliography arranged by topic.  The quality of writing throughout is very high, and each chapter provides a clear roadmap of the topic at hand. Students will learn not only the content of these central questions about Aristotle's <i>NE</i> but also why they matter for the larger interpretation of Aristotle's ethical thinking and their broader philosophical importance. In addition, each chapter introduces relevant secondary literature in a way that should not overwhelm readers new to the subjects.[[2]]
 
-The strongest essays manage to do even more than simply summarize the current
-state of debate on their topic. A few of the chapters show readers how to think
-beyond current stalemates in new and productive ways. Debate about Aristotle's
-ethics has a tendency to cluster around a small number of alternatives. Over
-time those alternatives can come to seem the only possible choices. The essays
-I found most engaging, however, look beyond traditional solutions in ways that
-are far more productive—whether or not their individual conclusions persuade.
-In "Was Aristotle a Humean" Jessica Moss argues that Aristotle's theory of
-motivation contains both Humean and unHumean elements. Habit and upbringing,
-rather than reason, set a person's ends, but nevertheless reason is not simply
-a slave to one's desires. Thornton Lockwood attempts to sidestep
-interpretations of the <i>NE</i> that see Aristotle as choosing between
-a political life (including the virtues of character) or a solely contemplative
-life. Instead he argues first that a third life—the life of pleasure—remains an
-important consideration for Aristotle and second that we may not wish to say
-that "the lives are mutually exclusive" (352). Finally, Lawrence Jost tries to
-reinvigorate the debate about how the <i>Nicomachean</i> and <i>Eudemian</i>
-ethics are related. All too often, we are given only two choices: one of the
-two books is earlier and inferior while the other is later and superior. Most
-moderns award the victory to the <i>NE</i>, and so the <i>EE</i> is generally
-less studied. Jost, however, tries to show that the two works may
-have been intended for very different audiences and they may have various
-strengths and weaknesses. As he points out in his conclusion, relative neglect
-of the <i>EE</i> means that there is still plenty of work to be done.
+The strongest essays manage to do even more than simply summarize the current state of debate on their topic. A few of the chapters show readers how to think beyond current stalemates in new and productive ways. Debate about Aristotle's ethics has a tendency to cluster around a small number of alternatives. Over time those alternatives can come to seem the only possible choices. The essays I found most engaging, however, look beyond traditional solutions in ways that are far more productive—whether or not their individual conclusions persuade.  In "Was Aristotle a Humean" Jessica Moss argues that Aristotle's theory of motivation contains both Humean and unHumean elements. Habit and upbringing, rather than reason, set a person's ends, but nevertheless reason is not simply a slave to one's desires. Thornton Lockwood attempts to sidestep interpretations of the <i>NE</i> that see Aristotle as choosing between a political life (including the virtues of character) or a solely contemplative life. Instead he argues first that a third life—the life of pleasure—remains an important consideration for Aristotle and second that we may not wish to say that "the lives are mutually exclusive" (352). Finally, Lawrence Jost tries to reinvigorate the debate about how the <i>Nicomachean</i> and <i>Eudemian</i> ethics are related. All too often, we are given only two choices: one of the two books is earlier and inferior while the other is later and superior. Most moderns award the victory to the <i>NE</i>, and so the <i>EE</i> is generally less studied. Jost, however, tries to show that the two works may have been intended for very different audiences and they may have various strengths and weaknesses. As he points out in his conclusion, relative neglect of the <i>EE</i> means that there is still plenty of work to be done.
 
-My only significant complaint about the collection concerns a missed
-opportunity. The essays rarely refer to each other. When they do, the
-references are almost always perfunctory: "See So-and-so in this volume" is as
-far as they go. Judging only by the evidence in the book, individual authors
-were told at some point who else was writing on related topics, but they don't
-seem to have read or absorbed each other's chapters. This is a terrible shame
-since obviously many essays overlap, often in surprising and potentially
-fruitful ways. For example, a number of contributions take up the question of
-cultural narrowness[[3]]. Briefly, is Aristotle's treatment of ethics tied to
-his world and time in ways that limits its larger validity or usefulness?
-In his introduction, Ronald Polansky forcefully argues against any such
-criticism of Aristotle at a general level. Later in the book, Helen Cullyer and
-Daniel Russell take opposite positions regarding Aristotle's specific views
-about the virtue of magnanimity. (Cullyer argues that Aristotle does not
-necessarily limit the scope of ethics to the very wealthy, but Russell worries
-that he might.) It would have been helpful for these authors to take each
-other's views into account. The chapters aren't obviously on overlapping
-topics, so introductory readers are unlikely to make the connections on their
-own. This is what I mean by a missed opportunity: the individual essays are
-very strong, but they would have been even more useful for readers if they had
-engaged one another more deeply.
+My only significant complaint about the collection concerns a missed opportunity. The essays rarely refer to each other. When they do, the references are almost always perfunctory: "See So-and-so in this volume" is as far as they go. Judging only by the evidence in the book, individual authors were told at some point who else was writing on related topics, but they don't seem to have read or absorbed each other's chapters. This is a terrible shame since obviously many essays overlap, often in surprising and potentially fruitful ways. For example, a number of contributions take up the question of cultural narrowness[[3]]. Briefly, is Aristotle's treatment of ethics tied to his world and time in ways that limits its larger validity or usefulness?  In his introduction, Ronald Polansky forcefully argues against any such criticism of Aristotle at a general level. Later in the book, Helen Cullyer and Daniel Russell take opposite positions regarding Aristotle's specific views about the virtue of magnanimity. (Cullyer argues that Aristotle does not necessarily limit the scope of ethics to the very wealthy, but Russell worries that he might.) It would have been helpful for these authors to take each other's views into account. The chapters aren't obviously on overlapping topics, so introductory readers are unlikely to make the connections on their own. This is what I mean by a missed opportunity: the individual essays are very strong, but they would have been even more useful for readers if they had engaged one another more deeply.
 
-The <i>NE</i> has never lacked attention, and the book under review is at least
-the fifth introductory-level companion to the whole work since 2000.[[4]] How
-does this book compare with the others that are available? Both David
-Bostock[[5]] and Michael Pakaluk[[6]] have written single-author introductions
-to the entire <i>NE</i>. These cover largely the same topics as the companion
-under review, but they have both the strengths and weaknesses of being written
-by one author. It's difficult for one author to master every aspect of
-Aristotle's ethical theory (and its scholarship) equally, but single-author
-books do have a far greater unity of perspective and point of view. (This
-itself is potentially both a pro and a con.) In a nutshell, and perhaps
-unfairly to all three books, I would say that Bostock and Pakaluk are better
-for relatively more introductory readers who want a good grasp of the <i>NE</i>
-as a whole while the companion under review is better for relatively more
-advanced readers who are researching a specific topic. The Cambridge Critical
-Guide to Aristotle's <i>NE</i>[[7]], edited by Jon Miller, is aimed at more
-advanced readers and not as complete in coverage as any of the other four books
-I'm considering here. Finally, Blackwell's Guide to Aristotle's <i>NE</i>[[8]],
-edited by Richard Kraut, is the most similar to the Cambridge Companion under
-review. They cover many of the same topics and take very similar approaches to
-the work overall. They both contain some excellent essays, and so it would be
-unhelpful to choose between them. One advantage of the Cambridge companion,
-however, is that it provides an excellent topical bibliography to Aristotle's
-<i>NE</i>.
+The <i>NE</i> has never lacked attention, and the book under review is at least the fifth introductory-level companion to the whole work since 2000.[[4]] How does this book compare with the others that are available? Both David Bostock[[5]] and Michael Pakaluk[[6]] have written single-author introductions to the entire <i>NE</i>. These cover largely the same topics as the companion under review, but they have both the strengths and weaknesses of being written by one author. It's difficult for one author to master every aspect of Aristotle's ethical theory (and its scholarship) equally, but single-author books do have a far greater unity of perspective and point of view. (This itself is potentially both a pro and a con.) In a nutshell, and perhaps unfairly to all three books, I would say that Bostock and Pakaluk are better for relatively more introductory readers who want a good grasp of the <i>NE</i> as a whole while the companion under review is better for relatively more advanced readers who are researching a specific topic. The Cambridge Critical Guide to Aristotle's <i>NE</i>[[7]], edited by Jon Miller, is aimed at more advanced readers and not as complete in coverage as any of the other four books I'm considering here. Finally, Blackwell's Guide to Aristotle's <i>NE</i>[[8]], edited by Richard Kraut, is the most similar to the Cambridge Companion under review. They cover many of the same topics and take very similar approaches to the work overall. They both contain some excellent essays, and so it would be unhelpful to choose between them. One advantage of the Cambridge companion, however, is that it provides an excellent topical bibliography to Aristotle's <i>NE</i>.
 
-The book is well edited and well made. The quality of the printing and binding
-are excellent, and the book has very few errors that I noticed, all minor.[[9]]
+The book is well edited and well made. The quality of the printing and binding are excellent, and the book has very few errors that I noticed, all minor.[[9]]
 
-[[1]] The other two are <i>The Cambridge Companion to Plato's Republic</i>
-edited by G. R.  F. Ferrari (2007) and <i>The Cambridge Companion to
-Aristotle's Politics</i> edited by Marguerite Deslauriers and Pierre Destrée
-(2013).
+[[1]] The other two are <i>The Cambridge Companion to Plato's Republic</i> edited by G. R.  F. Ferrari (2007) and <i>The Cambridge Companion to Aristotle's Politics</i> edited by Marguerite Deslauriers and Pierre Destrée (2013).
 
-[[2]] Each essay has its own bibliography, and footnotes appear at the bottom
-of pages rather than gathered at the end of the chapter or, even worse, at the
-end of the book. Both decisions make the book a pleasure to work with.
+[[2]] Each essay has its own bibliography, and footnotes appear at the bottom of pages rather than gathered at the end of the chapter or, even worse, at the end of the book. Both decisions make the book a pleasure to work with.
 
-[[3]] The phrase 'cultural narrowness' comes from Ronald Polansky's
-introduction. Other authors do not use it.
+[[3]] The phrase 'cultural narrowness' comes from Ronald Polansky's introduction. Other authors do not use it.
 
-[[4]] There are obviously also collections of previously published essays,
-chapters and whole books devoted to the <i>NE</i>, and a constant stream of new
-and revised translations and commentaries on individual books and the whole
-work.
+[[4]] There are obviously also collections of previously published essays, chapters and whole books devoted to the <i>NE</i>, and a constant stream of new and revised translations and commentaries on individual books and the whole work.
 
 [[5]] <i>Aristotle's Ethics</i>. David Bostock. (Oxford University Press, 2000)
 
-[[6]] <i>Aristotle's Nicomachean Ethics: an introduction</i>. Michael Pakaluk.
-(Cambridge University Press, 2005)
+[[6]] <i>Aristotle's Nicomachean Ethics: An Introduction</i>. Michael Pakaluk.  (Cambridge University Press, 2005)
 
-[[7]] <i>Aristotle's Nicomachean Ethics: A Critical Guide</i>. Ed. Jon Miller.
-(Cambridge University Press, 2013)
+[[7]] <i>Aristotle's Nicomachean Ethics: A Critical Guide</i>. Ed. Jon Miller.  (Cambridge University Press, 2013)
 
-[[8]] <i>The Blackwell Guide to Aristotle's Nicomachean Ethics</i>. Ed. Richard
-Kraut. (Wiley-Blackwell, 2006)
+[[8]] <i>The Blackwell Guide to Aristotle's Nicomachean Ethics</i>. Ed. Richard Kraut. (Wiley-Blackwell, 2006)
 
-[[9]] In chapter 11, the author refers in various notes to (1) "Cooper 1975",
-(2) "Cooper 1986", and (3) "Cooper 1975 [1986]". The chapter's works cited has
-an entry only for Cooper 1975. All of these references are to John Cooper's
-<i>Reason and the Human Good in Aristotle</i> published in 1975 by Harvard
-University Press and reprinted in 1986 by Hackett. The book's topical
-bibliography (chapter 20) makes clear that all of these are the same book, but
-it compounds the problem with the inconsistent reference to "Cooper 1986
-[1975]" (437). In chapter 16, "under perfect condition" (page 361, note 28)
-should be "under perfect conditions". From the same chapter, "Worries...seems
-unwarranted" (page 362) should read "Worries...seem unwarranted".
+[[9]] In chapter 11, the author refers in various notes to (1) "Cooper 1975", (2) "Cooper 1986", and (3) "Cooper 1975 [1986]". The bibliography for this chapter has an entry only for "Cooper 1975". All of these references are to John Cooper's <i>Reason and the Human Good in Aristotle</i> published in 1975 by Harvard University Press and reprinted in 1986 by Hackett. The companion's topical bibliography (chapter 20) has only one listing for Cooper's book, but that listing compounds the problem with yet another form of reference: "Cooper 1986 [1975]" (437). In chapter 16, "under perfect condition" (page 361, note 28) should be "under perfect conditions". From the same chapter, "Worries...seems unwarranted" (page 362) should read "Worries...seem unwarranted".

@@ -1,0 +1,54 @@
+% [[- LaTeX prelude
+\documentclass[12pt,letterpaper]{article}
+\usepackage[no-math]{fontspec}
+\setmainfont{Baskerville}
+\newfontfamily\g{Times New Roman}
+
+% Tighten up lists: don't double space them.
+\usepackage{enumitem}
+\setlist{noitemsep}
+
+\usepackage[explicit,pagestyles]{titlesec}
+\newpagestyle{notes}{%
+    \sethead%
+        []% even-left
+        [True belief and knowledge: \sectiontitle]% even-center
+        []% even-right
+        {}% odd-left
+        {True belief and knowledge: \sectiontitle}% odd-center
+        {}% odd-right
+    \setfoot%
+        {}% left
+        {\thepage}% center
+        {}% right
+}
+\pagestyle{notes}
+\titleformat{\section}{\centering\it}{}{0em}{#1}
+
+% Suppress page headings on pages with a new section title
+\usepackage{xpatch}
+\xpretocmd{\section}{\thispagestyle{plain}}{}{}
+
+\usepackage[style=philosophy-classic, backend=biber]{biblatex}
+\addbibresource{tbk.bib}
+
+\usepackage{titling}
+\usepackage{mytitle}
+\title{Notes on true belief and knowledge}
+\author{Peter Aronoff}
+\date{\today}
+% -]] LaTeX prelude
+
+% [[- document
+\begin{document}
+
+\maketitle
+
+\input{plato-sartwell.tex}
+\input{sartwell}
+
+\section{References}
+\printbibliography[heading=none]
+
+\end{document}
+% -]] document

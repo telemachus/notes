@@ -1,4 +1,4 @@
-% [[- LaTeX prelude
+% [[- Prelude
 \documentclass[12pt,letterpaper]{article}
 \usepackage[no-math]{fontspec}
 \setmainfont{Baskerville}
@@ -12,10 +12,10 @@
 \newpagestyle{notes}{%
     \sethead%
         []% even-left
-        [True belief and knowledge: \sectiontitle]% even-center
+        []% even-center
         []% even-right
         {}% odd-left
-        {True belief and knowledge: \sectiontitle}% odd-center
+        {\MakeUppercase{True belief and knowledge: \sectiontitle}}% odd-center
         {}% odd-right
     \setfoot%
         {}% left
@@ -37,7 +37,7 @@
 \title{Notes on true belief and knowledge}
 \author{Peter Aronoff}
 \date{\today}
-% -]] LaTeX prelude
+% -]] Prelude
 
 % [[- document
 \begin{document}
@@ -47,6 +47,7 @@
 \input{plato-sartwell.tex}
 \input{sartwell}
 
+\newpage
 \section{References}
 \printbibliography[heading=none]
 

@@ -27,4 +27,10 @@ Striker offers an argument to support an Epicurean view that “knowledge throug
 1. Knowledge must be based on sense impressions that are known to be true.
 We infer that some sense impressions must be known to be true from (i) and (iii). (ii) adds that they are either all false or all true. Hence, if there is any knowledge, then all sense impressions must be (known to be) true (87).
 
+Striker notes that this argument can be used to support a sceptical conclusion as well as to support Epicurus’s dogmatic empiricism. If we argue that no sense impressions are known to be true (because of, say, optical illusions) and that all sense impressions are equally reliable (or unreliable, in this case), then we are likely to draw the conclusion that nothing is know for certain.
+
+The weakest of the three premises is the second, so why would Epicurus hold it?[^2]
+
 [^1]: (i) de fin. I 64: quicquid porro animo cernimus, id omne oritur a sensibus; qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. quos qui tollunt et nihil posse percipi dicunt, ii remotis sensibus ne id ipsum quidem expedire possunt, quod disserunt. (ii) ND I 70: timuit Epicurus ne, si unum visum esset falsum, nullum esset verum: omnes sensus veri nuntios dixit esse. (iii) Luc. 79: Igitur semper auctorem habes, et eum qui magno suo periculo causam agat; eo enim rem demittit Epicurus, si unus sensus semel in vita mentitus sit, nulli umquam esse credendum. (iv) Luc 101: si ullum sensus visum falsum est, nihil potest percipi.
+
+[^2]: For evidence that he *did* hold it, see DL X 32 and DRN IV 498. Plutarch repeatedly gives this premise to Epicurus in *adversum Colotem*.

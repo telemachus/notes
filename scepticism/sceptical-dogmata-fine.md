@@ -22,9 +22,27 @@ Fine considers several possible interpretations of Frede’s view over several p
 
 At the end of this section, Fine gives her own view of belief and she makes clear where she stands vis-à-vis the rival interpretations of Burnyeat and Frede. Fine agrees with Burnyeat that belief requires taking something as true. However, she disagrees with *both* Frede and Burnyeat on sceptics and truth. Both Burnyeat and Frede agree that the sceptics “don’t claim to take anything to be true”, and thus they agree where it matters most to Fine.[^5]
 
-## Fine on *PH* I 13
+## Fine on *PH* I 13 and related passages
 
+In this section Fine goes through *PH* I 13 and associated texts carefully. She offers a combination of translation and explication. I’ll follow along in order to have a sense of how she understands this central text.
 
+First, her translation. Note that Fine adds labels (A) and (B) “for ease of exposition” (88, note 26).
+
+> (A) When we say that the sceptic does not *dogmatizein*, we do not use *dogma* in the more general sense (*koinoteron*) in which some say that *dogma* is acquiescing in (*eudokein*) something, for the sceptic assents (*sunkatatithetai*) to the affections (*pathe*) forced upon him by an appearance (*kata phantasian*). For example, he would not say, when heated (*thermainomenos*) (or chilled: *psuchomenos*), ‘*dokō* I am not heated (or: chilled)’. (B) Rather, we say that he does not *dogmatizein* in the sense in which some say that *dogma* is assent to some unclear object of investigation in the sciences. For Pyrrhonists do not assent to anything unclear.”
+
+Fine picks out as key points (i) that in (A) Sextus says that sceptics do have *dogmata* if to have a *dogma* is to acquiesce in (*eudokein*) something and (ii) that in (B) the sceptics have no *dogmata* insofar as a *dogma* is an assent to some unclear object of investigation in the sciences because “sceptics do not assent to anything unclear, period” (89). She puts off discussing the example Sextus gives in (A) for the moment.
+
+Fine proposes to consider two different issues that this section raises. She notes that to assent or *dogmatizein* is to be in a cognitive condition and that a *dogma* is the content of this cognitive condition. Hence, the two questions that Fine wants to answer about *PH* I 13: (i) “what *cognitive conditions* are at issue here? In particular, when a sceptic assents, does she have a belief, as we are understanding belief?” (89); (ii) “what is the *content* of sceptical *dogmata*?” (89)
+
+Before taking up those two questions, however, Fine briefly compares I 13 with several other nearby passages.
+1. First, *PH* I 19-20:
+> Those who say that the sceptics reject what is apparent (*ta phanomena*) have not, I think, listened to what we say. As we said before, we do not overturn the things which lead us, without our willing it, to assent in accordance with a passive appearance (*kata phantasian pathētikēn*); and these things are precisely what is apprent (*ta phainomena*). When we investigate whether underlying things are such as they appear, we grant (*didomen*) that they appear, and what we investigate is not what is apparent but what is said about what is apparent—and this is different from investigating what is apprent itself. [20] For example, it appears to us that honey sweetens (*phainetai hēmin glukazein to meli*): we concede (*sunchōroumen*) this inasmuch as we are sweetened perceptually (*glukazometha aisthetikōs*). But we investigate whether it is sweet (as far as the argument goes)—and this is not what is apparent but something said about what is apparent.
+1. Then, I 21:
+> That we attend to what is apparent (*hoti de tois phainomenois prosexhomen*) is clear from what we say about the criterion of the sceptical way.
+1. Last, I 22—which partly explains I 21:
+> We say, then, that the criterion of the sceptical way is what is apparent (*to phainomenon*), implicitly meaning (*dunamei*) by this the appearance of it (*tēn phantasian autou*). For it consists in a passive and unwilled affection; and it is not an object of investigation (*azētētos*). Hence no-one, presumably, will raise a controversy over whether an underlying thing appears this way or that; rather, they investigate whether it is such as it appears.
+
+Fine uses these three passages to make two points about I 13. First, Fine wants to show that when Sextus speaks of assenting to *pathe* or *phainomena*, he really means assenting to *phantasiai*. Second, Fine argues that the assent that Sextus discusses is propositional. The sceptic assents *that* something appears in such-and-such a way.
 
 ## Appendix: Fine on Frede on belief
 

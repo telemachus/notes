@@ -6,6 +6,7 @@
 Fine begins from the especially “vexed” question “whether ancient sceptics disavow all, or only some, beliefs” (81). She proposes to consider the no belief and the some belief view, and she specifies that she is only here concerned with what the sceptics claim about their beliefs. That is, she acknowledges that it may be difficult to understand what it means to hold, literally, no beliefs, but for the moment, she only cares about what the sceptics say—whether or not what they claim is genuinely possible.
 
 Fine begins by distinguishing two questions:
+
 1. Do sceptics disavow all, or only some δόγματα?[^1]
 1. Do they disavow all, or only some, beliefs, as we understand belief?
 Fine describes (1) as an internal question and (2) as an external question. (1) is a matter of what the sceptics say “in their own words” (81) while (2) is a matter of whether the sceptics have belief by our lights.
@@ -35,6 +36,7 @@ Fine picks out as key points (i) that in (A) Sextus says that sceptics do have *
 Fine proposes to consider two different issues that this section raises. She notes that to assent or *dogmatizein* is to be in a cognitive condition and that a *dogma* is the content of this cognitive condition. Hence, the two questions that Fine wants to answer about *PH* I 13: (i) “what *cognitive conditions* are at issue here? In particular, when a sceptic assents, does she have a belief, as we are understanding belief?” (89); (ii) “what is the *content* of sceptical *dogmata*?” (89)
 
 Before taking up those two questions, however, Fine briefly compares I 13 with several other nearby passages.
+
 1. First, *PH* I 19-20:
 > Those who say that the sceptics reject what is apparent (*ta phainomena*) have not, I think, listened to what we say. As we said before, we do not overturn the things which lead us, without our willing it, to assent in accordance with a passive appearance (*kata phantasian pathētikēn*); and these things are precisely what is apprent (*ta phainomena*). When we investigate whether underlying things are such as they appear, we grant (*didomen*) that they appear, and what we investigate is not what is apparent but what is said about what is apparent—and this is different from investigating what is apprent itself. [20] For example, it appears to us that honey sweetens (*phainetai hēmin glukazein to meli*): we concede (*sunchōroumen*) this inasmuch as we are sweetened perceptually (*glukazometha aisthetikōs*). But we investigate whether it is sweet (as far as the argument goes)—and this is not what is apparent but something said about what is apparent.
 1. Then, I 21:
@@ -69,16 +71,28 @@ As a last item in this section, Fine says that, on her view, Sextus does not dis
 ## VI: Objections 
 
 Fine considers four objections to her interpretation of I 13:
+
 1. Sextus uses ‘*dogma*’ in a non-standard way. According to this objection, ‘*dogma*’ is not appropriate for belief in general, but only for “especially weighty beliefs, such as those at issue in (B)” (97).
 1. Sextus describes sceptical assent as passive, but for the Stoics assent must be active, a choice for which we are responsible.
 1. Sextus gives an example that is negative, and Barnes “takes this to mean that sceptical *dogmata* are not any sort of belief, but the absence of belief” (99).
 1. Sextus sometimes says that sceptics suspend judgement about everything, that they lack *dogmata* about everything.
 
 In reply, Fine argues thus:
+
 1. There are Hellenistic uses of ‘*dogma*’ for belief as such, even if the word is often used for weighty, theory-laden beliefs.
 1. Regardless of the Stoics, many people think that belief, or some beliefs, can be passive. And since Sextus focuses on especially clear beliefs, it especially makes sense for him to think of assent as something that simply happens. There is very little cognitive friction (my term) in such cases.
 1. Sextus gives a negative example in I 13, but positive examples in I 19-20. He does not commit himself anywhere to the idea that sceptical *dogmata* are essentially or always negative.
 1. Although Sextus does often say that sceptics have no *dogmata*, but we can interpret him to mean that they have no *dogmata* of the forbidden kind. A sceptic has no *dogmata* about unclear matters of investigation, but perhaps Sextus does not always make sure to add the specification “about unclear matters of investigation”.
+
+## VII: What are sceptical *dogmata* about?
+
+Fine defends her view that sceptical *dogmata* are “beliefs about how they are appeared to” by considering several objections to this view that Michael Frede raises. As examples of the kind of belief she has in mind, Fine cites (again) two examples directly from Sextus: a sceptic would assent to the claim (i) that she feels warm or (ii) that it appears to her that honey sweetens. A sceptic would not, however, assent to the further claims (i) that the sun warms her or (ii) that honey is sweet.
+
+The three objections Frede raises are as follows:
+
+1. Frede argues that “assenting to an affection does not consist in assuming that it exists” (quoted on 101, from “The Skeptic’s Beliefs”, page 197). Frede does not say why this interpretation, but Fine and others assume it is because of the Stoic use of the same terms. If we assume that the sceptics are arguing with the Stoics, then they should use key terms with the same meanings. When Stoics say “assenting to a *phantasia*”, they mean “taking its content to be true”. Frede appears to think that Sextus should mean the same thing.
+1. Frede argues that sceptical statements about appearance should be read doxastically rather than non-doxastically. E.g., if it appears to a sceptic that honey sweetens, then the sceptic believes that honey is sweet. However, Frede distinguishes between believing that honey is sweet and believing that it is *really* sweet. On his view, determining how things really are requires going beyond the veil of appearances to the essence of things, and the sceptics make no claims to be able to do this.
+1. Frede argues that the example in I 13 makes Fine’s interpretation less likely. Sextus uses the verb *thermainesthai*, and Frede takes this verb to me “be warmed, be heated” rather than “feel warm, feel hot”. That is, the verb describes a physical process rather than a subjective feeling. Frede further argues that even if we take the verb to describe a subjective state here, Sextus does not speak as he should if he intends to say that he assents only to the view that an affection exists.
 
 ## Appendix: Fine on Frede on belief
 

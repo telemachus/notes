@@ -51,10 +51,116 @@ Frede explains this distinction by describing a general program among dogmatists
 
 ## Do sceptics use language of appearance only in a non-doxastic sense?
 
-Frede raises an even more serious objection: perhaps when sceptics say that something appears or seems such-and-such to them, they are using “appear” or “seem” in a non-doxastic[^3] sense.
+Frede raises an even more serious objection: perhaps when sceptics say that something appears or seems such-and-such to them, they are using “appear” or “seem” in a non-doxastic[^3] sense. This view is fairly popular; for example, Burnyeat, Barnes, and Fine argue for or rely on this interpretation. Although Frede admits that there is evidence that might tend to support this reading of Sextus, he offers three arguments against it:
+
+1. The nonepistemic reading relies on the belief that the sceptics suspend judgment about everything, without any qualification. But of course this is not itself clear.
+1. The nonepistemic reading relies on an “inadequate understanding of the contrast between appearance and reality.
+1. The nonepistemic reading “leads to...a disastrous misunderstanding of the epistemological problem, the misunderstanding that certain mental contents...are directly accessible and that the problem is only how to get from these representations to knowledge of the things that the representations represent” (187).
+
+### First objection: do sceptics suspend judgment without qualification?
+
+According to Frede “the skeptic suspends judgment on how things are” only with qualifications. Frede cites I 215 where Sextus contrasts Pyrrhonists and Cyrenaics. Sextus says there “we suspend judgment ὅσον ἐπὶ τῷ λόγῳ”. Although it isn’t entirely clear what that last phrase means, Frede seems right to take it as a qualification of some kind. Frede is also right that Sextus does *not* say here that the sceptic suspends judgment about how things are but not about how they appear. Sextus says that they suspend judgment about how things are *in a certain respect* (emphasis mine). On the basis of this, Frede concludes “there is another respect in which the skeptic does not suspend judgment about how things are” (188). Frede also notes that this “curious restriction” reappears in several forms “again and again” in *PH*.[^4]
+
+In particular, such a phrase appears in I 20, and Frede takes it there to be a “gloss on the one sense” (188) of “x is F”. For Frede this means that when a sceptic says that “honey appears sweet”, they can mean that they take honey to be sweet, they believe that it is sweet, in an ordinary or everyday sense. What they question is whether “honey is sweet” in a philosophical sense, on the basis of theory and argument, or in the real nature of things.
+
+Frede grants that it “may be a difficult question” to explain the compatibility of “I believe x is F” with “I don’t believe that x is F really, in the nature of things”, but Frede doesn’t let this dissuade him. He writes “it would be naive to suppose that one cannot make out a meaningful contrast between how things are and how things realy are and thus think that someone who has no view about how things really are can only have a view about how things seem (nonepistemically) to him.
+
+### Second objection: the contrast between appearance and reality
+
+Frede first argues that we should expand the distinction between appearance and reality from a two-term to a three-part comparison. The way that the contrast is normally used implies that there are two items: (i) how things are and (ii) how things appear to be. This makes sense for some contrasts. For example, the oar is straight, but it can appear bent when it’s in water. However, Frede challenges us to consider more complicated cases. For example, consider the sweetness of a glass of wine. Perhaps the wine is sweet. Perhaps the wine only seems sweet because the person drinking it just ate something sour. But what if someone argues that there is no such thing as sweetness in wine at all. What if this person argues that it is merely chemicals that we call sweet. In this last case, Frede argues that it is unclear “how [such an account] is supposed to bear on my claim that the wine is quite sweet” (189). Even a person who believes the account may still say, in another sense, that the wine is quite sweet. The two claims aren’t necessarily in conflict: “Thus, in a sense, it will still be true that it does not merely seem as if the wine is sweet, even if I believe that, in reality, there is no such thing as sweetness” (189-190).
+
+I suspect many philosophers would reject this three-part contrast, and in particular that they would reject the contrast between “x is F” and “x is really F” or “x is truly, in reality F”, but I’m not sure we should dismiss Frede here. Many ancient philosophical and theoretical accounts of the world did claim to go beyond mere appearances. (And, at the same time, many modern scientific accounts do the very same thing.) In addition, as Frede also says, by going beyond ordinary appearances, these theories threatened their own starting points since these came from appearances. And, finally, some ancients (e.g., Democritus) saw this very problem. And worries like that of Democritus about the senses are at the very beginning of proto-scepticism in ancient philosophy.
+
+Frede supports his three-part contrast by looking at “the situation of the skeptic” (190). According to Frede, ancient scepticism is reactive. What the sceptic reacts to is dogmatism, and the dogmatists are the ones who “attempt to get behind the phenomena, with the aid of reason, to true reality and, thus, to dissolve the real or apparent contradictions among the phenomena, the contradictions in the world as it appears to us (cf. *P.H.* I 12)” (190). These dogmatists, however, do not contrast reality and appearance; they don’t claim that “our ordinary beliefs and impressions are no better than hallucinations” (190). Our ordinary claims about the world (e.g., that honey is sweet) are false, insofar as they fail to grasp true reality, but they are not false in the way that “Socrates died in 397” is false. So if the sceptics are reacting to *this* dialectical situation, they are not left with a stark choice between reality and mere appearances.
+
+In addition, Frede continues, sceptics have no particular motivation to give up their ordinary beliefs. Dogmatists want to go beyond the phenomena, they want to reach true knowledge about genuine reality, they want to revise our ordinary beliefs using reason. Some, e.g., the Stoics, even want to “rid ourselves of all the beliefs we have acquired in ordinary ways, if these should fail to meet the rigorous criteria of reason” (191). But the sceptic is under no special pressure to accept these “strictures” on how to purify our cognitive life. When sceptics enter into dogmatic debates, they consistently find equipollence of arguments and they reach no decision. Hence, they are “not even faced with the choice” to “follow only reason (against...ordinary beliefs, at least not in this way” (191).
+
+In the absence of a compelling argument, sceptics can “continue to rely on how things appear...,on what seems...to be the case” (191). Here is how Frede concludes this part of his reply:
+
+> [the sceptic] will not think that it only seems as if things were so and so; for that thought presupposes that he believes what the dogmatists believe, namely, that, in reality, things are quite different from the way they seem to be. For him, of course, nothing rules out the possibility that, in reality, things should be exactly as they appear to be. Since he suspends judgment on how things are in reality, he will not think that it merely seems to him that things are thus or thus. If it had been his discovery that, in every instance, it only seems to him that this or that is the case, he would indeed have no beliefs on how things are. When the skeptic, however, speaks of what seems to him to be the case, and when he says that he is only reporting how it appears to him, he cannot be speaking of something which he thinks *only seems* to be the case (191-192).
+
+### Third objection: the “disastrous misunderstanding”
+
+So, in a surprise move, Frede never quite returns to the “disastrous misunderstanding of the epistemological problem”. However, he does take up a related question, namely “What about the language in Sextus that suggests exactly this kind of directly accessible appearances in contrast to an unknown outer world.” According to Frede, the language Sextus uses is not his own. Instead, Sextus “needs to tailor his argument to his dogmatic opponents’ way of regarding matters” (192). The whole picture of having impressions and then needing to decide whether or not to assent to them is fundamentally dogmatic according to Frede. As such, we should not foist this point of view onto Sextus if we can avoid it.
+
+## Frede on *PH* I 13
+
+Frede explains that it is “methodologically sound to base one’s interpreation of an author’s views primarily on those passages where he explicitly sets them out” (193), and so he turns to I 13. This is where Sextus “explicitly considers” the question at issue. Frede quickly turns his attention to εὐδoκεῖν when Sextus says that the sceptic’s lack of δόγματα does not mean that the sceptic won’t εὐδoκεῖν τινὶ πράγματι. This appears to say that the sceptic *will* εὐδοκεῖν, so we need to understand precisely what that entails.
+
+Unfortunately, εὐδοκεῖν is common but not at all technical. Frede believes that Sextus picked the word for exactly this reason: “it hardly appears at all in philosophical texts; as a philosophical term, it occurs nowhere else” (193). And, still worse, the range of possible meanings is quite wide: “be content with”, “assent to”, “recognize”, “accept”, “suppose”, “rejoice in.”[^5] Ultimately, Frede goes with an interpretation where the sceptic “accepts...is content with...has no objection to...whatever seems to him to be the case, whatever seems evident to him” (194). My sense is that no matter what we do here, our sense of the meaning of εὐδοκεῖν will come from our larger sense of the passage than from the word itself. That is, the range of possible meanings is so wide that we need to use the passage to fix the meaning of the word rather than the other way around.
+
+Frede notes that the second part of I 13 suggests that sceptics reject only a very narrow set of beliefs, but he complicates this picture. Sextus focuses on “nonevident objects of scientific inquiry,” but we shouldn’t take this to mean that sceptics reject only philosophical or theoretical beliefs. According to Frede “Any belief, whatever its content may be, can be a dogmatic belief; conversely, every belief can be an undogmatic one” (194).[^6]
+
+For Frede, what determines the status of a belief is not its content but how it is formed and held. If a belief is “answered by reason”, if it is “a theoretical answer derived from first principles which are immediately evident to reason”, then it is a dogmatic belief, no matter whether the content is as simple as “it is day”.[^7] All of this said, Frede does think that Sextus is primarily concerned with “the doctrines of the dogmatic schools” (195). Nevertheless, he doesn’t want us to limit ourselves too narrowly.
+
+Frede concludes that I 13 does not support the nonepistemic reading of scepticism. Instead he takes the passage to say “only that the skeptic may not have beliefs of a certain kind, viz., philosophical or scientific ones which depend on reasoned groups (here, of course, he is presupposing a dogmatic notion of knowledge and science; if there can be such a thing as skepticial science remains to be seen). Whichever way we choose to interpret the text, there will be a large number of beliefs about things which are not dogmatic beliefs” (195).
+
+However, Frede does note two details in I 13 that someone could use to argue “that the skeptic only accepts such beliefs as are about his own impressions” (196). These two details are (i) “Sextus says that the skeptic assents to certain affections (πάθη)” and (ii) “the example he provides seems—if translated in the usual way—to show that the skeptic will not deny that he feels so or so, if this is how he does feel” (196).
+
+Against (i) Frede argues that if we understand better what Sextus means by πάθη, we will no longer interpret the passage as referring to mere appearances. On the one hand, if we intpret I 13 in the light of I 22, then when Sextus refers to πάθη, we will take him to mean appearances (φαντασίαι). And if so, then I 13 will be “using only a slight variant of the dogmatists’ way of speaking” (196). Frede has already argued that Sextus avoids using the exact Stoic language of assent to appearances, and so this terminological shift makes sense. On the other hand, Frede argues that the language in I 13 may refer to πάθη merely to stress “the disposition to be affected by things in a certain way, whether one wants to be so affected or not” (196). Frede also notes that these two ways of interpreing I 13 may “collapse into one” from Sextus’s point of view. Most importantly, however, he concludes by saying that neither interpretation “give us any reason to think that the belief will only be about the skeptic’s own impressions” (196).
+
+At the very end of this paragraph, Frede says something in passing that has been very important in later responses to this article. He writes:
+
+> In any event, “asssenting to such impressioins” cannot mean “assenting to the claim that one is affected in this way, that one has such impressions.” yet, such a meaning is required, if the first detail is to bear on the issue at hand.
+
+As critics have noted[^8], Frede offers no argument for this categorical denial. Nor does he even hint at his reasoning. However, critics seem to agree that Frede believes this interpretation is impossible because Sextus is working within a specific dialectical situation, namely that he is responding to Stoic arguments using quasi-Stoic terminology. If this is so, then Frede may seem right. However, if we are willing to see Sextus as shifting the terms of the debate on the Stoics, then we may not be as certain as Frede that I 13 *cannot* refer to mere appearances.
+
+Next, Frede takes up the specific example Sextus uses in I 13 since it has seemed to many to point to mere appearances rather than facts about the world. Sextus says the following:
+
+> τοῖς γὰρ κατὰ φαντασίαν κατηναγκασμένοις πάθεσι συγκατατίθεται ὁ σκεπτικός, οἷον οὐκ ἂν εἴποι θερμαινόμενος ἢ ψυχόμενος ὅτι δοκῶ μὴ θερμαίνεσθαι ἢ ψύχεσθαι
+>
+> for the sceptic assents to feelings that are compulsory from appearance; for example, he would not say when (heated/feeling warm) or (chilled/feeling cold), “I don’t think that I’m (heated/feeling warm) or (chilled/feeling cold)”
+
+The prolem here are the two verbs θερμαίνεσθαι and ψύχεσθαι. In general, they refer to the process of being heated or cooled, rather than the perception a person might have of that process. That is, they mean “to be warmed (or cooled)” not “to feel warm (or cool)”. However, Frede admits that he cannot rule out the sensation meaning. Nevertheless, after considering the possibilities, Frede concludes with the following three points about a nonepistemic reading of this part of I 13:
+
+1. It assumes a very strange meaning for the verbs.
+1. the text does not (otherwise?) suggest this meaning.
+1. Even if translated in this way, the passage still won’t say what such interpreters need it to say.
+
+Frede expands on the last point by saying “Sextus is interested in providing an especially clear example of something that is evident even to the skeptic. If Sextus chooses the example of feeling hot, this by no means implies that only his own impressions will be evident to the skeptic; rather, it is just an exceptionally clear example of the sort of thing that could be evident to someone” (197). Frede concludes this section by saying that I 13 neither explicitly states the nonepistemic view nor “even suggest[s]” such a view (197). Although I think that this overstates what he’s shown, Frede has certainly made it less obvious that I 13 takes a nonepistemic view of sceptical appearances.
+
+## Final thoughts
+
+Frede concludes by considering an objection and then further explicating the nature of sceptical belief on his account.
+
+The objection is that sceptical δόγματα, as Frede depicts them, are “not even beliefs” (197).
+
+> We might, for example, think that the mere feeling that something is the case is not to be regarded as a belief just because we do not object to this feeling or impression.
+
+Frede agrees that sceptical δόγματα might not satisfy various dogmatic demands on true “beliefs”, but he doesn’t consider this a failing of his account. As Frede points out, sceptical δόγματα can easily satisfy the (minimal) requirements for everyday uses of “believe”, “think”, or “suppose”—or, as he adds, δοκεῖν. These cognitive states may not satisfy more stringent, dogmatic definitions, but why should that bother a sceptic or us? (This last point is more mine than anything Frede says explicitly.)
+
+At this point, Frede returns to the contrast between believing that x is F and believing that x is *really* F. Frede repeats his understanding of this contrast and then says that a sceptic’s attitude “does not differe from that on the man on the street. He, too, only reports his impressions and does not also think that things *really* are the way that he takes them to be, the way they appear to him” (198).
+
+This in turn leads Frede to spell out two ways that sceptical beliefs and the beliefs of “ordinary” people differ. First, “the average person is quite dogmatic” about some of their beliefs, “especially moral or ethical ones” (198). Second, the sceptic is far more aware of the possibility that things may be radically different in reality from how they appear to be. A sceptic, on this account, holds all beliefs more weakly and is constantly aware of the contingency of all beliefs.
+
+Frede also considers whether sceptics have different beliefs, in general, from other people. In particular, would sceptics have beliefs only (or mostly) about what they observe and experience. Frede says no to this view. Sceptics believe whatever is evident to them, and they have no predetermined account of *what* is or will be evident. We can’t say in general whether these things will be the same as or different from what is evident to other people, but we don’t need to limit ourselves to beliefs about observations or experience either. And in particular sceptics can’t limit themselves only to beliefs of a certain kind since this would amount to their “using a criterion to distinguish between true and false impressions” (199). Sceptics, of course, have no such criterion.
+
+All of this said, we can expect a person’s scepticism to have an affect on their beliefs. Some view “one in all likelihood would not have unless one relied on reason dogmatically” (199). But Frede wants to insist that even in such cases, it is unlikely but not impossible that a sceptic should end up with such beliefs. (He imagines a case of a sceptic raised by Stoics. This person might have a Stoic conception of divinity, in virtue of Stoic upbringing; but their belief does not rely on the (direct) use of reason.[^9]
+
+For Frede, however, “[w]hat fundamentally distinguishes the sceptic from other people are not the beliefs he has but his attitude towards them” (199). Sceptics are less naive and less dogmatic than ordinary people. Less naive insofar as they see the potentially large gap between how things *really* are and how they appear; less dogmatic for the obvious reasons. On the other hand, sceptics also differ from dogmatists: dogmatists worry constantly about how things *really* are, but the sceptic is done with such worries. Sceptics think that dogmatic attitudes display arrogance and  insecurity all at once. On the one hand, dogmatists have unreasonable desires for certainty in an unceartain world; on the other hand, dogmatists believe that they have discovered how things *really* are.
+
+Frede concludes with a quote from the introduction to Heron’s treatise on artillery. For Frede, this passage shows that sceptics “were not alone” in their view that “dogmatic craving for the security of true belief” was “at best, futile, perhaps even pathological and harmful” (199). But he also notes that this “view quickly lost ground during the second and third centuries” (199).
+
+> The largest and most important part of philosophical activity is that which is devoted to peace of mind. Those who want to attain wisdom have carried out and, indeed, carry out to this very day a large number of investigations concerned with peace of mind. In fact, I believe that theoretical inquiry about this will never end. In the meantime, however, mechanics has progressed beyond the theoretical study of peace of mind, and it has taught all people, how, with the help of part of it—a very small part indeed—to live with peace of mind, I mean the part concerned with artillery (199-200).
+
+Frede’s final comment is that the sceptic’s task is to avoid two complementary dangers: (i) expecting more from reason than it can provide and (ii) “coming to hold reason in contempt”.[^10]
 
 [^1]: These passages might give more point to Frede’s distinction between “beliefs about how things are” and “beliefs about how things *really* are” (186). See also Benjamin Morison “Sextus Empiricus” in SEP.
 
 [^2]: Readers disagree enormously over the meaning and importance of this phrase. See, for example, Perrin in *The Cambridge Companion*, Fine in “Sceptical dogmata”, and Brunschwig’s article on the phrase.
 
 [^3]: Fine (in “Sceptical dogmata”, 83, note 11) prefers “non-doxastic” since it is a question of belief (δόξα) and not knowledge (ἐπιστήμη). On the one hand, this makes sense. On the other hand, “epistemic” is already quite common in this use. And the use makes sense since a “nonepistemic” appearance is one that has no tendency to get us closer to knowledge.
+
+[^4]: He cites I 20, II 26, 104; III 6, 13, 29, 65, 81, 135, 167.
+
+[^5]: The last meaning comes from a Christian text and is cited by Barnes not Frede.
+
+[^6]: The converse does not seem right to me. A belief that essentially relies on dogmatic ideas from a philosophical or theoretical school might be hard to view in an undogmatic spirit.
+
+[^7]: Though actually, now I’m not sure about *this* side of things. How could a belief like “it is day” be arrived at via reason in this highly theoretical manner?
+
+[^8]: See Fine 2000 and Morison in SEP.
+
+[^9]: Another “free rider” case: without *other people* using reason, the sceptic could never end up in such a state.
+
+[^10]: Re (ii), see Striker’s recent work for a strongly anti-rationalist account of scepticism.

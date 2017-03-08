@@ -10,6 +10,12 @@ Although it appears that sceptics *can* have some beliefs according to Barnes-st
 
 In any case, Barnes and M-style interpreters[^2] agree that Sextus should not characterize scepticism in terms of beliefs. For Barnes, this is clearly right, but M appears to forget that in his earlier article on sceptic belief, Frede says precisely the opposite.[^3] Frede points out that there are “large numbers of views which one in all likelihood would not have unless one relied on reason dogmatically, unless one thought one had arguments which justified these views” (23). He gives the example of “the Stoic concept of god.” However, Frede continues by saying holding such views non-dogmatically is “Not very likely, but not impossible” (23).
 
+## What scepticism is
+
+M understands the sceptical δύμανις as “the ability to produce equal and opposing arguments or considers for any given proposition, resulting in suspension of judgement” (269). He continues, “Thus, to be a sceptic is to possess this ability—however it is to be cashed out more explicitly—to achieve suspension of judgement through opposition” (269). M spends most of the rest of the paper examining how Sextus believes that sceptics can produce opposition and what opposition amounts to.
+
+M focuses on I 31-33 to start. In these sections Sextus describes opposition in similar terms to I 8-9, but at greater length. Sextus says that the sceptic produces ἐποχή via the opposition of things, and that 
+
 [^1]: Morison, Benjamin. Summer 2011. “The logical structure of the sceptic’s opposition”. *Oxford Studies in Ancient Philosophy*, XL, 265-295.
 
 [^2]: Throughout the paper, M describes his views of Sextus’s scepticism as following in Frede’s footsteps. He thinks of his interpretation as “following or perhaps refining” Frede’s views (266).

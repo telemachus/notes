@@ -14,7 +14,13 @@ In any case, Barnes and M-style interpreters[^2] agree that Sextus should not ch
 
 M understands the sceptical δύμανις as “the ability to produce equal and opposing arguments or considers for any given proposition, resulting in suspension of judgement” (269). He continues, “Thus, to be a sceptic is to possess this ability—however it is to be cashed out more explicitly—to achieve suspension of judgement through opposition” (269). M spends most of the rest of the paper examining how Sextus believes that sceptics can produce opposition and what opposition amounts to.
 
-M focuses on I 31-33 to start. In these sections Sextus describes opposition in similar terms to I 8-9, but at greater length. Sextus says that the sceptic produces ἐποχή via the opposition of things, and that 
+M focuses on I 31-33 to start. In these sections Sextus describes opposition in similar terms to I 8-9, but at greater length. Sextus says that the sceptic produces ἐποχή via the opposition of things and that there are three types of opposition: (1) appearances opposed to appearances, (ii) thoughts opposed to appearances, and (iii) appearances opposed to thoughts (*PH* I 32-33, 271). M translates and discusses the three initial examples that Sextus provides of the three types of oppositions:
+
+1. The same tower appears round from far off, but square from close up.
+1. Someone maintains that providence exists on the basis of order in the universe. Another person denies that providence exists because the good often do badly and the bad often do well.
+1. Snow looks white, but Anaxagoras argued that snow is frozen water and water is black, so snow is black.
+
+In order to understand how these oppositions work, M takes a close look at case 2. According to M, a Sextan opposition is a four-place relation: *x* {a person} opposes *a* {an argument} to *y* {a person} who advances *b* {an argument}, where the conclusions of *a* and *b* cannot be true together (272).
 
 [^1]: Morison, Benjamin. Summer 2011. “The logical structure of the sceptic’s opposition”. *Oxford Studies in Ancient Philosophy*, XL, 265-295.
 

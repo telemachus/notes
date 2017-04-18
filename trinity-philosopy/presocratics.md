@@ -132,7 +132,7 @@ If Aristotle can be trusted, then Anaximander argues from very abstract principl
 
 Anaximander boldy argued that nothing except equilibrium keeps the earth where it is (§20). As Aristotle puts it, earth remains διὰ ὁμοιότητα: "it is no more fitting for what occupies the middle and is equally situated in relation to the extremes to travel up than down or to the side; and it is impossible for it to make a move in contrary directions at the same time, so it stays in place by necessity" (§21).
 
-#### 2. Anaximenes
+#### 3. Anaximenes
 
 ##### Notes on Graham
 
@@ -141,3 +141,9 @@ Scholars often dismiss the importance of Anaximenes, the last Milesian, but Grah
 ##### My observations
 
 If we follow accounts such as Plato in his *Timaeus* (§10, §39), then Anaximenes is the *true* inventor of material monism because he didn't just vaguely say that one thing is the beginning (and end) of everything. What makes Anaximenes a true material monist is that he gives a quasi-scientific theory of how *one thing* becomes other things, I suppose.
+
+#### 4. Xenophanes
+
+##### Notes on Graham
+
+##### My observations

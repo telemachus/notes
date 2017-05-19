@@ -146,4 +146,26 @@ If we follow accounts such as Plato in his *Timaeus* (§10, §39), then Anaximen
 
 ##### Notes on Graham
 
+Xenophanes sometimes offers conventional-sounding piety, but his deeper views clearly clash with traditional religion. He rejects the "impious" stories from Homer and Hesiod, as Plato and others will do, and he argues for a kind of purified, rational religion—maybe even a monotheistic one.
+
+However skepticial Xenophanes may have been, he also argues that his wisdom has more value for the city than an Olympic victor does. Graham notes that athletic competitions generally "took place at religious festivals" (130), and thus Xenophanes may criticize Olympic victors as part of his overall critique of religion. (I doubt this. It seems too pointedly about value, and Xenophanes never explicitly makes the connection that Graham mentions.)
+
+Xenophanes gives "an early testimony of Pythagoras" (130). We see here an early Greek view of the doctrine of reincarnation.
+
+Xenophanes criticizes religion for being immoral and irrational. It's immoral insofar as the gods are "all-too-human" (131); the evidence here comes from Homer and Hesiod. (NB: Hesiod is on the whole no better than Homer according to Xenophanes.) It's irrational since Xenophanes offers arguments that push towards monotheism—or at least towards some kind of rationalized all-powerful, all-good god.
+
+Later Greek tradition viewed Xenophanes as the first Eleatic (and sometimes teacher of Parmenides). We see this view in Plato and Aristotle, but they didn't create it, according to Graham. They inherited it from "an earlier sophistic classification" (131). Theophrastus picks up this view and magnifies it, after which it is everywhere in the doxographic writers.
+
+The doxographers disagree: is Xenophanes a material monist (with earth as his one substance) or a dualist (with earth and water as the two elements)? Graham notes that Aristotle claims that "no one made earth the principle of all things," but some evidence suggests that Xenophanes did just that (131).
+
+Xenophanes portrays the earth as extending downwards forever with air above extending upwards forever, unlike other Presocratics who imagine the earth suspended or on top of something else.
+
+Xenophanes made use of empirical evidence (or stories about empirical evidence?) in some cases. For example, he made certain arguments based on fossil found high up. He also had a theory about the sun forming everyday from smaller flare fires that is based on (or is calibrated with?) observations from Mt. Ida.
+
+Xenophanes offers rationalizing interpretations of the rainbow and St. Elmo's fire.
+
+Graham thinks that most interpretations of Xenophanes's epistemology are too sophisticated. Instead, Graham views Xenophanes as "in some sense a fallibilist who seems to believe that progress is possible despite the absence of certainty" (133). Graham mostly tries to avoid attributing to Xenophanes anything too sophisticated or deep, as far as a theory of knowledge goes.
+
+That said, fragment 38 hints at Socratic-Platonic ideas that only god posesses certain knowledge. Humans inevitably have to settle for something less that certain knowledge.
+
 ##### My observations

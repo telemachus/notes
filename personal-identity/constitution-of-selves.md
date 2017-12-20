@@ -25,4 +25,4 @@ Third, are time-slices ontologically prior or posterior to people? Schechtman de
 
 ### Arguments for the Psychological Theory
 
-Schechtman sets the debate up as a battle between a psychological criterion and a bodily criterion. (She does not consider a mixed criterion that requires both bodily and psychological features.) Schechtman argues that the appeal of the bodily theory "is probably more immediately evident" (13). However, she also believes that once we consider a further range of cases, the psychological theory
+Schechtman sets the debate up as a battle between a psychological criterion and a bodily criterion. (She does not consider a mixed criterion that requires both bodily and psychological features.) Schechtman argues that the appeal of the bodily theory "is probably more immediately evident" (13). However, Schechtman also believes that the psychological theory makes better sense overall.

@@ -39,4 +39,34 @@ Dante Alighieri is born in Florence in 1265. Dante's mother, Bella, dies when he
 
 ## Canto 5
 
++ Minos resents Dante, and Vergil yells at him as he yelled at Charon. The pattern of demons yelling at Dante is interesting. They rebel against the law of god still?
++ He first sees sexual sinners "they who make reason subject to desire."
++ Dido? Semiramis, Dido, Cleopatra together? Why the women first?
++ Francesca and Paolo: she was married to his brother, and he was married as well. Thus, they betrayed their vows and their family.
++ What should we think of their attitude towards god and towards Dante (91-93)?
++ They read love stories together; this sparks their affair (127 ff.).
++ Dante faints again.
++ Read final note on 111 and discuss.
 
+## Canto 6
+
++ Prophecy as history: Ciacco predicts events that have already happened. Dante borrows this technique from Vergil. John Milton borrows it in turn from both of them.
+
+## Canto 7
+
++ Vergil on fortune (61 ff.)
+
+## Canto 8
+
++ Dante and Filippo Argenti (31-64)
++ Dante left alone (94-111)
++ The fallen angels refuse Vergil (115-130)
+
+## Canto 9
+
++ Dante's fear and Vergil's hesitation (1-9)
+
+## Canto 10
+
++ Dante exiles Guido; Dante will be exiled himself.
++ Prophecy in the poem?

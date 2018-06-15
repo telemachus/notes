@@ -16,4 +16,10 @@ Contrast these two as opposite sides of the same coin? Heraclitus argues that th
 
 ### Appearance and reality
 
+## Aristotle
 
+### PNC
+
+*Three philosophers* Geach and Anscombe
+
+*Proceedings of the Boston Area Colloquium in Ancient Philosophy* (Volume VIII, 1992) Paula Gottlieb

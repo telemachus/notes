@@ -1,0 +1,102 @@
+% [[- LaTeX prelude
+\documentclass[11pt,letterpaper]{book}
+
+\usepackage[no-math]{fontspec}
+\setmainfont{Hoefler Text}
+
+\usepackage[nolocalmarks]{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage[variant=ancient]{latin}
+\setotherlanguage[variant=ancient]{greek}
+\newfontfamily\greekfont[Script=Greek]{Times New Roman}
+
+% Change title for TOC
+\renewcommand{\contentsname}{Contents}
+
+% Remove numbering from blank pages created for start of chapter rules.
+\usepackage{emptypage}
+
+% Don’t indent paragraphs. Skip a line between them instead.
+\usepackage[parfill]{parskip}
+
+\usepackage{csquotes}
+\usepackage[notes,backend=biber]{biblatex-chicago}
+% Define my own bibheading
+\defbibheading{smaller}[]{%
+    \subsection*{#1}
+}
+\addbibresource{skepticism.bib}
+
+% See the following resources:
+%   https://orthostat.wordpress.com/2013/02/16/moving-to-biblatex-1/
+%%
+% Remove pp. in citations.
+\DeclareFieldFormat{postnote}{#1}
+% Remove pp. from bibliography.
+\DeclareFieldFormat%
+    [article,inbook,incollection,inproceedings,thesis,patent,unpublished]%
+    {pages}{{\nopp#1}}
+% Use single quotes around titles of chapters and articles, not double.
+% \DeclareFieldFormat%
+%     [article,inbook,incollection,inproceedings,thesis,patent,unpublished]%
+%     {title}{`#1'}
+% Use commas rather than periods to separate units in the bibliography.
+% \renewcommand*{\newunitpunct}{\addcomma\space}
+% Place a space rather than a comma between name and year in citations.
+% \renewcommand{\nameyeardelim}{~}
+% Place a colon+narrow space before page numbers in citations.
+% \renewcommand{\postnotedelim}{:\,}
+% No "in:" for articles at all. For all else, remove the colon.
+% \renewbibmacro{in:}{%
+% 	\ifentrytype{article}{}{\printtext{\bibstring{in}}}
+% }
+% Remove parentheses around date in bibliography.
+% See http://tex.stackexchange.com/a/40710/29387
+% \usepackage{xpatch}
+% \xpatchbibmacro{date+extrayear}{%
+% 	\printtext[parens]%
+% }{%
+% 	\setunit{\addperiod\space}%
+% 	\printtext%
+% }{}{}
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage[super]{nth}
+
+
+\begin{hyphenrules}{latin}
+    \hyphenation{}
+\end{hyphenrules}
+
+\begin{hyphenrules}{greek}
+    \hyphenation{}
+\end{hyphenrules}
+% -]] Latex prelude
+
+% [[- Document
+\begin{document}
+
+\nocite{*}
+
+\include{titlepage}
+
+\frontmatter
+    \include{toc}
+    % \include{abbreviations}
+
+\mainmatter
+    % \include{introduction}
+    \include{book-one}
+    % \include{book-two}
+    % \include{book-three}
+
+\backmatter
+% \renewcommand{\thesection}{\Roman{section}}
+ \printbibliography[keyword=primary,title={Ancient Sources: Editions,%
+     Translations, Commentaries},heading=smaller]
+ \printbibliography[notkeyword=primary,title={Secondary Literature},%
+     heading=smaller]
+
+\end{document}
+% -]] Document

@@ -1,8 +1,8 @@
 % [[- LaTeX prelude
-\documentclass[11pt,letterpaper]{book}
+\documentclass[10pt,letterpaper]{book}
 
 \usepackage[no-math]{fontspec}
-\setmainfont{Hoefler Text}
+\setmainfont{Gentium Book Basic}
 
 \usepackage[nolocalmarks]{polyglossia}
 \setdefaultlanguage{english}
@@ -12,6 +12,37 @@
 
 % Change title for TOC
 \renewcommand{\contentsname}{Contents}
+
+\usepackage[]{titlesec}
+
+\newpagestyle{main}{%
+    \sethead%
+        []% even-left
+        [\MakeUppercase{\sectiontitle}]% even-center
+        []% even-right
+        {}% odd-left
+        {\MakeUppercase{\sectiontitle}}% odd-center
+        {}% odd-right
+    \setfoot%
+        {}% left
+        {\thepage}% center
+        {}% right
+}
+\newpagestyle{references}{%
+    \sethead%
+        []% even-left
+        [\MakeUppercase{\chaptertitle}]% even-center
+        []% even-right
+        {}% odd-left
+        {\MakeUppercase{\chaptertitle}}% odd-center
+        {}% odd-right
+    \setfoot%
+        {}% left
+        {\thepage}% center
+        {}% right
+}
+\titleformat{\chapter}{\normalfont\bfseries}{}{0em}{\Large}
+\titleformat{\section}{\normalfont\bfseries}{}{0em}{}
 
 % Remove numbering from blank pages created for start of chapter rules.
 \usepackage{emptypage}
@@ -86,6 +117,7 @@
     % \include{abbreviations}
 
 \mainmatter
+    \pagestyle{main}
     % \include{introduction}
     \include{book-one}
     % \include{book-two}
@@ -93,10 +125,12 @@
 
 \backmatter
 % \renewcommand{\thesection}{\Roman{section}}
- \printbibliography[keyword=primary,title={Ancient Sources: Editions,%
-     Translations, Commentaries},heading=smaller]
- \printbibliography[notkeyword=primary,title={Secondary Literature},%
-     heading=smaller]
+    \pagestyle{references}
+    \chapter{References}
+    \printbibliography[keyword=primary,title={Primary Sources: Editions,%
+        Translations, Commentaries},heading=smaller]
+    \printbibliography[notkeyword=primary,title={Secondary Literature},%
+        heading=smaller]
 
 \end{document}
 % -]] Document

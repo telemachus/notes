@@ -54,7 +54,7 @@ Frede explains this distinction by describing a general program among dogmatists
 Frede raises an even more serious objection: perhaps when sceptics say that something appears or seems such-and-such to them, they are using “appear” or “seem” in a non-doxastic[^3] sense. This view is fairly popular; for example, Burnyeat, Barnes, and Fine argue for or rely on this interpretation. Although Frede admits that there is evidence that might tend to support this reading of Sextus, he offers three arguments against it:
 
 1. The nonepistemic reading relies on the belief that the sceptics suspend judgment about everything, without any qualification. But of course this is not itself clear.
-1. The nonepistemic reading relies on an “inadequate understanding of the contrast between appearance and reality.
+1. The nonepistemic reading relies on an “inadequate understanding of the contrast between appearance and reality.”
 1. The nonepistemic reading “leads to...a disastrous misunderstanding of the epistemological problem, the misunderstanding that certain mental contents...are directly accessible and that the problem is only how to get from these representations to knowledge of the things that the representations represent” (187).
 
 ### First objection: do sceptics suspend judgment without qualification?

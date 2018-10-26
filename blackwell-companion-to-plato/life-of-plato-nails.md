@@ -1,0 +1,7 @@
+# "The Life of Plato of Athens" Debra Nails (1-12)
+
+Nails wants to do better than the "inevitable and prolonged" mythmaking about Plato (1). In particular, she casts doubt on the cookie-cutter life in the pattern of Apollodorus "who divided ancient lives into four twenty-year periods with an *akmē* at age 40" (1). In that model, Plato is born in 427, meets Socrates at 20 (when Socrates is 60), creates the Academy at 40, travels to Sicily at 60, and dies at 80. Nails agrees with the date of Plato's death.
+
+Plato was born in 424/423 to Ariston and Perictione. (Plato was enrolled in the deme of Collytus (Kollytos) in tribe of Aigeis.) Ariston's father was Aristocles, and Perictione's father was Glaucon. Plato's parents married not later than 432, and Plato was their fourth child. Both parents were well born, with archons in their family line going back multiple centuries; Perictione was related to Solon. Ariston died around the time that Plato was born, and Perictione remarried her uncle. (This practice was common in Athens as a way to keep family estates together since women had no legal independence.)
+
+Plato was a young boy and early teen during the Peloponnesian War. But although the war was raging, Plato still likely received an excellent traditional education. He probably met Socrates while under the care of his older brothers in his mid-teens. (Nails notes that *Lysis* is set in 409, when Plato was 15 while *Euthydemus* is set a few years later. These two dialogues, in her mind, give us "insight into Plato's school-age years" (2).)

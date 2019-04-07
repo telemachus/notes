@@ -71,6 +71,4 @@ next day,” after the conversation at Catulus’s villa which Cicero narrated i
 the first book of this edition. (See Brittain xvii-xviii for a brief discussion
 of what the *Catulus* contained.)
 
-[^1]: Although Cicero briefly argues that envy motivates people who say these
-  figures lack scientific knowledge of philosophy, he later rewrote the
-  Academics to give it more suitable interlocutors.
+[^1]: Although Cicero briefly argues that envy motivates people who say these figures lack scientific knowledge of philosophy, he later rewrote the Academics to give it more suitable interlocutors.

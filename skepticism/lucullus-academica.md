@@ -71,4 +71,16 @@ next day,” after the conversation at Catulus’s villa which Cicero narrated i
 the first book of this edition. (See Brittain xvii-xviii for a brief discussion
 of what the *Catulus* contained.)
 
+## 11-62: Antiochus via Lucullus
+
+### 11-12: Antiochus versus Philo
+
+When Lucullus was in Alexandria, Antiochus and Heraclitus were with him.
+Lucullus frequently heard them debate on many subjects. When Antiochus read
+Philo’s *Roman Books*, he became enraged at his former teacher, and he wrote his
+*Sosus* to argue against Philo. Lucullus will present the arguments Antiochus
+made against the Academics then. However, Lucullus will skip the specific
+arguments Antiochus made against Philo; instead he will present what Antiochus
+argues against Arcesilaus and Carneades.
+
 [^1]: Although Cicero briefly argues that envy motivates people who say these figures lack scientific knowledge of philosophy, he later rewrote the Academics to give it more suitable interlocutors.

@@ -54,4 +54,14 @@ Bett sees “two implications” in Sextus’s use of “so-called [*kaloumenês
 
 ## Humor as Philosophical Subversion, Especially in the Skeptics
 
+Not much here to talk about
 
+## The Modes in Sextus: Theory and Practice
+
+Skepticism is “an ability to produce suspension of judgment (*epochê*), and thereby tranquility (*ataraxia*)” (110). Bett also argues that “Skepticism does not argue for the conclusion that we *ought* to suspend judgment, given the merits of the arguments; rather, it brings about a certain *outcome*—suspension of judgment—as a result of the equal attractiveness (or unattractiveness) of the various positions on offer. If it was an argument for the conclusion that one ought to suspend judgment, that would invite the question “why?”; and it is hard to see how to answer except by appealing to norms of rationality—norms that Sextus, who claims to suspend judgment about at least all theoretical matters (*PH* 1.13), and who includes deduction, induction, and demonstration among the targets of his skeptical procedure (*PH* 2.134-204), would have no business signing on to” (110).
+
+Questions:
+
+1. If the skeptic does not care about “norms of rationality,” why should he care if he violates them by appealing to them when he doesn’t care about them?
+2. Regardless of whether the skeptic cares about such norms, both dogmatists and (at least sometimes) ordinary people care about such norms. Hence, can’t the skeptic appeal to them as part of a dialectical engagement?3. Bett says “the orthodox reconstruction” (which Morison provides) “does not seem to be consistent with Sextus’ description of skepticism as an “ability” (110, 111). (In fact, both Bett and Morison agree about this.) Why not? Sextus may, or may not, accept the norms of rationality, but an appeal to such norms may be an effective tool in debate. As such, Sextus can certainly make such appeals as part of his ability to produce suspension of judgment in others.
+4. Does Bett believe that the modes are for Sextus to use on himself (or any skeptic to use on themselves) or for Sextus to use against dogmatists and possibly ordinary people? Both?

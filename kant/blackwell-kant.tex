@@ -1,0 +1,129 @@
+% [[- LaTeX prelude
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage[no-math]{fontspec}
+\setmainfont{Baskerville}
+
+\usepackage[base]{babel} % Ugh: https://tex.stackexchange.com/a/400994/29387
+\usepackage[nolocalmarks]{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage[variant=classic]{latin}
+\setotherlanguage[variant=ancient]{greek}
+\newfontfamily\greekfont[Script=Greek,Scale=MatchLowercase]{GFS Neohellenic}
+
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\bfseries}
+\titleformat*{\subsubsection}{\bfseries}
+
+\usepackage{parskip}
+\usepackage{csquotes}
+\usepackage[style=windycity,citetracker=context,backend=biber]{biblatex}
+\addbibresource{kant.bib}
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage[super]{nth}
+
+\begin{hyphenrules}{latin}
+    \hyphenation{}
+\end{hyphenrules}
+
+\begin{hyphenrules}{greek}
+    \hyphenation{}
+\end{hyphenrules}
+
+\usepackage{fancyhdr}
+\fancypagestyle{notes}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{Notes on \textit{Kant} (Blackwell Great Minds)}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+\fancypagestyle{references}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{References}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+
+\newcommand{\MONTH}{%
+  \ifcase\the\month
+  \or January% 1
+  \or February% 2
+  \or March% 3
+  \or April% 4
+  \or May% 5
+  \or June% 6
+  \or July% 7
+  \or August% 8
+  \or September% 9
+  \or October% 10
+  \or November% 11
+  \or December% 12
+  \fi}
+% -]] Latex prelude
+
+% [[- LaTeX document
+\begin{document}
+
+% [[- Title page
+\begin{titlepage}
+    \title{Notes on \textit{Kant} (Blackwell Great Minds)}
+    \author{Peter Aronoff}
+    \date{December 2020--\MONTH\ \the\year}
+    \maketitle
+    \thispagestyle{empty}
+\end{titlepage}
+% -]]
+
+\pagestyle{notes}
+
+% [[- Life and Works
+\section*{Life and Works}
+
+Wood sees Kant as a turning-point between early modern and contemporary philosophy.%
+\footcite[Unless stated otherwise, all references come from][]{kant-wood-2005}
+Looking back, we can see that Kant was still trying to ``solve the problems that had occupied philosophers in the seventeenth and eighteenth centuries'' (1).
+For example, Kant still wants to provide a foundation for science, as Descartes did.
+Kant also wants to understand how advances in science relate to ``traditional conceptions of metaphysics, morality, and religion'' (1).
+Looking forward, however, we can see that ``Kant redefined the philosophical agenda of the early modern period, determining the problems faced by the nineteenth and twentieth centuries'' (1).
+Kant changes the focus of metaphysics ``from the first-order study of the supernatural or incorporeal realm of being to the second-order study of the way human inquiry itself makes possible its access to whatever subject matter it studies'' (1).
+
+Kant was born in 1724 to relatively poor parents.
+His father was a leatherworker, and his mother's father was in the same guild.
+Although Kant's parents were both pietists, Kant has mostly negative things to say about the pietist movement.
+Nevertheless, Kant attended the \textit{Collegium Fredericianum} because the family's pastor got him a scholarship.
+(This pastor, Franz Albert Schulz, was the rector of the school Kant attended.)
+Kant studied Latin and other subjects at the \textit{Collegium}, and he enrolled in a university at 16, in 1740.
+In the same year, Frederick the Great became King of Prussia, and he recalled Christian Wolff from exile.
+Thus, Kant began college as the Enlightenment found new favor in Prussia.
+
+Kant spent his entire life in Königsberg.
+% -]] Life and Works
+
+% [[- Bibliography
+\newpage
+\pagestyle{references}
+\defbibfilter{primary}{%
+    keyword=primary
+}
+\defbibfilter{secondary}{%
+    keyword=secondary
+}
+
+% \nocite{*}
+\printbibliography[filter=primary,title={Primary Sources}]
+\printbibliography[filter=secondary,title={Secondary Sources}]
+% -]] Bibliography
+
+\end{document}
+% -]]

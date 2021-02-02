@@ -1,0 +1,220 @@
+% [[- LaTeX prelude
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage[no-math]{fontspec}
+\setmainfont{Baskerville}
+
+\usepackage[nolocalmarks]{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage[variant=classic]{latin}
+\setotherlanguage[variant=ancient]{greek}
+\newfontfamily\greekfont[Script=Greek,Scale=MatchLowercase]{GFS Neohellenic}
+
+\usepackage{fnpct}
+
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\bfseries}
+\titleformat*{\subsubsection}{\bfseries}
+
+\usepackage{parskip}
+\usepackage{csquotes}
+\DeclareAutoPunct{.,}
+\renewcommand{\mkcitation}[1]{\footnote{#1}}
+\renewcommand{\mktextquote}[6]{#1#2#4#5#3#6}
+
+\usepackage[style=windycity,citetracker=context,backend=biber]{biblatex}
+\addbibresource{kant.bib}
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage[super]{nth}
+
+\begin{hyphenrules}{latin}
+    \hyphenation{}
+\end{hyphenrules}
+
+\begin{hyphenrules}{greek}
+    \hyphenation{}
+\end{hyphenrules}
+
+\usepackage{fancyhdr}
+\fancypagestyle{notes}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{Class Readings on Kant's \textit{Critique of Pure Reason}}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+\fancypagestyle{references}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{References}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+
+\newcommand{\MONTH}{%
+  \ifcase\the\month
+  \or January% 1
+  \or February% 2
+  \or March% 3
+  \or April% 4
+  \or May% 5
+  \or June% 6
+  \or July% 7
+  \or August% 8
+  \or September% 9
+  \or October% 10
+  \or November% 11
+  \or December% 12
+  \fi}
+% -]] Latex prelude
+
+% [[- LaTeX document
+\begin{document}
+
+% [[- Title page
+\begin{titlepage}
+\title{Notes on Kant's \textit{Critique of Pure Reason}}
+\author{Peter Aronoff}
+\date{January 2021--\MONTH\ \the\year}
+\maketitle
+\thispagestyle{empty}
+\end{titlepage}
+% -]] Title page
+
+\pagestyle{notes}
+
+% [[- Metaphysics and the ``Fiery Test of Critique''
+\section*{Metaphysics and the ``Fiery Test of Critique''}
+
+
+% -]] Metaphysics and the ``Fiery Test of Critique''
+
+% [[- Rational Metaphysics: The Highest Aims of Speculative Reason
+\subsection*{Rational Metaphysics: The Highest Aims of Speculative Reason}
+
+In this chapter, James O'Shea introduces readers to Kant's \textit{Critique of Pure Reason}.
+O'Shea sets out Kant's goals and explains how Kant saw himself in the history of metaphysics.
+According to O'Shea, Kant ``intended both to tear down and to rebuild\ldots rational metapysics'' (13).%
+\footcite[Unless I say otherwise, all references to O'Shea come from][]{kants-critique-pure-reason-oshea-2014}
+In the first two chapters of his book, O'Shea focuses on what Kant attacks.
+Later, he will discuss Kant's own views.
+% -]] Rational Metaphysics: The Highest Aims of Speculative Reason
+
+% [[- What is metaphysics?
+\subsubsection*{What is metaphysics?}
+
+O'Shea uses Kant's \textit{Lectures on Metaphysics} to explain how Kant understood metaphysics.
+First, it's worth saying that Kant had a positive view of the importance of metaphysics in his early lectures.
+Kant paints a traditional picture of metaphysics.
+According to Kant, Aristotle creates metaphysics as we know it.
+On the other hand, and this is me speaking not O'Shea, when Kant describes metaphysics, he seems to me to have Descartes rather than Aristotle in mind.
+According to Kant, when we study metaphysics we study nature insofar as we can think about nature \textit{a priori} and without sensory experience.
+When we study nature in this way, we focus on three things above all: (1) god, as the beginning of all things; (2) freedom, by which Kant seems to mean our ability to follow reason despite our physical limitations and desires, and (3) immortality, i.e., whether the soul will survive the death of the body.
+Aristotle does not focus on these three things at all, but Descartes does.
+
+Regardless of who Kant follows, he believes that prior metaphysics has utterly failed to prove that god exists, we are free, and souls are immortal.
+Even worse, Kant believes that metaphysics is bound to fail.
+Kant says in Preface-A that (i) people will inevitibly ask metaphysical questions which (ii) they will inevitably fail to answer.
+And yet, Kant also thinks that, in some sense, he has avoided this failure.
+Presumably, this involves his \textit{Copernican revolution}: Kant succeeds by changing the terms of the debate.
+Thus, he answers questions that are related to the original questions but which we can answer.
+% -]] What is metaphysics?
+
+% [[- Theoretical reason versus practical reason
+\subsubsection*{Theoretical reason versus practical reason}
+
+According to O'Shea, Kant distinguishes three types of reason: theoretical, speculative, and practical reason.
+Theoretical reason considers how things necessarily are.
+Practical reason considers how things should be.
+Sometimes Kant uses ``speculative reason'' as a synonym for ``theoretical reason,'' but in more precise moods, he distinguishes them.
+Kant believes that theoretical reason cannot establish that god or free will exist or that souls are immortal; from the perspective of theoretical reason, these questions have no answer.
+Sometimes Kant uses ``speculative reason'' to describe attempts to answer such questions despite their being unanswerable.
+(In these places, ``speculative'' is pejorative, I suppose.)
+From the perspective of practical reason, however, Kant thinks that he can establish that god exists, that we enjoy free will, and that we are immortal.
+Thus, speculative reason attempts to answer questions in a way that they cannot be answered instead of switching from a theoretical to a practical point of view.
+(Kant argues that, e.g., free will exists using an argument that sounds to me somewhat like Strawson in ``Freedom and Resentment.'')
+% -]] Theoretical reason versus practical reason
+
+% [[- Denying speculative knowledge, making room for rational faith
+\subsubsection*{Denying speculative knowledge, making room for rational faith}
+
+Kant feared that metaphysics made peole less likely to believe in god, free will, and immortality, but he also believed that he turn things around.
+He denied that theoretical reason could prove that god and free will existed and that souls were immortal in order that he could then show that practical reason \textit{could} establish these same things.
+As Kant says in Preface-B, he believed that is necessary ``to deny knowledge in order to make room for faith'' (Bxxx).
+However, as O'Shea notes, Kant does not deny knowledge generally or absolutely here; he only denies that one type of knowledge (theoretical reason) can demonstrate some results (that god and free will exist and that souls are immortal) (18--19).
+Kant still believes that theoretical knowledge can demonstrate many other things.
+% -]] Denying speculative knowledge, making room for rational faith
+
+% [[- \textit{a priori} versus \textit{a posteriori}, pure versus empirical
+\subsubsection*{\textit{a priori} versus \textit{a posteriori}, pure versus empirical}
+
+Kant distinguishes between \textit{a priori} and \textit{a posteriori} knowledge or thought.
+\textit{A priori} thought is universal, necessary, and independent of all experience.
+Universal and necessary are relatively clear.
+In the case of, e.g., causality, we may say that every event must have a cause.%
+\footnote{O'Shea uses this example on 21.}
+But it can be a bit more difficult to explain how any thought is independent of all experience.
+
+Insofar as I understand O'Shea here, he argues the following.
+Every person will have some experiences that lead to their knowing, say, that two plus two equals four.
+But the knowledge that two plus two equals four does not ultimately depend on those experiences.
+We can abstract away the abstract knowledge from whatever particulars happened to get us to the knowledge.
+The proof that two plus two equals four does not rely on anything like the apples or coins that someone used to teach you that two plus two equals four.
+
+By contrast, \textit{a posteriori} knowledge is empirical.
+We cannot separate \textit{a posteriori} knowledge from experience because experience is required to justify or proove the knowledge.
+Examples of \textit{a posteriori} knowledge are ``8th Street in NYC is south of 42nd Street'' and ``water is H\textsubscript{2}O.''
+
+Kant further distinguishes between pure and impure \textit{a priori} knowledge.
+(To make things more complicated, Kant sometimes uses \textit{mixed} instead of \textit{impure}.)
+A pure \textit{a priori} thought has no empirical content whatsoever.
+But an impure (or mixed) \textit{a priori} thought has some emprical content, even if the thought as a whole is knowlable independently of experience (of particular objects?).
+% -]] \textit{a priori} versus \textit{a posteriori}, pure versus empirical
+
+% [[- `Appearances' Versus `Things in Themselves': Kant's Transcendental Idealism
+\subsection*{`Appearances' Versus `Things in Themselves': Kant's Transcendental Idealism}
+
+% -]] `Appearances' versus `things in themselves': Kant's transcendental idealism
+
+% [[- Sensible `appearances' versus intelligible `things in themselves'
+\subsubsection*{Sensible `appearances' versus intelligible `things in themselves'}
+
+Although there are some differences between them, Kant and critics of Kant generally treat \textit{appearances} and \textit{phenomena} as the same and \textit{things in themselves} and \textit{noumena} as the same.
+The word \textit{appearances} here is not pejorative, and it does not imply error.
+Appearances are simply ordinary objects in space and time that our senses can (and do!) perceive.
+In this sense, the appearance or phenomenon is the thing we perceive, not our act of perceiving it.
+Kant includes as appearances things we can perceive indirectly even if the object itself is not directly observable.
+% -]] Sensible `appearances' versus intelligible `things in themselves'
+
+% [[- Transcendental idealism
+\subsubsection*{Transcendental idealism}
+
+O'Shea asks: Why does Kant use `appearance' instead of `physical object' and `mere appearances to us' instead of `psychological states' (28)?
+% -]] Transcendental idealism
+
+% [[- Bibliography
+\newpage
+\pagestyle{references}
+\defbibfilter{primary}{%
+    keyword=primary
+}
+\defbibfilter{secondary}{%
+    keyword=secondary
+}
+
+%\nocite{*}
+\printbibliography[filter=primary,title={Primary Sources}]
+\printbibliography[filter=secondary,title={Secondary Sources}]
+% -]] Bibliography
+
+\end{document}
+% -]] LaTeX document

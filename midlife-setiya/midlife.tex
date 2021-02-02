@@ -1,0 +1,262 @@
+% [[- Prelude
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage[no-math]{fontspec}
+\setmainfont{Baskerville}
+
+\usepackage[base]{babel} % Ugh: https://tex.stackexchange.com/a/400994/29387
+\usepackage[nolocalmarks]{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage[variant=classic]{latin}
+\setotherlanguage[variant=ancient]{greek}
+\newfontfamily\greekfont[Script=Greek,Scale=MatchLowercase]{GFS Neohellenic}
+
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\bfseries}
+\titleformat*{\subsubsection}{\bfseries}
+
+\usepackage{parskip}
+\usepackage{csquotes}
+\usepackage[style=windycity,citetracker=context,backend=biber]{biblatex}
+\addbibresource{midlife.bib}
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage[super]{nth}
+
+\begin{hyphenrules}{latin}
+    \hyphenation{}
+\end{hyphenrules}
+
+\begin{hyphenrules}{greek}
+    \hyphenation{}
+\end{hyphenrules}
+
+\usepackage{fancyhdr}
+\fancypagestyle{notes}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{Notes on \textit{Midlife: A Philosophical Guide}}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+\fancypagestyle{references}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0pt}
+    \lhead{}
+    \chead{\MakeUppercase{References}}
+    \rhead{}
+    \lfoot{}
+    \cfoot{\thepage}
+    \rfoot{}
+}
+
+\newcommand{\MONTH}{%
+  \ifcase\the\month
+  \or January% 1
+  \or February% 2
+  \or March% 3
+  \or April% 4
+  \or May% 5
+  \or June% 6
+  \or July% 7
+  \or August% 8
+  \or September% 9
+  \or October% 10
+  \or November% 11
+  \or December% 12
+  \fi}
+% -]] Prelude
+
+% [[- Document
+\begin{document}
+
+% [[- Title
+\begin{titlepage}
+    \title{Notes on \textit{Midlife}}
+    \author{Peter Aronoff}
+    \date{January 2021--\MONTH\ \the\year}
+    \maketitle
+    \thispagestyle{empty}
+\end{titlepage}
+% -]] Title
+
+\pagestyle{notes}
+
+% [[- Chapter 1: A Brief History of the Midlife Crisis
+\section*{Chapter 1: A Brief History of the Midlife Crisis}
+
+In this first chapter, Setiya gives a brief history of the concept of a midlife crisis.%
+\footcite[Unless I say otherwise, all citations refer to][]{midlife-setiya-2017}
+Setiya discusses two concepts of midlife, and he stresses that they differ in important ways.
+The first concept originates in psychoanalysis, and the second in economics.
+I suspect that most people think of the psychoanalytic concept when they hear or read \textit{midlife crisis}.
+As a result, we should carefully distinguish them if possible.
+% -]] Chapter 1: A Brief History of the Midlife Crisis
+
+% [[- A Psychoanalytic Midlife Crisis
+\subsection*{A Psychoanalytic Midlife Crisis}
+
+The concept of a midlife crisis springs from psychoanalysis.
+In 1965, Elliott Jaques publishes ``Death and the mid-life crisis'' in \textit{International Journal of Psychoanalysis}.
+Although Jaques does not invent the concept out of nothing, he gives midlife crisis its name and launches its career.
+Following Jacques, other psychologists and psychiatrists examine midlife through studies and interviews, and in 1976 Gail Sheehy, a journalist, popularizes the concept in \textit{Passages: Predictable Crises of Adult Life}.
+
+We get the popular understanding of a midlife crisis from these works and others like them.
+According to this understanding, when people reach midlife---their thirties or forties---they experience a physical, emotional, and social crisis.
+At midlife, physical strength and health decline, progress at work stalls or becomes more difficult, and family life seems more constricting than rewarding.
+People feel that new and good experiences are all in the past: the future will only be the same or worse.
+In addition, people experience a crisis of meaning and purpose.
+They lose sense of why they do what they do; they lose faith that anything is genuinely worth doing.
+
+Setiya stresses that the popular conception exaggerates or mistakes key features of the psychoanalytic midlife crisis.
+The popular conception sometimes claims that a midlife crisis is a universal feature of human life, but Jaques and company did not claim this.
+The popular conception usually sees a midlife crisis as almost entirely negative, but again early writers discuss rebirth and renewal as much as anxiety and tedium.
+Nevertheless, the universal and negative conception is widespread.
+
+Another problem for the psychoanalytic midlife crisis is replication.
+In the 1990s a very large study ``revealed a positive portrayal of aging'' (14).
+In another study, only 26 percent of respondents said they experienced a midlife crisis.
+Further work suggests that even that number is too high since people used a very loose definition of ``midlife crisis.''
+That is, some said they had a midlife crisis if anything difficult happened to them in their thirties and forties.
+Further studies have supported the reversal, and many social scientists now view the psychoanalytic midlife crisis as a myth, exaggeration, or popular misunderstanding.
+% -]] A Psychoanalytic Midlife Crisis
+
+% [[- An Economic Midlife Crisis
+\subsection*{An Economic Midlife Crisis}
+
+Nevertheless, economists have given the midlife crisis a second life.
+In the 1980s and 1990s, economists began to study well-being in addition to money.
+In that context, two economists argued in 2008 that well-being shows a U-shaped curve over a person's life.
+They consider well-being starting from young adulthood, and they argue that it begins high, bottoms out in the mid-forties, and then climbs again as people grow older.
+They claim that this finding applies cross-culturally to men and women, and subsequent studies confirm their findings.
+Setiya also mentions a study from 2012 that finds a U-shaped curve in the well-being of great apes (20).
+
+How is this concept of a midlife crisis different from the earlier one?
+The earlier concept stresses crisis as catastrophe, and it suggests that things continue downhill after midlife.
+This new concept only posits a relative low point, and it acknowledges that many people have a gentler midlife crisis.
+Perhaps most importantly, the economic midlife predicts an upturn in well-being after the relative low point.
+In all these ways, economics paints a more positive picture than psychoanalysis.
+
+Setiya endorses Hannes Schwandt, who explains the U-shaped curve in terms of desires and expectations.
+In Setiya's description,
+``Schwandt learned that younger people tend to over-estimate how satisfied they will be, while mid-lifers underestimate old age.
+Middle age is consequently worse than anticipated and at the same time hopes for the future fade.
+Hence the dismal vertex of the U-curve'' (21).
+
+Although the economic midlife is relatively positive, Setiya argues that the U-curve ``resonates'' with the psychoanalytic crisis (20--21, quotation on 21).
+If the U-curve is the relative low point for most people, then \textit{that} is where we should expect to see a majority of crises.
+According to Setiya, some economic studies bear this out: the greatest likelihood of a traumatic midlife crisis is at the bottom of the U-curve.
+In addition, Schwandt explains the U-curve in a way that echoes psychoanalysis.
+At the bottom of the U-curve, according to Schwandt, people anticipate a poor future and believe that they have not achieved all they should have.
+
+Although Setiya acknowledges that some scholars deny even the U-curve, he will employ that conception of midlife in this book.
+Setiya also notes that this book is personal in two ways.
+First, Setiya himself writes the book partly because he has experienced some form of midlife crisis.
+He has asked, ``Chapter 2: Is That All There Is?''
+Second, Setiya will approach the questions that the U-curve poses as the philosopher he is rather than as a psychologist or economist.
+In the final section of this chapter, he explains what a philosophical approach means.
+% -]] An Economic Midlife Crisis
+
+% [[- A Philosophical Approach
+\subsection*{A Philosophical Approach}
+
+On the one hand, we would expect philosophers to study midlife crises.
+During a midlife crisis, some people experience a depressing sense that nothing has any value.
+Philosophers have quite a lot to say about value---what matters and why.
+The U-curve also tracks well-being over the course of a life, and philosophers certainly care about well-being.
+
+Nevertheless, philosophers have not paid much attention to midlife, and Setiya thinks that there are some good reasons why they have not.
+First, philosophy often avoids ``the grimy facts of aging and bodily decay'' (24).
+Second, people predominantly investigate midlife via empirical studies, and philosophy doesn't do empirical studies.%
+\footnote{We might quibble: there is such a thing as experimental philosophy.
+Nevertheless, I think Setiya makes a reasonable point.}
+Even when philosophers contribute to empirical research, they do so at a very high level of abstraction.
+For example, philosophers have views about counter-factual reasoning, but these views are very general.
+Thus, even here, philosophers don't contribute specifically to the study of midlife.
+Third, Setiya believes that ``philosophers look for questions that feel  timeless and universal'' (24).
+For example, Setiya refers to Kant and Aristotle.
+Kant examines the question ``What should I do?''
+Aristotle investigates what makes a good life good.
+Neither Kant nor Aristotle seem to leave room for the specific challenges of midlife.
+
+Nevertheless, Setiya thinks that midlife raises issues that people must face and that philosophers should consider.
+At midlife, Setiya notes, a person ``has a meaningful past and a meaningful future, both of which [they] must confront'' (25--26)
+As Setiya points out, however, midlife involves a more complex temporal situation than Aristotle or Kant imagine.
+When Aristotle evaluates human flourishing, he looks back on completed lives from the outside.
+When Kant asks what we should do, he looks exclusively towards the future, which he appears to imagine as completely open.
+In midlife, however, we look backward and forward.
+Unlike Aristotle, at midlife we can only consider part of a completed life: we cannot yet see the whole that Solon recommends.
+We can begin to judge our lives, but we cannot render a final judgment.
+Unlike Kant, at midlife we do not ask what we should do as if everything is on the table and nothing has already happened.
+At midlife, we have both a past and a future.
+We have made many choices already, and past choices can make future choices more difficult or impossible.
+
+How does Setiya understand the specifically \textit{philosophical} nature of his book?
+According to Setiya, ``the methods of philosophy are reflection and reasoning'' (27).
+He explicitly disavows the methods of social science: he will present no experimental results, and he doesn't expect us to take his word for things.
+He will give us ``analyses and arguments'' (27), and we should only accept what we ``can confirm [ourselves]'' (28).
+
+In addition, Setiya describes the book as ``a form of cognitive therapy'' (26).
+Although this may not sound abstract enough for philosophy, Setiya appears to have in mind something like Stoic or Epicurean emotional therapy.
+Setiya can improve how we feel and how we behave by discussing ``abstract questions of knowledge, value, and time'' (27).
+As our beliefs change, so do our emotions and our actions.
+Hence, the therapy truly is cognitive.
+
+At the same time, Setiya says that his ``pursuit of these ideas is personal and introspective'' (26).
+Again, he will not rely on laboratory studies or social science for data.
+Instead, he will consider his own experiences, as well as those of novelists, philosophers, and other figures.
+Although Setiya examines accounts from different people, he avoids questions about the ``social construction'' (27) of midlife.
+He also avoids some familiar clichés: he doesn't say much about ``fast cars and wild affairs'' (27).
+% -]] A Philosophical Approach
+
+% [[- Chapter 2: Is That All There Is?
+\section*{Chapter 2: Is That All There Is?}
+
+In Chapter 2, Setiya considers John Stuart Mill.
+In some ways, Mill does not provide an appropriate example, as Setiya acknowledges.
+First, Mill had an extremely idiosyncratic childhood, so we can't expect other people to have the same problems as him for the same reasons.
+Second, Mill experienced his crisis early in life, at the age of twenty.
+Nevertheless, Setiya argues that Mill can help us understand midlife.
+First, Mill undergoes a breakdown that partially echoes the midlife crisis.
+Second, Setiya will use this chapter to discuss some key distinctions.
+% -]] Chapter 2: Is That All There Is?
+
+% [[- Mill's Breakdown
+\subsection*{Mill's Breakdown}
+
+At the age of twenty, Mill had a breakdown.
+Mill's father raised him in an experimental and relentless manner.
+James Mill, under the influence of Jeremy Bentham, attempted to make John Stuart Mill a revolutionary figure, someone who would grow up to make the world better.
+In practice, this meant that Mill had very limited exposure to other children or people.
+Mill learned ancient Greek starting at 3, he began Latin at 8, and in his teens he studied economics, psychology, social theory, and the law.
+By the time of his breakdown, Mill had already received the equivalent of graduate training in multiple disciplines.
+At the same time, Mill had nearly nothing that we would recognize as a childhood or a social life.
+
+In his \textit{Autobiography}, Mill presents the breakdown as a kind of depression.
+He writes that things that normally gave him pleasure seemed ``insipid or indifferent.''%
+\footcite[77]{mill-2018}
+% -]] Mill's Breakdown
+
+% [[- Bibliography
+\newpage
+\pagestyle{references}
+% \defbibfilter{primary}{%
+%     keyword=primary
+% }
+% \defbibfilter{secondary}{%
+%     keyword=secondary
+% }
+
+% \nocite{*}
+% \printbibliography[filter=primary,title={Primary Sources}]
+% \printbibliography[filter=secondary,title={Secondary Sources}]
+\printbibliography[title={References}]
+% -]] Bibliography
+
+\end{document}
+% -]] Document

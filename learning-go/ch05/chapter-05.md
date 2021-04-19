@@ -168,3 +168,26 @@ sort.Slice(people, func(i int, j int) bool {
 })
 fmt.Println("Sorted by age:", people)
 ```
+
+(By the way, you don’t have to write your sort function inline. You can also define functions and use `sort.Sort`. If you do that, you need to define three methods (Len, Swap, and Less) and use a `type` to show that your sorting function implements the sort interface for a given type’s slices. It’s more work up front, but probably worth it for more complex sorts.)
+
+### Returning Functions from Functions
+
+You can return a closure from a function. Bodner gives a standard example: a multiplier.
+
+```go
+func makeMult(base int) func(int) int {
+    return func(factor int) int {
+        return base * factor
+    }
+}
+
+func main() {
+    twoBase := makeMult(2)
+    threeBase := makeMult(3)
+    for i := 0; i < 3; i++ {
+        fmt.Println(twoBase(i), threeBase(i))
+    }
+}
+```
+Because `makeMult` returns a closure, the returned function holds onto its base for as long as the function exists.

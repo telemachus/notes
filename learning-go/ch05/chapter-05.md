@@ -112,7 +112,6 @@ You can use `type` to give a name to function types in the same way you use it t
 type opFuncType func(int, int) int
 
 var opMap = map[string]opFuncType {
-    ...
 }
 ```
 
@@ -130,4 +129,42 @@ func main() {
         }(i)
     }
 }
+```
+
+## Closures
+
+If you declare a function inside of a function, the inner function is a closure, which Bodner explains as “a computer science word that means that functions declared inside of functions are able to access and modify variables declared in the outer function.” What advantages does this have?
+
++ If you declare a function inside a function, you hide the inner function. This means that you have fewer package-level declarations, which can make naming easier.
++ More importantly, you can pass functions to other functions or return them from other functions. This means that you can carry variables created within a function and use them outside of the function where they are created—without using global state.
+
+### Passing Functions as Parameters
+
+Bodner uses `sort.Slice` to explain passing functions as parameters.
+
+```go
+type Person struct {
+        FirstName string
+        LastName  string
+        Age       int
+}
+
+people := []Person{
+        {"Pat", "Patterson", 37},
+        {"Tracy", "Bobbert", 23},
+        {"Fred", "Fredson", 18},
+}
+fmt.Println("Unsorted:", people)
+
+// sort by last name
+sort.Slice(people, func(i int, j int) bool {
+        return people[i].LastName < people[j].LastName
+})
+fmt.Println("Sorted by last name:", people)
+
+// sort by age
+sort.Slice(people, func(i int, j int) bool {
+        return people[i].Age < people[j].Age
+})
+fmt.Println("Sorted by age:", people)
 ```

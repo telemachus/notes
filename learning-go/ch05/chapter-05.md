@@ -250,3 +250,33 @@ func DoSomeInserts(ctx context.Context, db *sql.DB, value1, value2 string) (err 
 ```
 
 I don’t understand several things about this. First, can you do the same thing by passing `err` into the `defer` call as a parameter? If not, why not? (Bodner says more than once that you can pass parameters into a function given to `defer`.) Second, how does the statement `err = tx.Commit()` have the desired effect? Bodner says that “code within `defer` closures runs *after* the return statement. If the function has already returned `err` to the calling function, then what value of `err` will the calling function receive? Will it be the `nil` value that the `defer` function receives, or will it be the result of `tx.Commit()`? Bodner clearly needs it to be the latter, but I’m not sure how that is possible.
+
+After reading the final part of this section again, I think I have the answer. `defer` runs after the function returns but *before* the function yields return values to the calling function. Thus, there is a window where `defer` can alter return values. Bodner does this using named returns (only—both here and in Chapter 8), but I still wonder if you can do it by passing parameters. I’ve looked at several things online, and from what I see, named return values are the way people do this in Go, not with parameters to `defer` functions.
+
+Finally, Bodner says that functions that allocate resources often return closures that can be handed to `defer` in the calling function. He gives the following example:
+
+```go
+func getFile(name string) (*os.File, func(), error) {
+    file, err := os.Open(name)
+    if err != nil {
+        return nil, nil, err
+    }
+    return file, func() { file.Close() }, err
+}
+```
+
+In the calling code, we would use that function like this:
+
+```go
+f. closer, err := getFile(os.Args[1])
+if err != nil {
+    log.Fatal(err)
+}
+defer closer()
+```
+
+## Go Is Call By Value
+
+When you pass a variable to a function in Go, the function *always* receives a copy of the value of the variable. This means that you cannot change numbers, strings, or structs by passing them to a function. If you want to modify the originals, you must pass a pointer to the item not the item itself.
+
+However, maps and slices are pointers already. If you pass a map to a function, you can change the keys and values in it. (You can add key/value pairs, delete them, or change the values of existing keys.) If you pass a slice, you can change the items stored in the slice, but you cannot increase the length of the slice. (Can you decrease it? Probably not.) If you want to change the size of a slice, you should pass a pointer or create a new slice and return that to the caller. The same rules apply to maps and slices that are the value of fields in structs.

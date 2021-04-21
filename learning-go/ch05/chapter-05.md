@@ -191,3 +191,62 @@ func main() {
 }
 ```
 Because `makeMult` returns a closure, the returned function holds onto its base for as long as the function exists.
+
+### `defer`
+
+Go provides a special keyword `defer` for when code creates a resource that must be cleaned up, no matter when or how a function returns. Classic examples are open file handles or database connections. Bodner uses the following `cat`-like program as an example.
+
+```go
+func main() {
+    if len(os.Args) < 2 {
+        log.Fatal("no file specified")
+    }
+    f, err := os.Open(os.Args[1])
+    if err != nil {
+        log.Fatal(err) // First possible exit, but no open file handle here
+    }
+    defer f.Close()
+    data := make([]byte, 2048)
+    for {
+        count, err := f.Read(data)
+        os.Stdout.Write(data[:count])
+        if err != nil {
+            if err != io.EOF {
+                log.Fatal(err) // Second possible exit: close file handle
+            }
+            break // Third possible exit: close file handle
+        }
+    }
+}
+```
+
+Whether the program exits at the second or third possible exit point, we want to close the open file handle. When you put a function (with parentheses and any necessary arguments) after `defer`, the Go runtime will automatically call that function when the entire function is finished.
+
+Some important details. If you put multiple `defer` statements, they run in LIFO order. Also, the `defer` functions run *after* the return statement. Finally, although Bodner does not mention this, `defer` can cause problems. If you use it in a loop where you open thousands (or more) file handles, you may run into your operating system limits. The delayed calls to `Close()` do not happen in the loop. They only happen when the entire function finishes.
+
+Bodner also gives a more complicated example of `defer`. He shows that you can combine `defer` with named variables to do a little magic.
+
+```go
+func DoSomeInserts(ctx context.Context, db *sql.DB, value1, value2 string) (err error) {
+	tx, err := db.BeginTx(ctx, nil)
+	if err != nil {
+		return err
+	}
+	defer func() {
+		if err == nil {
+			err = tx.Commit()
+		}
+		if err != nil {
+			tx.Rollback()
+		}
+	}()
+	_, err = tx.ExecContext(ctx, "INSERT INTO FOO (val) values $1", value1)
+	if err != nil {
+		return err
+	}
+	// use tx to do more database inserts here
+	return nil
+}
+```
+
+I don’t understand several things about this. First, can you do the same thing by passing `err` into the `defer` call as a parameter? If not, why not? (Bodner says more than once that you can pass parameters into a function given to `defer`.) Second, how does the statement `err = tx.Commit()` have the desired effect? Bodner says that “code within `defer` closures runs *after* the return statement. If the function has already returned `err` to the calling function, then what value of `err` will the calling function receive? Will it be the `nil` value that the `defer` function receives, or will it be the result of `tx.Commit()`? Bodner clearly needs it to be the latter, but I’m not sure how that is possible.

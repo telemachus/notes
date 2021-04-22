@@ -1,5 +1,9 @@
 # Chapter 6: Pointers
 
+## A Quick Pointer Primer
+
+Pointers refer to variables that track the memory address of a value. Different types take up different amounts of memory, but if you have the address, you can always get at the value. The zero value for a pointer is `nil`.
+
 ```go
 var x int32 = 10
 var y bool = true

@@ -280,3 +280,11 @@ type Stringer interface {
 If a concrete type implements all the methods listed in the interface, then the concrete type meets (or satisfies?) the interface. The methods defined by an interface are known as “the method set” of the interface. By convention, interfaces in Go often have names ending in “-er.” For example, `io.Reader`, `io.Writer`, `io.ReadCloser`. (Note that if the names are multiple, then only the last ends in “-er.” It’s `io.ReadCloser` not `io.ReaderCloser`.
 
 You can declare interfaces in any block, like other types.
+
+## Accept Interfaces, Return Structs
+
+Bodner recommends that code should accept interfaces and return structs. He explains this by saying that “the business logic invoked by…functions should be invoked via interfaces, but the output of…functions should be a concrete type.” (I wish he had an example here.)
+
+Why is it bad to return an interface? Coupling, says Bodner. Also, versioning is easier if you return a concrete type rather than an interface.
+
+Bodner mentions errors as an important exception to this rule. Many functions and methods return something that belongs to the `error` interface type.

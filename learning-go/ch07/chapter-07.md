@@ -288,3 +288,22 @@ Bodner recommends that code should accept interfaces and return structs. He expl
 Why is it bad to return an interface? Coupling, says Bodner. Also, versioning is easier if you return a concrete type rather than an interface.
 
 Bodner mentions errors as an important exception to this rule. Many functions and methods return something that belongs to the `error` interface type.
+
+## Interfaces and `nil`
+
+The zero value for an interface is `nil`, but whether an interface is considered `nil` is a little complicated. Go implements interfaces as a pair of pointers: (1) a pointer to the underlying type of the interface and (2) a pointer to the underlying value of the interface. If the type is not `nil`, then the interface is not `nil`. (If the value is not `nil`, then the interface is also not `nil`. However, since you can’t have a value without a type, then if the value is not `nil`, then *neither* the type nor value is `nil`. In that case, we wouldn’t expect the interface to be `nil` any longer.)
+
+```go
+var s *string
+fmt.Println(s == nil) // true
+var i interface{}
+fmt.Println(i == nil) // true
+i = s
+fmt.Println(i == nil) // false
+```
+
+Even though the underlying value of `i` (namely, the pointer `s`) is itself `nil`, nevertheless, `i` is no longer `nil`. Why not? Because `i` now has a type (namely, pointer to string) even if it has no value.
+
+If an interface is `nil`, then you definitely cannot invoke methods on it. Even if the interface is not `nil`, you may not be able to call methods on it. If the value is `nil`, and the methods don’t properly handle `nil` values, then Go will panic. (We saw this before with structs.)
+
+You need reflection to check whether the value of an interface is `nil` if the type is not `nil`. You can’t use a simple equality check. (Bodner will cover this later in the book when he discusses reflection in Chapter 14.)

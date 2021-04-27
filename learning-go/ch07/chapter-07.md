@@ -262,3 +262,21 @@ o := Outer{
 fmt.Println(o.X)       // 20
 fmt.Println(o.Inner.X) // 10
 ```
+
+## Embedding Is Not Inheritance
+
+Bodner explains that embedding in Go does not work like inheritance in popular object oriented languages. Since I don’t have any expectations about inheritance, this shouldn’t be a problem for me.
+
+## A Quick Lesson on Interfaces
+
+You declare interfaces in Go the same way that you declare other user-defined types, using the `type` keyword. For example, here’s an interface from the `fmt` package.
+
+```go
+type Stringer interface {
+    String() string
+}
+```
+
+If a concrete type implements all the methods listed in the interface, then the concrete type meets (or satisfies?) the interface. The methods defined by an interface are known as “the method set” of the interface. By convention, interfaces in Go often have names ending in “-er.” For example, `io.Reader`, `io.Writer`, `io.ReadCloser`. (Note that if the names are multiple, then only the last ends in “-er.” It’s `io.ReadCloser` not `io.ReaderCloser`.
+
+You can declare interfaces in any block, like other types.

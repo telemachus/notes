@@ -307,3 +307,31 @@ Even though the underlying value of `i` (namely, the pointer `s`) is itself `nil
 If an interface is `nil`, then you definitely cannot invoke methods on it. Even if the interface is not `nil`, you may not be able to call methods on it. If the value is `nil`, and the methods don’t properly handle `nil` values, then Go will panic. (We saw this before with structs.)
 
 You need reflection to check whether the value of an interface is `nil` if the type is not `nil`. You can’t use a simple equality check. (Bodner will cover this later in the book when he discusses reflection in Chapter 14.)
+
+## THe Empty Interface Says Nothing
+
+You can use an empty interface as a way around static typing. If you declare a variable to be of type `interface{}`, then the variable can be of any type.
+
+```go
+var i interface{}
+i = 20
+i = "hello"
+i = struct {
+    FirstName string
+    LastName string
+}{ "Fred", "Fredson"}
+```
+
+There is nothing special about the syntax of `interface{}`. That simply says “that the variable can store any value whose type implements zero or more methods. That just happens to match every type in Go.”
+
+When is a variable of this type useful? One case is for JSON with an unknown schema. You can read such JSON as follows.
+
+```go
+data := map[string]interface{}{}
+contents, err := io.ReadFile("testdata/sample.json")
+if err != nil {
+    return err
+}
+defer contents.Close()
+json.Unmarshal(contents, &data)
+```

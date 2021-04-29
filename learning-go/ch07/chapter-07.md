@@ -335,3 +335,30 @@ if err != nil {
 defer contents.Close()
 json.Unmarshal(contents, &data)
 ```
+
+## Type Assertions and Type Switches
+
+Go provides two ways to check whether a variable of interface type has a specific concrete type.
+
+A type assertion is written as follows.
+
+```go
+var i interface{}
+var mine MyInt = 20
+i = mine
+i2 := i.(MyInt)
+```
+
+If you try a type assertion with the wrong type, Go will panic. You can protect against the panic using the comma ok idiom.
+
+```
+// … as above initially
+i2 := i.(string) // panics!
+i2, ok := i.(int) // no panic, and ok is false
+if !ok {
+    // handle the mismatch in types
+}
+fmt.Println(i2 + 10) // prints 10, see below
+```
+
+When you use the comma ok idiom with a type assertion, the variable you are trying to assign to gets the zero value of the type that you wanted. I find this weird, but I suppose it might come in handy. It’s fucking odd though.

@@ -362,3 +362,26 @@ fmt.Println(i2 + 10) // prints 10, see below
 ```
 
 When you use the comma ok idiom with a type assertion, the variable you are trying to assign to gets the zero value of the type that you wanted. I find this weird, but I suppose it might come in handy. It’s fucking odd though.
+
+If you have a variable of interface type that might be one of several concrete types, then you can use a type switch in order to determine what it is.
+
+```go
+switch j := i.(type) {
+case nil:
+    // i is nil means the type of j is interface{}
+case int:
+    // j is of type int
+case MyInt:
+    // j is of type MyInt
+case io.Reader:
+    // j is of type io.Reader
+case string:
+    // j is of type string
+case bool, rune:
+    // i iseither a bool or rune, so j is of type interface{}
+default:
+    // no idea what i is, so j is of type interface{}
+}
+```
+
+Since the entire point of a type switch is to get a new variable for an existing one, Go programmers often assign the variable being switched on to a variable of the same name. E.g. , `i := i(.type)`. This is one of the few places where shadowing is a good idea and idiomatic in go. Bodner avoided this idiom above in order to make his comments more clear.

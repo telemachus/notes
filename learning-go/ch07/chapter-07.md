@@ -385,3 +385,7 @@ default:
 ```
 
 Since the entire point of a type switch is to get a new variable for an existing one, Go programmers often assign the variable being switched on to a variable of the same name. E.g. , `i := i(.type)`. This is one of the few places where shadowing is a good idea and idiomatic in go. Bodner avoided this idiom above in order to make his comments more clear.
+
+## Function Types are a Bridge to Interfaces
+
+

@@ -179,3 +179,108 @@ major conclusion at length.
 > and international political contingencies.  Historical preconditions do not
 > usually become determinants unless there are some intervening circumstances
 > or contingencies (93-94).
+
+## Chapter 3: Climax and Retreat: Racism in the Twentieth Century
+
+In this chapter, Fredrickson traces the histories of what he calls *overtly
+racist regimes* (100).  As in the previous chapter, he considers anti-black
+racism (in the US and South Africa) in parallel with antisemitism in Germany.
+Like many people, he sees the the recent past as a time when racism against
+black people and Jews reached a high point and then retreated.  (Or at least
+retreated in some senses, as he will discuss in the epilogue.)
+
+What makes an overtly racist regime distinct?  According to Fredrickson, we
+see the following features.  First, there must be an official and explicit
+racist ideology.  Second, there are laws against interracial marriage in order
+to preserve (alleged) racial purity.  Third, the law demands social
+segregation; segregation is not merely a matter of habit or individual
+choices, however racist those may be themselves.  Fourth, in an otherwise
+democratic system, the racial groups who are discriminated against cannot hold
+office (either *de facto* or *de jure*?).  Fifth, the majority of members of
+the groups discriminated against are barred from state resources and economic
+opportunity; thus, they are poor by design.  According to Fredrickson, the
+American South under Jim Crow, South Africa under apartheid, and Nazi Germany
+all meet these criteria.  (I think nearly everyone would agree.)
+
+Fredrickson argues that there is a difference between states with significant
+racism and overtly racist states.  He briefly discusses racism in various
+European colonies and former colonies and racism in Latin America. Although
+there was abundant racism in all of these places, he nevertheless concludes
+that they all fell short of being overtly racist regimes.
+
+In addition, Fredrickson argues that we should study Nazi Germany, the
+American South, and South Africa together because the rest of the world
+changed in response to them together.  That is, countries all over the world
+viewed these three regimes with horror, banded together to act against them,
+and passed international laws in response to their behavior.  As Fredrickson
+says, “[the] rise and fall [of these regimes] were major events, not only in
+the history of these countries themselves, but also in the history of the
+world” (104).
+
+Fredrickson also believes that modernization made it possible (and indeed
+necessary) for overtly racist regimes to arise.  As the world changed from
+rural and preindustrial to urban and industrial, new arrangements were
+necessary and possible in order to maintain racist norms and relationships.
+At the same time, modern capitalism pushed towards treating everyone as equal
+cogs in an indiscriminate machine.  Thus, explicit laws and arrangements were
+needed in order “to maintain and ethnic status order based on religion and
+ancestry” (104).
+
+Fredrickson asks explicitly why these three regimes developed where they did
+and why other places did not become explicitly racist regimes.  He notes that
+other places had a greater percentage of Jews or non-whites than the American
+South, South Africa, or Germany.  Why didn’t those places become explicitly
+racist?  He gives one unsatisfying answer: these three places had stronger
+prejudice than other places.  Unfortunately, that simply pushes the question
+back: *why* did they have stronger prejudice?  He also mentions that all three
+of the places where explicit racism developed identified their hated Others
+with some form of “national defeat and humiliation” (106).  In the American
+South, racists associated black people with the loss in the Civil War and with
+Reconstruction.  The Nazis associated Jews with Germany’s loss and humiliation
+in World War I.  And white Afrikaners blamed black Africans for their role in
+the South African War (1899-1902).  Black people and Jews were scapegoats for
+others who were out of reach because they were too powerful for the defeated
+parties to punish.  (I.e., “the American North, the Allies in World War I, and
+Great Britain” (106).)
+
+Fredrickson considers the Holocaust a singular turning point in how people
+viewed explicit racism.  He quotes Jürgen Habermas: “the rug was pulled out
+from under *all* claims to legitimacy that did not at least rhetorically
+embrace the universalistic spirit of the political Enlightenment” (128,
+emphasis in original).  (Question for myself: how will Fredrickson square this
+with the development of apartheid in 1948?)  The backlash against racism also
+led to a backlash against eugenics, according to Fredrickson.  In the same
+way, people in the United States and in the rest of the world viewed the Jim
+Crow American South with a new revulsion.
+
+Fredrickson cites two other causes for a mid-century turn away from open
+racism: decolonization and the Cold War.  The people from former colonies
+certainly had every incentive to oppose white supremacy, and Americans who
+wanted to win over these same people in the battle against Communism worried
+about the impression that anti-black racism in the south made on the rest of
+the world.  The Soviet Union used racism in the United States to great effect
+in their propaganda, and the Unites States had additional, selfish reasons to
+improve the conditions for black people in America.
+
+At the same time, Fredrickson cites research by Philip Klinkner and Rogers
+Smith that highlights how conditional American anti-racists efforts are.
+Klinkner and Smith argue that anti-racist progress requires “times when
+national success or survival seems to depend on inclusiveness and the
+affirmation of egalitarian values” (131).  Fredrickson worries that “World War
+II and the Cold War thus provided a window of opportunity for blacks that is
+now closing” (131).  (Note to myself: this reminds me a great deal of Derek
+Bell’s theory that changes in the law rely on a convergence of interests.
+See, e.g., Bell’s “Brown v. Board of Education and the Interest-Convergence
+Dilemma” Harvard Law Review 93 (3): 518-533.)
+
+In order to explain the exception of South Africa, an openly racist state that
+became even more racist in 1948, Fredrickson points to the Cold War in
+a different way.  South Africa was resolutely anti-communist, and as Africa
+decolonized, more and more countries became communist or sympathetic to
+communism and the Soviet Union.  Thus, even though, e.g., Truman supported the
+civil rights movement in the US, he also supported South Africa because of the
+Cold War.  The Cold War helped to increase progress in the US, and the end of
+the Cold War is a threat to further progress in the US.  In South Africa, it
+was the other way around.  The Cold War helped the white settler governments
+to keep down 70% of the population of the country, and the end of the Cold War
+sped up the end of apartheid.

@@ -284,3 +284,21 @@ the Cold War is a threat to further progress in the US.  In South Africa, it
 was the other way around.  The Cold War helped the white settler governments
 to keep down 70% of the population of the country, and the end of the Cold War
 sped up the end of apartheid.
+
+## Epilogue: Racism at the Dawn of the Twenty-First Century
+
+The epilogue sketches out two thoughts.  First, Fredrickson acknowledges that
+even though over racist regimes are largely gone, quite a lot of racism
+remains.  Second, he argues that much of the worst kinds of discrimination and
+inequality now arise from religious rather than racist motivations.
+Fredrickson partially unites these two thoughts when he invokes culture rather
+than race as a currently dominant tool of oppression.  Fredrickson insists
+that since the middle of the twentieth century, the world has moved steadily
+away from open scientific, biological, essentialist racism.  However, he
+grants that there is still quite a lot of racism that relies on treating
+culture in an essentialist manner.  At the same time, many people have turned
+to religion to give them the kinds of comfort that pseudo-scientific theories
+about race used to.  Finally, I would note the following: Fredrickson claims
+that religious oppression can be harder to overcome than racial oppression
+because it is even less amenable to reason and argument, but he also believes
+that religious oppression frequently offers an escape hatch of conversion.

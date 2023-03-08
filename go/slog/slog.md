@@ -52,4 +52,43 @@ level to be logged.  If the `Level` field is `nil`, then it defaults to
 allows you to adjust (or remove) attributes in a `Record` before the handler
 prints out the `Record`.  (I'll give examples of these later.)
 
+Methods of loggers that handle records work on what `slog` calls an `Attr`.
+An `Attr` is a struct with `Key` and `Value` fields.  The `Key` field is
+a string, and the `Value` field has a `Value` type.  `Value`s like `any` can
+represent any type in Go.  In addition, `slog` can represent many Go values
+without allocation.
+
+You can pass key-value pairs to logger methods as alternating items, or you
+can use constructors for greater efficiency.  For example, the following yield
+the same output, but the second is more efficient.
+
+```go
+slog.Info("hello", slog.Int("count", 3))
+slog.Info("hello", "count", 3)
+```
+
+`slog` also provides ways to include attributes every time you log
+(`slog.With`) and to group a number of attributes (`slog.Group` and
+`slog.WithGroup`).
+
+Levels rank the severity of log events, and they also control what events
+are actually logged.  By default, new handlers are set to `Info` level.  This
+means that anything of `Info` level or higher will be logged, but anything
+below `Info` level (e.g., `Debug` level events) will not be logged.  The
+levels themselves are integers.  `slog` defines several standard levels
+(`Debug`, `Info`, `Warn`, and `Error`), but applications can define additional
+levels as well.  Normally, a logger has a constant level throughout the
+lifetime of a program, but you can also get a dynamic level using `LevelVar`.
+
+`slog` also provides methods that accept contexts.  First, the `Logger.Log`
+and `Logger.LogAttrs` methods take a context as their first parameters.  Next,
+methods like `slog.Info` also have `slog.InfoCtx` alternatives.  These too
+take a context as their first parameters.
+
+## Customizing `slog`
+
+There are several ways to customize `slog`.
+
+TODO: LogValuers, wrapping output methods, and writing new Handlers
+
 [slog]: https://pkg.go.dev/golang.org/x/exp/slog

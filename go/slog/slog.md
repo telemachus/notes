@@ -87,7 +87,40 @@ take a context as their first parameters.
 
 ## Customizing `slog`
 
-There are several ways to customize `slog`.
+There are several ways to customize `slog`.  In order of least to most effort,
+you can use a `LogValuer` to tweak values, you can wrap output methods, and
+you can write a custom handler.  I'll talk a little about each of these below.
+
+### `LogValuer`
+
+Imagine you want to redact certain values in your logs (e.g., something with
+security considerations).  The easiest way to do this is to wrap the value in
+a type that implements the `LogValuer` interface.  This interface requires
+only a single method, `LogValue`.  The `LogValue` method takes no arguments
+and returns a single `slog.Value`.  Here's a simple example from `slog`'s
+documentation.
+
+```go
+// A token is a secret value that grants permissions.
+type Token string
+
+// LogValue implements slog.LogValuer.
+// It avoids revealing the token.
+func (Token) LogValue() slog.Value {
+	return slog.StringValue("REDACTED_TOKEN")
+}
+```
+
+If you pass a token to your logger `REDACTED_TOKEN` will appear rather than
+the actual value of the token.
+
+`LogValue` can return Values that also implement `LogValuer`.  `slog` provides
+`Value.Resolve` to prevent infinite loops or runaway recursion.  (The
+documentation suggests using `Value.Resolve` if you write a handler.
+
+### Wrapping Output Methods
+
+
 
 TODO: LogValuers, wrapping output methods, and writing new Handlers
 

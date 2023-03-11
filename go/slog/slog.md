@@ -118,10 +118,85 @@ the actual value of the token.
 `Value.Resolve` to prevent infinite loops or runaway recursion.  (The
 documentation suggests using `Value.Resolve` if you write a handler.
 
-### Wrapping Output Methods
+### Wrapping Output
 
+You can easily wrap output methods, but if you do, you need to think about the
+depth in the stack of the eventual call.  As the documentation explains, the
+following code has a bug.
 
+```go
+func Infof(format string, args ...any) {
+	slog.Default().Info(fmt.Sprintf(format, args...))
+}
+```
 
-TODO: LogValuers, wrapping output methods, and writing new Handlers
+If this implementation is in `mylog.go`, and you call `Infof` from `main.go`,
+`slog` reports the source file (and line) from `mylog.go` rather than
+`main.go`.
+
+To fix this problem, you need to construct a new record and manually adjust
+the position in the stack where the source code lives.  Here's an example that
+fixes this bug.
+
+```go
+// Infof is an example of a user-defined logging function that wraps slog.
+// The log record contains the source position of the caller of Infof.
+func Infof(format string, args ...any) {
+	l := slog.Default()
+	if !l.Enabled(context.Background(), slog.LevelInfo) {
+		return
+	}
+	var pcs [1]uintptr
+	runtime.Callers(2, pcs[:]) // skip [Callers, Infof]
+	r := slog.NewRecord(time.Now(), slog.LevelInfo, fmt.Sprintf(format, args...), pcs[0])
+	_ = l.Handler().Handle(context.Background(), r)
+}
+```
+
+## Writing a Handler
+
+The `Handler` interface requires four methods.
+
+```go
+type Handler interface {
+	Enabled(context.Context, Level) bool
+	Handle(context.Context, Record) bool
+	WithAttrs(attrs []Attr) Handler
+	WithGroup(name string) Handler
+}
+```
+
+Some important notes about handlers.
+
++ Any handler method can be called concurrently with itself or another handler
+  method.  Handlers should protect against data races.
++ The context arguments in Enabled and Handle may be `nil`.  Handlers must not
+  do anything with that argument that may cause a panic.
++ The `Enabled` method should be called early.  If the Level of a record is
+  lower than the Level argument, then the record is ignored and no logging
+  occurs.  By calling `Enabled` early, we prevent any waste on a record that
+  will never be used to log anything.
++ `Enabled` can use values from the context argument to make a decision about
+  whether or not the logger is currently enabled.
++ `Handle` will only be called if `Enabled` returns true.
++ Again, the context argument passed to `Handle` can provide values that may
+  change how the record appears or is treated.
++ However, even if the context is canceled, the record should be processed.
++ If a record's Time is the zero time, then time should not appear in output.
++ If a record's PC is zero, then source file and line should not appear in
+  output.
++ If an Attr's key is an empty string, and the value is not a group, the Attr
+  should be ignored by the `Handle` method.
++ If a group has an empty key, the group's Attrs should appear in the record
+  as non-group Attrs.  (I think that this is what "inline the group's Attrs"
+  means.  I should double check this in the source.)
++ If a group has no Attrs, then ignore it (even if it has a non-empty key).
++ I am unsure what callers are supposed to do with the error from `Handle`.
++ `WithAttrs` returns a new Handler that has all the attributes of the
+  receiver, plus the arguments to `WithAttrs` itself.
++ The new Handler returned by `WithAttrs` owns the slice of Attrs that it
+  receives.  As such, it may change that slice.
++ `WithGroup` returns a new Handler; the group name given as an argument is
+  added to the end of the list of groups that the receiver already has.
 
 [slog]: https://pkg.go.dev/golang.org/x/exp/slog

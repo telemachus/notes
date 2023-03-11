@@ -65,6 +65,25 @@ You can return a group of values from a slice using a *slice expression*. Slice 
 
 When you take a slice of a slice, you do not copy the data, you share memory between multiple variables. That means that changes to one element in a slice affect all slices that share that element.
 
+However, you can use full slice expressions to limit how much memory is shared
+between two slices.
+
+```go
+	x := make([]int, 0, 5)
+	x = append(x, 1, 2, 3, 4)
+	y := x[:2:2]
+	z := x[2:4:4]
+	fmt.Println(cap(x), cap(y), cap(z))
+	y = append(y, 30, 40, 50)
+	x = append(x, 60)
+	z = append(z, 70)
+	fmt.Println("x:", x)
+	fmt.Println("y:", y)
+	fmt.Println("z:", z)
+```
+
+This protects changes *beyond that limit* from affecting other slices. But if you make changes to the earlier part of these slices, they will still affect each other.
+
 You can convert an array into a slice using a slice expression.
 
 ```go

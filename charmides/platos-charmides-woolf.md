@@ -237,7 +237,9 @@ dialogues Socrates and his interlocutors agree that one or another virtue is
 Woolf takes this to mean that insofar as Socrates pursues (knowledge of?)
 virtues, he is involved in an "erotic" pursuit.  But this seems to attend only
 to the physical or erotic connotations of κάλον at the expense of the moral
-or, more broadly, normative senses of the word.
+or, more broadly, normative senses of the word.  (See also page 224, where
+Woolf insists on translating οὔ...καλῶς ὡμολογηκέναι from 173d5 as "not...to
+have agreed beautifully.")
 
 Woolf beats Socrates like a drum when he considers how Socrates rejects the
 first definition of temperance that Charmides offers.  Socrates, Woolf says,
@@ -250,6 +252,79 @@ himself and try to explain what temperance is based on how it makes him.
 Instead, Charmides gives a popular, almost proverbial explanation of
 temperance.  (Cf. Socrates response that "they say" this about temperance at
 159b7-8).
+
+## Chapter 5: The Art of Self-Realisation
+
+In this chapter, Woolf expands on his account of temperance "as
+self-realisation or, more precisely, as the power to realise oneself" (208).
+Woolf recognizes that "in bare outline" this account "may sound a little
+mystical" (208).  Woolf endeavors to show both what he means by this somewhat
+mystical description and also to show that temperance, so understood, is
+beneficial.
+
+Woolf begins by focusing on something he discussed already in Chapter 4:
+Socrates hints (in "various remarks" (?)) that we discover what we think (both
+positively and negatively) "by a process of critical examination" (209).  We
+cannot simply ask ourselves what we believe.  Instead, we come to hold
+beliefs, for Socrates, as a result of the investigation and criticism of
+views
+
+What evidence does Woolf give?  First, Woolf regards 163e5-7 as implying that
+"does not at this point regard himself as being in a position to say what he
+thinks, in advance of examining the proposition about which he is being asked
+to give his view" (209).  It's not clear to me that so much *is* implied here.
+Next, Woolf refers to 165b3-4.  There too, Socrates seems to me to focus on
+whether he already *knows* about what Critias says rather than whether or not
+he is "able to say whether he agrees" (210).  Woolf, on the other hand, takes
+Socrates to imply "a demanding notion of belief, that there may be no gap, in
+principle, between being in a position to know what one things in relation to
+some matter and possessing knowledge on the matter in question" (211).
+Furthermore, Woolf asserts that "[i]t follows, from this view of what it takes
+to know what one thinks, that one's access to what one thinks is indeed not
+available on demand" (211).
+
+Woolf also wonders what it means for someone to assert *p* without believing
+that *p*.  In response, he says that at least in *Charmides*, people sometimes
+assert *p* "because one has heard someone else say it" (213).  I suppose that
+Woolf must mean *sincere* assertions, but even so, I am not convinced that
+this is such a fascinating scenario.
+
+How does Woolf reach the conclusion that "one creates, or realises, oneself"
+through the "process of critical scrutiny" (216)?  He has argued that we only
+come to know what we believe through a process of critical inquiry, and now he
+adds that "one's self consists in what one thinks or believes" (216).  Note to
+self: Is this all there is to a self for Woolf?  Nothing about memories,
+character, or any other qualities?
+
+Woolf does not worry that Critias explained "temperance is self-knowledge" as
+equivalent to "temperance is knowing what one knows or does not know" (217).
+According to Woolf, if belief requires as much investigation as he has
+described, then once we believe something "one is arguably already...in
+a cognitive relation to that proposition not substantially different from
+knowledge" (217).  He even argues that the discussion of δόξα and ἐπιστήμη at
+167c-168a suggests that belief and knowledge share an object and that in this
+passage "the text seems to encourage us to assimilate belief with knowledge in
+terms of what the operation of the respective powers results in"—namely
+a μάθημα (217).  He rounds off this section by arguing, à la the Stoics, that
+belief and knowledge grasp the same thing, but that knowledge "requires
+a discernment of the structure that obtains between such individual pieces of
+learning" (218).
+
+Woolf makes an elaborate set of connections between self-realization,
+goodness, and beauty.  We must examine our own beliefs critically in order to
+realize what we believe and in order to realize our own selves, insofar as our
+truest selves are our cognitive states.  Since we use consistency as
+a significant test of beliefs, the beliefs that emerge will possess a coherent
+structure, and Woolf insists that such a structure is (necessarily?)
+beautiful.  All of this is good insofar as we exhibit self-care by means of
+such inquiry of our beliefs and such development of a coherent, beautiful set
+of beliefs and self (221-224).
+
+Woolf insists that he does not offer his interpretation as a "'hidden' meaning
+beneath the (mostly) aporetic surface" (225).  In fact, Woolf asserts that
+there is "nothing 'beneath' the conversations and events that the work
+depicts; its surface is its substance" (225).  I don't know how to understand
+this.
 
 [^1]: However, Woolf seems to violate this acknowledgement when he looks at
     what Socrates says about Chaerephon (33-36).

@@ -36,7 +36,7 @@ assignments, but more on this later.)
 You can test code by using the Lua interpreter in interactive mode.  If you
 run `lua`, the interpreter starts up in REPL mode.  You can also start as `lua
 -i filename` to have the interpreter first read a file and then start in REPL
-mode.  Or from within the REPL, you can call `dofile('filename')` if you want
+mode.  Or from within the REPL, you can call `dofile("filename")` if you want
 to load a file from within the REPL.
 
 ### Some Lexical Considerations
@@ -69,7 +69,7 @@ should probably avoid that.)
 In Lua, variables are global by default, and you don't need to initialize
 a variable before you use it.  If you run `print(a)` before you initialize
 `a`, then Lua gives no error.  `a` is simply `nil`, and Lua acts as though you
-asked it to `print(nil)`.  (This is valid and prints the string 'nil'.)  You
+asked it to `print(nil)`.  (This is valid and prints the string "nil".)  You
 can delete a global variable by assigning `nil` to it, but you rarely need to
 do this with global variables.  (Ierusalimschy says "if your variable is going
 to have a short life, you should use a local variable" (6).)
@@ -91,7 +91,7 @@ allows you to do all sorts of things when the stand-alone interpreter runs.
 Finally, when you run a script via the `lua` command, the arguments to the
 script are available in the global variable `args`.  As of Lua 5.1, you can
 also get the script's arguments from using the vararg syntax (`...`), but more
-on this later.
+about this later.
 
 ## Chapter 2: Types and Values
 
@@ -99,8 +99,8 @@ Lua is dynamically typed.  You don't need to declare a type, and one variable
 can change types in the course of a program.  Lua has eight basic types: nil,
 boolean, number, string, userdata, function, thread, and table.  You can use
 the builtin function `type` to get the string name of something's type.  E.g.,
-`type(print)` returns 'function', and `type(true)` returns 'boolean'.  By
-definition, `type(type(x))` always returns 'string'.
+`type(print)` returns "function", and `type(true)` returns "boolean".  By
+definition, `type(type(x))` always returns "string".
 
 ### Nil
 
@@ -122,8 +122,8 @@ by default Lua uses doubles to represent all numbers.
 
 ### Strings
 
-You should be able to put any UTF8 character into a Lua string.  (However,
-I don't think that the string library handles UTF8 characters for all its
+You should be able to put any UTF-8 character into a Lua string.  (However,
+I don't think that the string library handles UTF-8 characters for all its
 operations.)
 
 Lua strings are immutable.  You can create a new string to modify an old one,
@@ -144,7 +144,7 @@ double quotes.
 + `\"` double quote
 + `\'` single quote
 
-You can also specify a character as `\ddd` where 'ddd' is a series of (up to)
+You can also specify a character as `\ddd` where "ddd" is a series of (up to)
 three decimal digits.  (Please don't do this.)
 
 You can easily create multiline strings using `[[` and `]]`.  Inside the
@@ -178,21 +178,22 @@ Ierusalimschy describes tables as "neither values nor variables; they are
 *objects*" (14, his emphasis).  They are dynamically allocated objects, and
 programs manipulate "only references (or pointers)" to tables (14).  You
 cannot *declare* a table; you create tables by means of a constructor
-expression.  The simplest form of constructor expression is simply `a = {}`.  That
-creates a table and binds its reference to `a`.  If you later assign nil to
-`a`, then Lua can garbage collect that table, assuming that there are no other
-references to the table.
+expression.  The simplest form of constructor expression is simply `a = {}`.
+
+That creates a table and binds its reference to `a`.  If you later assign nil
+to `a`, then Lua can garbage collect that table, assuming that there are no
+other references to the table.
 
 The table itself, however, is anonymous.  There's not a fixed reference
 between a variable and a table.
 
 ```lua
 a = {}
-a['x'] = 10
+a["x"] = 10
 b = a           -- a and b refer to the same table
-print(b['x'])   -- 10
-b['x'] = 20
-print(a['x'])   -- 20
+print(b["x"])   -- 10
+b["x"] = 20
+print(a["x"])   -- 20
 a = nil         -- b still refers to the table
 b = nil         -- no references left to the table
 ```
@@ -255,11 +256,11 @@ The modulo operator in Lua always gives the result the same sign as the second
 argument.  It is equivalent to the following formula.
 
 ```
-a % b =- a - floor(a/b)*b
+a % b = a - floor(a/b)*b
 ```
 
-(By comparison, in C and Go the result of modulo is negative if the first
-operator is negative.  Python works like Lua.)
+By comparison, in C and Go the result of modulo is negative if the first
+operator is negative.  Python works like Lua.
 
 ### Relational Operators
 
@@ -318,21 +319,21 @@ a and b or c        -- same as (a and b) or c because of precedence
 ```
 
 Note that these idioms have some limitations.  The first only works if
-x itself has not been deliberate assigned false.  The second only works if
+x itself has not been deliberately assigned false.  The second only works if
 b is truthy.  Still, these can come in handy.  You can use the first to assign
 x a default value when it is not set.  And you can use the second, e.g.,  to
 get the maximum of two numbers: `max = (x > y) and x or y`.
 
 The `not` operator always returns `true` or `false`.  If you want to coerce
-something to an actual boolean value (insteady of truthy evaluation), you can
+something to an actual boolean value (instead of truthy evaluation), you can
 use `not`.
 
 ### Concatenation
 
-Lua performs string concatenation using `..`.  If an operand is a string, Lua
-coerces that operand to a string and then concatenates it.  The return value is
-a new string, and the operands are not changed.  (Remember: strings in Lua are
-immutable values.)
+Lua performs string concatenation using the `..` operator.  If an operand is
+a number, Lua coerces that operand to a string and then concatenates it.  The
+return value is a new string, and the operands are not changed. (Remember:
+strings in Lua are immutable values.)
 
 ### Precedence
 
@@ -351,7 +352,7 @@ or
 The exponentiation operator and the concatenation operators are right
 associative.  All other binary operators are left associative.
 
-As Ierusalimachy says, "When in doubt, always use explicit parentheses.  It is
+As Ierusalimschy says, "When in doubt, always use explicit parentheses.  It is
 easier than looking it up in the manual, and you will probably have the same
 doubt when you read the code again" (22).
 
@@ -363,19 +364,19 @@ examples.
 ```lua
 x = {}              -- Create an empty table, and assign its reference to x.
 days = {            -- Create an empty table; add the days of the week to it.
-    'Sunday',       -- 'Sunday' is days[1], 'Monday' is days[2], etc.
-    'Monday',
-    'Tuesday',
-    'Wednesday',
-    'Thursday',
-    'Friday',
-    'Saturday'
+    "Sunday",       -- "Sunday" is days[1], "Monday" is days[2], etc.
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
 }
 
 a = {x=10, y=20}    -- Equivalent to a = {}; a.x = 10; a.y = 20
 
 polyline = {        -- We can mix dictionary-style and list-style tables.
-    color='blue',   -- These are keys in a dictionary part of this table.
+    color="blue",   -- These are keys in a dictionary part of this table.
     thickness=2,
     npoints=4,
     {x=0, y=0},     -- These are subtables, stored in positive indices 1..n.
@@ -385,7 +386,7 @@ polyline = {        -- We can mix dictionary-style and list-style tables.
 ```
 
 You can't use the `a.x = y` format for all values of `x`.  In those cases, you
-can always do `a['x'] = y` instead.  E.g., `a['+'] = add` (where, by the way,
+can always do `a["x"] = y` instead.  E.g., `a["+"] = add` (where, by the way,
 `add` can be a variable that refers to a function).
 
 You can always include a trailing comma in all table constructors.  Also, if
@@ -405,7 +406,7 @@ statements include multiple assignments and local variable declarations.
 
 Assignment is the normal way to change the value of a variable or table entry.
 Lua also allows for multiple assignment, where a list of values is assigned to
-a list of variables in one setep.  When Lua performs multiple assignment, it
+a list of variables in one step.  When Lua performs multiple assignment, it
 evaluates all values on the right-hand side first, and then it performs the
 assignments.  Thus, you can use multiple assignment to swap values.
 
@@ -413,7 +414,7 @@ Lua silently adjust the number of values to the number of variables.  If the
 list of values is shorter than the list of variables, the extra variables are
 assigned `nil`.  If the list of values is longer than the list of variables,
 the extra values are silently discarded.  (Note, however, that the extra
-values are *still* evaluated, right?)
+values are *still* evaluated.)
 
 One other warning: you cannot assign multiple variables using a single value
 on the right-hand side. `a, b, c = 0` does *not* assign zero to a, b, and c.
@@ -429,7 +430,7 @@ a variable is declared).  (Note: local variables created in an `if` block in Lua
 not exist in the corresponding `else` block.)  You can also create a block by
 wrapping some Lua code in a `do...end` block.
 
-Lua treats the delcaration of a local variable as a statement.  Therefore, you
+Lua treats the declaration of a local variable as a statement.  Therefore, you
 can put a local-variable declaration anywhere you can put a statement.  Like
 Go, Lua encourages declaring variables only where they are needed or used.  It
 is not bad practice (in Lua) to declare a local variable in the middle of

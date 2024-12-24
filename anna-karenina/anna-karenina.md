@@ -190,8 +190,9 @@ Re guilt and emotional upheaval, see the following.
 > radiated irrepressible joy and excitement.
 >
 > 'Why am I travelling?' he replied, looking straight into her eyes.  'You know
-> that I am travelling to be where you are,' he said.  'I can't do otherwise.”
-> “And right at that moment, as if it had overcome some obstacle, the wind
+> that I am travelling to be where you are,' he said.  'I can't do otherwise.
+>
+> And right at that moment, as if it had overcome some obstacle, the wind
 > hurled down snow from the roof of the carriage and rattled a loose sheet of
 > iron, while up in front, the locomotive's low whistle started to wail
 > mournfully and gloomily.  The full horror of the snowstorm seemed even more
@@ -272,3 +273,211 @@ Dolly.
 > Anna smiled.  She realized that he had said that precisely to show that family
 > considerations could not prevent him from expressing his sincere opinion.  She
 > knew this quality of her husband's, and she liked it (113)
+
+## Part Two
+
+Re guilt for Anna, see the following. (Anna is speaking to Vronsky)
+
+> 'You will remember that I have forbidden you to pronounce that word, that
+> ghastly word,' said Anna with a shudder; but she sensed straight away that
+> with just that one word forbidden she was showing that she was claiming
+> certain rights over him, and thus actually encouraging him to speak about
+> love.  'I have long been meaning to tell you,' she went on, looking at him
+> straight in the eye, her flushed face burning, 'and I made a point of coming
+> tonight, knowing I would meet you here.  I have come to tell you that this
+> must end.  No one has ever made me blush before, but you make me feel guilty
+> about something' (141).
+
+Re responsibility and wrongdoing, see the following. (Karenin is speaking to
+Anna.)
+
+> 'I do not have the right to enter into the intricacies of your feelings, and
+> generally regard it as a fruitless and even detrimental activity,' began
+> Alexey Alexandrovich.  'When we start digging around in our souls, we often
+> unearth something that might have lain undetected.  Your feelings are a matter
+> for your own conscience; but I have a duty to you, to myself, and to God, to
+> point out your duties.  Our lives have been joined, and joined not by man, but
+> by God.  This union can only be severed by a crime, and a crime of this nature
+> carries a heavy punishment' (149).
+
+In Chapter 11 of Part 2, Anna and Vronsky consummate their relationship.
+Tolstoy's take on this is shocking and remarkable.
+
+> That which had been the single supreme desire of Vronsky's life for almost
+> a whole year, replacing all his previous desires, and that which for Anna had
+> been an impossible, frightful, and hence all the more alluring dream of
+> happiness—that desire had now been satisfied.  Pale, his lower jaw trembling,
+> he stood over her and implored her to be calm, not knowing himself how or why.
+>
+> 'Anna! Anna!' he said in a trembling voice.  'Anna, I beg you! ...'  But the
+> louder he spoke, the lower she bowed her once proud, lively head in shame, and
+> she crumpled up and started to slip off the sofa on which she was sitting on
+> to the floor, towards his feet; she would have fallen on to the carpet if he
+> had not held her.
+>
+> 'My God! Forgive me!' she said, sobbing, pressing his hands to her breast.
+>
+> She felt so sinful and guilty that all that remained for her was to stoop and
+> ask for forgiveness; but there was no one in her life now apart from him, so
+> she addressed her plea for forgiveness to him.  As she looked at him, she felt
+> physically humiliated and could say nothing more.  He meanwhile was feeling
+> what a murderer must feel when he looks at the body he has robbed of life.
+> That body he had robbed of life was their love, the first period of their
+> love. There was something terrible and loathsome in the memories of what this
+> terrible price of shame had bought.  Shame at her spiritual nakedness
+> oppressed her and communicated itself to him.  But in spite of the murderer's
+> deep horror before the body of his victim, the body must be hacked to pieces
+> and hidden, and the murderer must take advantage of what he has gained by
+> murder.
+>
+> And so the murderer falls on this body with a malevolence which is almost like
+> passion, drags it away, and cuts it up; and this is how he covered her face
+> and shoulders with kisses.  She held his hand, and did not move a muscle. Yes,
+> these kisses are what have been bought with this shame.  Yes, and this one
+> hand, which will always be mine, is the hand of my accomplice.  She lifted
+> this hand and kissed it.  He sank to his knees and wanted to see her face; but
+> she hid it, and said nothing.  Finally, as if she had to force herself, she
+> got up and pushed him away.  Her face was still as beautiful as before, but
+> all the more pitiful for it.
+>
+> 'It is all over,' she said.  'I have nothing but you.  Remember that.'
+>
+> 'I can never forget that which is my whole life.  For a minute of this
+> happiness ...'
+>
+> 'What happiness!' she said with loathing and horror, and the horror was
+> ineluctably transmitted to him.  'I beg you, not a word, not a word more.'
+>
+> She quickly got up and moved away from him.
+>
+> 'Not a word more,' she repeated, and she left him with a look of cold despair
+> on her face which he found strange.  She felt unable at that moment to put
+> into words the shame, joy, and horror she felt standing at this threshold into
+> a new life, and she did not want to talk about it and trivialize this feeling
+> with inexact words.  But not only could she not find the words to express all
+> the complexity of these feelings later, either the next day or the one after,
+> but she also could not find the thoughts with which to reflect on what was
+> going on in her soul.
+>
+> She said to herself: 'No, I can't think about this now; later, when I am
+> feeling calmer.'  But the calmness she required for thinking never arrived;
+> whenever the thought of what she had done, what would happen to her, and what
+> she ought to do arose in her mind, she was overcome with horror and drove
+> those thoughts away.
+>
+> Later, later,' she said; 'when I am calmer.'
+>
+> But in her dreams, when she had no control over her thoughts, her position
+> presented itself to her in all its hideous nakedness.  One dream haunted her
+> almost every night.  She dreamed that both of them were her husbands at the
+> same time, and that both were lavishing caresses on her.  Alexey Alexandrovich
+> would weep, kiss her hands, and say, 'How good things are now!'  And Alexey
+> Vronsky was there too, and he was also her husband.  And surprised by
+> something which had seemed impossible to her before, she would explain to
+> them, laughing, that this was much simpler, and that both of them were now
+> happy and contented.  But this dream weighed on her like a nightmare, and she
+> always awoke from it in horror (151-153).
+
+Re love and meaning in life, see the following.  (On this same point, see Wolf,
+when she discusses in Chapter 2 why Williams has a strong point that for some
+people a loss of meaning threatens any motivation at all, including moral
+motivation.)
+
+> [W]hy do they have to pester me?  It's because they can see this is something
+> they can't understand.  If this were the usual trivial society liaison, they
+> would have left me alone.  But they sense this is something different, that
+> it's not a diversion, that this woman is dearer to me than life itself.  And
+> that's what they don't understand, and it irritates them.  Whatever our
+> destiny is or will be, we have made it ourselves, and we are not complaining
+> about it,' he said, linking himself with Anna in the word we.  'No, they have
+> to teach us how to live.  They have no idea what happiness is, and they don't
+> know that without this love, there can be neither happiness nor unhappiness
+> for us—or life,' he thought (186-187).
+
+Re blame, guilt, and conscience, see the following.  (In this passage, Serzyozha
+sees as a child what both Anna and Vronsky hide from themselves.)
+
+> The presence of this child aroused in both Vronsky and Anna a feeling akin to
+> that experienced by a seafarer, who sees from the compass that the direction
+> he is swiftly heading in is far from the proper one, but is incapable of
+> stopping the momentum, is with every minute carried off further and further
+> off his course, and knows that to admit this to himself would be tantamount to
+> admitting certain ruin (189).
+
+Re forgiveness, Anna cannot forgive Karenin because *she* is so guilty towards
+*him*.
+
+> 'He's not a man, he's a machine, and a vicious machine when he's angry,' she
+> added, recalling Alexey Alexandrovich as she spoke, together with every detail
+> of his figure, manner of speaking, and character, blaming him for every bad
+> thing she could find in him, and not forgiving him anything on account of the
+> terrible misconduct she was guilty of before him (193).
+
+Re blame Vronsky is clearly at fault for the injury and death of Frou-Frou,
+though I don't understand racing well enough to be sure of the details.
+
+> There remained that one last five-foot wide ditch, filled with water. Vronsky
+> did not even look at it, but his desire to win by a clear margin led him to
+> raise and lower his horse's head in time to her gallop by working the reins in
+> a circular fashion. He felt that his horse was running on her last reserves;
+> not only were her neck and shoulders damp, but beads of sweat had appeared on
+> her mane, her head, and her pointed ears, and her breath was coming in short,
+> sharp gasps. But he knew those reserves would be more than enough to cover the
+> last five hundred yards. It was only from feeling closer to the ground and
+> from the particularly smooth way they were moving that Vronsky could tell how
+> much the horse had increased her speed. She flew over the ditch as though not
+> noticing it.  She flew over it like a bird; but at the same instant Vronsky
+> felt to his horror that he had not kept pace with his horse, and that without
+> understanding how, he had done something terrible and unforgivable by dropping
+> back into the saddle. All at once his position changed, and he realized that
+> something awful had happened. Before he could work out what it was that had
+> happened, the white legs of the chestnut stallion had come up very close to
+> him, and Makhotin sped past at a swift gallop. Vronsky was touching the ground
+> with one leg, and his horse now began to collapse on to that leg. He barely
+> had time to free his leg before she fell on one side with heavy gasps, and
+> after making vain efforts with her slender, perspiring neck to stand up, she
+> lay there at his feet, trembling on the ground like a wounded bird. Vronsky's
+> clumsy movement had broken her back. But he only realized that much later. Now
+> all he could see was that Makhotin was rapidly getting away, he was staggering
+> about alone on the muddy, unmoving ground, and Frou-Frou was lying there
+> before him panting, with her head bent back, gazing at him with her lovely
+> eye. Still not understanding what had happened, Vronsky tugged at his horse's
+> reins. She again started quivering all over like a fish, making the
+> saddle-flaps creak, and managed to free her front legs, but since she was
+> unable to lift her back, she immediately keeled over and fell again on to her
+> side. Pale, with his face contorted with passion and his lower jaw trembling,
+> Vronsky kicked her in the stomach with his heel, and started pulling on the
+> reins again. But she did not budge, and with her nose buried in the ground,
+> she just gazed at her master with her expressive eyes.
+>
+> 'A-a-ah!' groaned Vronsky, clutching at his head. 'A-a-ah! what have I done!'
+> he cried. 'And the race lost! And it's my own shameful, unpardonable fault!
+> And this poor, beloved, doomed horse! A-a-ah! What have I done!  “All kinds of
+> people, a doctor and his assistant, and officers from his regiment came
+> running up to him. To his great dismay he felt completely safe and sound. The
+> horse had broken her back, and the decision was taken to shoot her. Vronsky
+> could neither answer questions nor talk to anyone. Without picking up the cap
+> that had flown off his head, he turned and walked away from the racecourse,
+> not knowing where he was going. He felt desolate. For the first time in his
+> life he was experiencing the bitterest of misfortunes, and it was a misfortune
+> which was irreparable, and which he himself had caused.
+>
+> Yashvin caught up with him with his cap, and took him home, and half an hour
+> later Vronsky had come to his senses. But the memory of that race remained for
+> a long time in his heart as the worst and most painful memory of his life
+> (202-203).
+
+Re blame and conscience, see this passage when Anna talks with Karenin, who
+shows up on the day of the races and surprises her.  (She has already planned to
+see Vronsky that evening, but she nevertheless says that she hopes Karenin will
+stay the night.)
+
+> She asked him about his health, and what he had been doing, and tried to
+> persuade him to take a rest and come and stay with her at the dacha.
+>
+> She said all this brightly and rapidly, with a particular gleam in her eyes;
+> but Alexey Alexandrovich did not attach any meaning to this tone of hers now.
+> He heard only her words and ascribed to them only their direct meaning.  And
+> so he answered her simply, but glibly.  There was nothing special about any
+> part of this conversation, but afterwards Anna could never recall this brief
+> scene without an excruciating feeling of shame (209).

@@ -481,3 +481,43 @@ stay the night.)
 > so he answered her simply, but glibly.  There was nothing special about any
 > part of this conversation, but afterwards Anna could never recall this brief
 > scene without an excruciating feeling of shame (209).
+
+## Part Three
+
+Re blame, anger, and forgiveness, consider the following passage.  In this
+scene, Levin has gone to his sister's estate to deal with the sale of hay.  For
+several years, the peasants have been resisting Levin, and this year they seem
+to have tried to pull one over on him.  (Briefly, they divide up the hay when he
+is not present, and he thinks that they have not given him his full share.)
+Levin insists that they measure out his share again, in front of him.  At the
+end of the day, we read the following.
+
+> The women were approaching Levin with their singing, and he felt as if
+> a thundercloud of merriment was bearing down on him.  The cloud advanced and
+> enveloped him, and the haystack on which he was lying, and the other
+> haystacks, and the carts, and the whole meadow and the distant
+> fields—everything started vibrating and shaking in time to this wild,
+> rollicking song with its cries, whistles, and hollering.  Levin started to
+> feel envious of this healthy merriment, and he wanted to take part in
+> expressing this joy of being alive.  But he could do nothing, and had to lie
+> there, look, and listen. When the peasants and their song disappeared both
+> from his sight and his hearing, Levin was overcome by a feeling of deep
+> melancholy on account of his loneliness, his physical indolence, and his
+> resentment of this world.
+>
+> Some of those very peasants who had argued with him the most over the hay,
+> those whom he had offended, or who had tried to cheat him, those very peasants
+> had bowed to him cheerfully, and clearly did not and could not bear him any
+> grudge or feel remorse, or indeed any memory of having tried to deceive him.
+> All that had been drowned in the sea of good-humoured, common labour.  God had
+> given the day, and God had given the energy.  The day and the energy had been
+> devoted to labour, and therein lay the reward.  But whom was this labour for?
+> What would be the fruits of this labour?  These considerations were irrelevant
+> and trivial.
+>
+> Levin had often admired this life, and often felt envious of the people who
+> lived this life, but today for the first time, and particularly under the
+> impact of what he had seen of Ivan Parmenov's relationship with his young
+> wife, it dawned on him clearly for the first time that it was up to him to
+> exchange the oppressive, idle, artificial, and personal life he had been
+> leading for this hard-working, pure, and delightful shared life.

@@ -406,9 +406,7 @@ sees as a child what both Anna and Vronsky hide from themselves.)
 
 Re forgiveness, Anna cannot forgive Karenin because *she* is so guilty towards
 *him*.
-
-> 'He's not a man, he's a machine, and a vicious machine when he's angry,' she
-> added, recalling Alexey Alexandrovich as she spoke, together with every detail
+> 'He's not a man, he's a machine, and a vicious machine when he's angry,' she > added, recalling Alexey Alexandrovich as she spoke, together with every detail
 > of his figure, manner of speaking, and character, blaming him for every bad
 > thing she could find in him, and not forgiving him anything on account of the
 > terrible misconduct she was guilty of before him (193).
@@ -484,6 +482,28 @@ stay the night.)
 
 ## Part Three
 
+When Levin and his brother, Sergey, speak, Tolstoy contrasts their attitudes
+towards life.  Sergey has a philosophical attitude towards his pursuits and
+beliefs, but Levin takes a more engaged approach.
+
+> Konstantin Levin regarded his brother as a man of immense intellect and
+> education, who was noble in the highest sense of that word, and endowed with
+> an ability to work for the common good.  But in the depths of his soul, the
+> older he became, and the better he got to know his brother, the more
+> frequently it occurred to him that this ability to work for the common good,
+> which he felt he lacked totally, was perhaps not a virtue but, on the
+> contrary, a deficiency of something—not a deficiency of good, honest, noble
+> desires and tastes, but a deficiency of life force, the thing which is called
+> heart, the impulse which drives a person to choose one of the innumerable life
+> paths open to him and stick to it.  The more he discovered about his brother,
+> the more he noticed that Sergey Ivanovich, and many other people who worked
+> for the common good, were not drawn with their hearts to this love of the
+> common good, but had worked out in their minds that this was a good cause, and
+> took it up for that reason alone.  The observation that his brother did not
+> take the question of the common good or the immortality of the soul any more
+> to heart than he did a game of chess or the ingenious construction of a new
+> machine only served to confirm Levin’s hypothesis (243).
+
 Re blame, anger, and forgiveness, consider the following passage.  In this
 scene, Levin has gone to his sister's estate to deal with the sale of hay.  For
 several years, the peasants have been resisting Levin, and this year they seem
@@ -521,3 +541,250 @@ end of the day, we read the following.
 > wife, it dawned on him clearly for the first time that it was up to him to
 > exchange the oppressive, idle, artificial, and personal life he had been
 > leading for this hard-working, pure, and delightful shared life.
+
+Re vengeance and retribution, see the following.  In this passage, Karenin
+considers his options immediately after Anna has told him that she is having an
+affair.
+
+> The feeling of jealousy which had tortured him when he was in a state of
+> ignorance had ceased the instant the tooth had been painfully extracted by his
+> wife’s words.  But that feeling had now been replaced by another: the desire
+> that she should not only not emerge triumphant, but that she should receive
+> retribution for her crime.  He did not acknowledge this feeling, but deep in
+> his soul he wanted her to suffer for having destroyed his equilibrium and his
+> honour.  And having once again ruminated over the implications of a duel,
+> a divorce, and separation, and once again rejected them, Alexey Alexandrovich
+> became convinced that there was only one solution: to keep her with him,
+> concealing what had happened from society, and to use every means in his power
+> to sever the relationship and above all—and this was something he would not
+> admit even to himself—to punish her (286).
+
+While Karenin thinks about how to deal with the relationship between Anna and
+Vronsky, he thinks more than once something that sounds to me more or less
+Socratic.  Namely, Karenin thinks that he cannot suffer because he has not done
+wrong.  This is more or less a version of the Socratic insistence that a good
+person cannot be harmed.  See for example, the following.
+
+> I made a mistake in joining my life to hers; but there was nothing bad about
+> my mistake, and so I cannot be unhappy.  I am not the guilty party...she is.
+> But she is nothing to do with me.  She does not exist for me. ...  I cannot be
+> unhappy because a contemptible woman has commited a crime. ...  I cannot be
+> unhappy, but neither should she and he be happy. ...  She is bound to be
+> unhappy, but I am not guilty of anything, so I cannot be unhappy (283, 283,
+> 286, 287).
+
+When Anna first sees Vronsky after telling her husband about her affair with
+Vronsky, she does not say that she has told her husband.  She is newly honest
+with Karenin, but now (for the first time?) dishonest, or at least circumspect,
+with Vronsky.
+
+> 'I saw Vronsky and did not tell him.  Right at the point when he was leaving,
+> I wanted to call him back and tell him, but I changed my mind, because it was
+> odd that I had not told him at the outset.  Why didn't I tell him if I wanted
+> to?'  And in answer to this question a hot flush of shame spread over her
+> face.  She realized what had held her back; she realized that she was ashamed.
+> Her position, which the previous evening appeared lucid, now suddenly seemed
+> not only not lucid, but hopeless.  She started to dread the disgrace, which
+> she had not even considered before.  The most dreadful ideas came into her
+> mind at the mere thought of what her husband would do.  It occurred to her
+> that the steward would turn up any minute to turn her out of the house, and
+> that her disgrace would be made public.  She wondered where she would go when
+> she was turned out of the house, and could find no answer.
+>
+> When she thought of Vronsky, she imagined that he did not love her, that he
+> was already beginning to find her a burden, that she could not offer herself
+> to him, and she resented him because of it.  It felt to her as if the words
+> she had spoken to her husband, which she repeated endlessly in her mind, had
+> been said to everyone, and that everyone had heard them.  She could not bring
+> herself to meet the gaze of the people with whom she lived.  She could not
+> bring herself to call her maid, let alone go downstairs where she would see
+> her son and the governess.
+>
+> The maid, who had been listening at the door for a long time, came into the
+> room herself.  Anna looked her quizzically in the eye and blushed with fright.
+> The maid apologized for coming in, and said she thought she had heard the
+> bell.  She brought her clothes and a note.  The note was from Betsy.  Betsy
+> reminded her that Liza Merkalova and Baroness Stolz were coming over to play
+> a game of croquet that morning with their admirers, Kaluzhsky and old Stremov.
+> 'Do come at least to watch, as a study in behaviour.  I will expect you,' she
+> finished (291-292).
+
+Anna briefly loses control of herself in a remarkable manner.
+
+> She kept repeating, ‘My God! My God!’  But neither ‘my’ nor ‘God’ had any
+> meaning for her.  The idea of seeking help for her predicament in religion,
+> despite never having experienced doubt in the religion in which she had been
+> raised, was as alien to her as seeking help from Alexey Alexandrovich himself.
+> She knew in advance that the help which religion could provide was only
+> possible on the condition that she renounce what constituted the whole meaning
+> of her life.  Not only did she feel wretched, but she began to experience fear
+> in the face of this new emotional state which she had never experienced
+> before.  She felt that everything was beginning to double in her soul, just as
+> objects sometimes appear double to tired eyes.  At times she did not know what
+> it was she feared, what she wanted.  Whether she feared or wanted what had
+> happened or was going to happen, and what exactly she wanted, she did not
+> know.
+>
+> Ah, what am I doing!’ she said to herself, suddenly feeling pain in both sides
+> of her head. When she came to her senses, she saw she was holding her hair on
+> either side of her temples with both hands, and pulling it. She jumped up and
+> began pacing about (292).
+
+After Anna has told Karenin about her affair, when she first thinks about the
+future, she imagines every possible misfortune.  She even imagines that her son
+will hate her.
+
+> 'Seryozha,' she said as soon as the governess had left the room, 'that was
+> bad, but you won't do it again, will you? … Do you love me?'
+>
+> She could feel tears welling in her eyes. 'How can I not love him?' she said
+> to herself, looking deep into his frightened but also delighted face. 'Will he
+> really side with his father in order to punish me? Will he not feel sorry for
+> me?' The tears were already running down her face, and to hide them she got up
+> abruptly and almost ran out on to the terrace.
+>
+> After the thundery showers of the last few days, the weather was now cold and
+> clear. There was a chill in the air, despite the bright sun shining through
+> the rain-washed leaves.
+>
+> She shuddered, both from the cold and the inner horror that gripped her with
+> renewed force in the open air.
+>
+> 'Go, go to Mariette,' she said to Seryozha, who had followed her out, and she
+> began walking up and down on the straw matting of the terrace. 'Will they
+> really not forgive me, not understand that all this could not have happened
+> any other way?' she said to herself.'
+>
+> 'Stopping to look at the top of an aspen tree swaying in the wind, its washed
+> leaves sparkling brightly in the cold sunshine, she realized that they would
+> not forgive, that everyone and everything would now treat her as pitilessly as
+> this sky and this foliage' (294).
+
+After Anna receives Karenin's letter telling her to come home and never see
+Vronsky again, Anna initially despairs.  Soon after, however, she goes off to
+Betsy's croquet party, hoping to see Vronsky.  Anna and Betsy talk about
+a couple that seem to be having an infamous affair, and Anna asks pointedly how
+that relationship (and the couple's relationship with the woman's husband)
+works.  Anna appears to want to know, sincerely and in detail, how this other
+couple gets away with it.  Betsy reminds Anna that people don't talk about such
+things.  Then Betsy says the following.
+
+> 'You see, I'm in a fortunate position,' she began, no longer laughing now as
+> she picked up her cup.  'I understand you, and I understand Liza.  Liza is one
+> of those naive creatures, like children, who do not understand what is good
+> and what is bad.  At least she didn't understand when she was very young.  And
+> now she knows that this inability to understand suits her.  Now she perhaps
+> deliberately does not understand,' said Betsy, with a subtle smile.  'But it
+> still suits her.  You see, you can look at something tragically and turn it
+> into a source of misery, and you can look at the very same thing in a simple
+> and even carefree way.  Maybe you have a tendency to look at things too
+> tragically.'
+>
+> 'How I would like to know others as I know myself,' said Anna seriously and
+> thoughtfully.  'Am I worse than others or better?  I think I'm worse (302).
+
+When Vronsky takes a morning to "do the laundry," as he calls it, Tolstoy shows
+us more about Vronsky's inner life.  He has rules, but beyond the limits of
+these rules, he finds himself quickly lost.
+
+> Vronsky's life was particularly fortunate in that he had a code of rules which
+> unequivocally defined everything that should and should not be done.  This
+> code of rules encompassed a very small set of conditions, but the rules were
+> unequivocal, and since Vronsky never ventured beyond these conditions, he
+> never had a moment's hesitation about what he ought to do.  These rules
+> determined unequivocally that one must pay a card-sharper but need not pay
+> a tailor; that one must not lie to men, but to women one may; that one must
+> never deceive anyone, but a husband one may; that an insult can never be
+> pardoned, but one may insult others, and so on.  These rules may all have been
+> senseless and bad, but they were unequivocal, and by adhering to them Vronsky
+> felt that he was in control and could hold his head up high.  It was only very
+> recently with respect to his relationship with Anna that Vronsky had begun to
+> feel that his code of rules did not quite define all conditions, and that the
+> future presented difficulties and areas of doubt through which Vronsky could
+> no longer find a guiding thread (308-309).
+
+Sviyazhsky is a fascinating character.  He is bright, liberal, and fundamentally
+good.  But at the same time, Tolstoy seems to insist that there is something
+deeply empty about him.  He does everything right, but also (perhaps) just for
+show.  I am not sure.  In any case, Tolstoy makes a sharp jab about people and
+their interest in the news when Levin goes into Sviyazhsky's library to pick up
+some books.  Sviyazhsky sees Levin looking at a journal, and he tells Levin
+about a good article in that issue.
+
+> 'What are you looking at?' he said to Levin, who was standing by the round table leafing through the journals.
+>
+> 'Oh yes, there's a very interesting article in there,' Sviyazhsky said about
+> the journal Levin was holding in his hands.  'It turns out', he added, 'that
+> the chief culprit in the partition of Poland was not Frederick at all.  It
+> turns out ...'
+>
+> And with his characteristic clarity, he gave a brief account of these new,
+> very important and interesting revelations.  Although Levin was now mostly
+> preoccupied with thoughts about farming, he wondered as he listened to
+> Sviyazhsky: 'What goes on inside his head?  And why on earth is he interested
+> in the partition of Poland?'  When Sviyazhsky finished, Levin could not help
+> asking: 'So what does all this mean?'  Nothing, it transpired.  It was just
+> the 'it turns out that' which was interesting.  But Sviyazhsky did not
+> explain, and did not deem it necessary to explain why he found it
+> interesting (339-340).
+
+Re what is wrong with Sviyazhsky, Tolstoy says the following.
+
+> Levin saw that he never was going to find the connection between this man’s
+> life and his thoughts.  He was clearly not in the least bit concerned where
+> thought-processes would lead; he was only concerned with the thought-process
+> itself.  And he did not like it when his thought-process led him up a blind
+> alley.  That was the only thing he disliked and tried to avoid, by changing
+> the conversation to something pleasant and amusing (341).
+
+When Levin's brother, Nikolay, comes to visit, Levin comes face to face with his
+own mortality in a striking and new way.
+
+> They both now had only one thought on their minds: Nikolay's illness and approaching death, suppressing everything else.  But neither of them dared talk about it, and so everything they said, since they did not express the one thought that occupied them, was a lie.  Levin had never been so glad when the evening was over and it was time to go to bed.  Never with any stranger or on any formal visit had he been as unnatural and false as he had been that evening.  And his awareness of this unnatural behaviour, and the self-reproach it caused, made him even more unnatural.  He wanted to weep over his beloved, dying brother, and he had to listen and keep up a conversation about how he was going to live.
+> ...
+> His brother went to bed, and whether he was sleeping or not, being a sick man
+> he tossed about and coughed, and when he could not clear his throat he
+> muttered something.  Sometimes, when he was finding it hard to breathe, he
+> would say: 'Oh, my God!'  And at other times, when he was choking on phlegm,
+> he would exclaim angrily: 'Ah, the devil!'  Levin lay awake for a long time
+> listening to him.  His thoughts were disparate in the extreme, but they all
+> ended with the same thing: death.
+>
+> Death, the inevitable end of everything, confronted him for the first time
+> with irresistible force.  And this death, which was there, in this beloved
+> brother, groaning in his sleep and from force of habit indiscriminately
+> invoking first God then the devil, was not nearly as remote as it had seemed
+> to him before.  It was in him too—he could feel it.  If not today, then
+> tomorrow, and if not tomorrow, then in thirty years—did it really matter when?
+> But what this inevitable death was, he not only did not know and had never
+> thought about, but also did not feel competent or bold enough to think about.
+>
+> 'I'm working, I want to achieve something, but I forgot that it will all end,
+> that there is—death.'
+>
+> He sat hunched up on his bed in the darkness, with his arms around his knees, and thought, holding his breath from all the concentration.  But the more he concentrated, the more apparent it became to him that this was unmistakably the case, that he really had forgotten, overlooked, one small factor in life—that death would come along and everything would end, that it was not worth even starting anything, and there was no way this could be helped.  Yes, it was awful, but that is how it was.
+>
+> 'But I am still alive.  So what should I do now, what exactly should I do?' he
+> said with desperation.  He lit a candle, got up carefully, went over to the
+> mirror, and started looking at his face and hair.  Yes, there were grey hairs
+> about his temples.  He opened his mouth.  His back teeth were beginning to
+> decay.  He bared his muscular arms.  Yes, he had a lot of strength.  But
+> Nikolenka, who was lying there breathing with what remained of his lungs, also
+> used to have a healthy body once.  And all of a sudden he remembered how they
+> would go to bed when they were children, waiting for Fyodor Bogdanich to leave
+> the room so they could start throwing pillows at each other and laugh, laugh
+> so uncontrollably that even their fear of Fyodor Bogdanich could not stop that
+> overflowing, effervescent sense of the happiness of life.  'And now there is
+> this lop-sided, hollow chest ... And I, not knowing what will become of me and
+> why ...'
+> ...
+> Levin ... went behind the screen and put out the candle, but still could not
+> sleep for a long time.  The question of how to live had only just become
+> a little clearer to him when he was confronted with a new, insoluble
+> problem—death.
+>
+> 'So he's dying, so he'll die before spring, so how can I help him?  What can
+> I say to him?  What do I know about it?  I had forgotten it even existed”
+> (352-353).
+
+## Part Four

@@ -70,12 +70,12 @@ follows.
 
 > The study was slowly lit up by the candle that was brought in.  Familiar
 > details emerged: deer antlers, bookshelves, the shiny stove with the vent that
-> had long been in need of repair, his father’s sofa, the big desk, an open book
+> had long been in need of repair, his father's sofa, the big desk, an open book
 > on the desk, a broken ashtray, a notebook with his handwriting.  When he saw
 > all this, he surrendered to a moment of doubt about whether he could create
 > that new life he had been dreaming about during his journey home.  It was as
 > if all these traces of his life had grabbed hold of him and were saying: "No,
-> you’ll never get away from us or be any different, but you’ll be just the same
+> you'll never get away from us or be any different, but you'll be just the same
 > as you have always been: with your doubts and eternal dissatisfaction with
 > yourself, your vain attempts to improve and your failures, and your eternal
 > expectation of a happiness which can never possibly be granted to you."
@@ -788,3 +788,454 @@ own mortality in a striking and new way.
 > (352-353).
 
 ## Part Four
+
+Re truth, belief, and the state, see the following (from a description of the
+report on ethnic minorities that Karenin instigates).
+
+> The everyday lives of the ethnic minorities had been investigated in their
+> political, administrative, economic, ethnographic, material, and religious
+> aspects.  All questions received finely articulated answers, and answers that
+> were not open to doubt, since they were not the product of human thought,
+> which is always liable to error, but were the product of professional
+> administrative activity.  The answers were all the result of official data,
+> drawing on reports from provincial governors and bishops, which were based on
+> reports from district commissioners and archpriests, which were in turn based
+> on reports from rural authorities and parish priests; so all these answers
+> were therefore indisputable (373).
+
+After Levin returns from his trip abroad, he continues to think about death and
+meaninglessness.
+
+> Stepan Arkadyich listened attentively to Levin.
+>
+> 'Yes, yes!' he said.  'It's quite possible you're right.  But I'm glad you're
+> in good spirits, that you are going bear-hunting, and working, and are caught
+> up in things.  Because Shcherbatsky told me—he met you—that you were in some
+> kind of depression, and kept talking about death. ...'
+>
+> 'Well, yes, I never stop thinking about death,' said Levin.  'It's true that
+> it's time for me to die.  And that all this is nonsense.  I'll be honest with
+> you: I set great store by my ideas and my work, but essentially—well, think
+> about it: this whole world of ours is really just a spot of mildew which has
+> formed on a tiny planet.  And we think we can have something grand—thoughts,
+> deeds!  They are just grains of sand.'
+>
+> 'But that's as old as the hills, my friend!'
+>
+> 'It is, but you know, when you have a clear understanding of that, somehow
+> everything becomes insignificant.  When you understand that you might die
+> today or tomorrow, and that nothing will remain, everything is so
+> insignificant!  I do think my ideas are very important, but even if they were
+> to be put into practice, they would turn out to be just as insignificant as
+> stalking this bear.  And that's how you spend your life, distracting yourself
+> with hunting, working—anything so as not to think about death.'
+>
+> Stepan Arkadyich smiled perceptively and affectionately as he listened to
+> Levin.
+>
+> 'Well, of course!  See—you've come round to my point of view. Remember how you
+> used to attack me for seeking enjoyment in life?  Oh moralist, do not be so
+> severe! ...'
+>
+> 'No, all the same, what is good in life is ...' Levin became confused.  'Oh,
+> I don't know.  All I know is that we shall soon be dead.'
+>
+> 'But why soon?'
+>
+> 'And you know, life has less charm when one thinks about death, but it's more
+> peaceful.'
+>
+> 'On the contrary, it gets even jollier toward the end.  However, I must go,'
+> said Stepan Arkadyich, getting up for the tenth time (379).
+
+Stepan and Dolly host a dinner at which Levin and Kitty (finally!) get together.
+In addition, Sergey Ivanovich and Karenin (along with a few others) talk about
+education.
+
+> 'It seems to me that influence will always be on the side of true education,'
+> said Alexey Alexandrovich, arching his eyebrows slightly.
+>
+> 'But what must we define as the signs of true education?' said Pestsov.
+>
+> 'I would argue that those signs are obvious,' said Alexey Alexandrovich.
+>
+> 'Are they completely obvious?' interjected Sergey Ivanovich, with a subtle
+> smile.  'Nowadays it is accepted that a true education can only be a purely
+> classical one; but we have been seeing fierce debates from both sides, and it
+> is impossible to deny that the opposing camp has some strong arguments in its
+> favour.'
+>
+> 'You are a classicist, Sergey Ivanovich. Will you have some red?' said Stepan
+> Arkadyich.
+>
+> 'I am not expressing my own opinion of education,' Sergey Ivanovich said,
+> smiling condescendingly, as if to a child, as he held out his glass.  'I am
+> only saying that there are strong arguments on both sides,' he continued,
+> addressing Alexey Alexandrovich.  'I received a classical education, but I am
+> personally unable to find my own ground in this dispute.  I do not see any
+> clear arguments as to why classical subjects should take precedence over
+> modern ones.
+
+> Natural sciences have just as much influence from the point of view of
+> pedagogy and development,' put in Pestsov.  'Take astronomy alone, or botany,
+> or zoology with its system of general laws!'
+>
+> 'I cannot fully agree with that,' replied Alexey Alexandrovich.  'It seems to
+> me that it is impossible not to concede that the very process of studying the
+> forms of languages has a particularly beneficial effect on spiritual
+> development.  It cannot be denied, moreover, that the influence of classical
+> authors is moral in the highest degree, while the teaching of natural sciences
+> is regrettably linked to those harmful and false doctrines which are the bane
+> of our times' (389-390).
+
+When Dolly speaks to Karenin on Anna's behalf, she tries to use his (external)
+piety against him.  As a result, Karenin reveals quite a lot about his emotional
+state and his attitude towards forgiveness.
+
+> You are a Christian. Think of her! What will become of her, if you cast her
+> aside?'
+>
+> 'I have thought, Darya Alexandrovna, I have thought a great deal,' said Alexey
+> Alexandrovich.  Red blotches had appeared on his face, and his dull eyes were
+> looking straight at her.  By now Darya Alexandrovna pitied him with all her
+> heart.  'That is exactly what I did after she herself informed me of my
+> humiliation; I left everything as it was.  I gave her the chance to reform,
+> I tried to save her.  And what was the result?  She failed to carry out the
+> easiest of requirements—the observation of propriety,' he said, becoming
+> heated.  'One can save a person who does not want to be ruined; but when her
+> whole nature is so corrupt and so depraved that she actually perceives ruin as
+> salvation, what is to be done?'
+>
+> 'Anything, only not divorce!' answered Darya Alexandrovna.
+>
+> 'But what is "anything"?'
+>
+> 'No, it is awful!  She will be nobody's wife, she will be ruined!'
+>
+> 'But what can I do?' said Alexey Alexandrovich, shrugging his shoulders and
+> raising his eyebrows.
+>
+> Recollection of his wife’s latest misdemeanour had so annoyed him that he
+> again became cold, as at the beginning of the conversation. ‘I am very
+> grateful for your sympathy, but I must be going,’ he said, getting up.
+>
+> ‘No, wait!  You must not ruin her.  Wait, I will tell you about myself.
+> I married.  My husband was unfaithful to me, and in anger and jealousy, I was
+> about to abandon everything, I was on the verge myself of ... But I came to my
+> senses, and who was it but Anna who saved me?  And here I am living on.  The
+> children are growing up, my husband is returning to his family and is aware he
+> has done wrong, he is becoming purer and better, and I live on ... I have
+> forgiven, and you must forgive!’
+>
+> Alexey Alexandrovich listened to her, but her words no longer had any effect
+> on him. All the rage he had felt on the day he had decided on divorce rose up
+> again in his soul. He shook himself, and said in a shrill, loud voice:
+>
+> I cannot forgive, I do not wish to, and consider it wrong. I have done
+> everything for this woman, and she has trampled everything into the mud. Which
+> is her natural milieu. I am not a spiteful man, I have never hated anyone
+> before, but I hate her with every fibre of my being, and cannot even forgive
+> her, because I hate her too much for all the wrong she has done me!’ he said,
+> with tears of anger in his voice.
+>
+> Love them that hate you ...’ Darya Alexandrovna whispered shamefacedly.
+>
+> Alexey Alexandrovich smirked contemptuously.  He had known this for a long
+> time, but it could not be applied to his case.
+>
+> ‘Love them that hate you, but loving those whom one hates is impossible.
+> Forgive me for upsetting you.  Each person has enough grief of his own!’  And
+> having regained his composure, Alexey Alexandrovich calmly said goodbye and
+> left (397-398).
+
+Shortly before Levin and Kitty talk with single letters in chalk, Kitty says the
+following about the pointlessness of argument (and discussion?).
+
+> 'Why do people love arguing?  After all, no one ever succeeds in convincing
+> anyone else.'
+>
+> 'Yes, it's true,' said Levin.  'It's invariably the case that you end up in
+> a vociferous argument because you can't understand exactly what it is your
+> opponent is trying to prove.'
+>
+> Levin had often noticed in arguments between the most intelligent people that
+> after an enormous expenditure of effort, and an enormous quantity of logical
+> subtleties and words, the adversaries would finally come to the realization
+> that what they had long been battling to prove to one another had been known
+> to both of them for a very long time, from the outset of the argument, but
+> that they liked different things, and did not want to articulate what they
+> liked lest it be called into question.  It was often his experience during an
+> argument that you would sometimes fathom what it was your opponent held dear,
+> and suddenly start liking the same thing yourself and immediately concur, and
+> then all arguments would fall away as superfluous; while sometimes he
+> experienced the opposite: you would finally state what it was you held dear
+> yourself, and for the sake of which you were thinking up arguments, and if you
+> happened to state your case well and sincerely, then your opponent would
+> suddenly agree and stop arguing.  This is what he wanted to say.
+>
+> She wrinkled her forehead, trying to understand. But as soon as he began to
+> explain, she understood.
+>
+> 'I see: one must find out what a person is arguing in favour of, what he holds
+> dear, then one can ...'
+>
+> She had grasped and expressed perfectly his badly expressed idea. Levin smiled
+> in delight, so astonished was he by this transition from the convoluted,
+> verbose argument with Pestsov and his brother to this laconic and clear,
+> almost wordless communication of the most complex ideas (399).
+
+Immediately after this passage, Levin and Kitty have a conversation about the
+education and role of women.  In that conversation, Levin begins with one view,
+but he changes his mind precisely because he comes to see what Kitty feels,
+wants, and believes.
+
+Everything about the reconciliation and engagement of Kitty and Levin is
+amazing.  I especially love how Tolstoy describes Levin's night and morning
+alone while he waits to officially tell Kitty's parents that he wants to marry
+her.  Even more especially, I love the passage that follows.
+
+> He spent the remaining time walking in the streets, constantly glancing at his
+> watch and looking around him.
+>
+> And what he saw then, he never saw again.  He was particularly moved by the
+> sight of children going to school, blue-grey pigeons swooping down to the
+> pavement from a roof, and rolls dusted with flour being put out by an unseen
+> hand.  These rolls, the pigeons, and the two boys were ethereal creatures.
+> All of this happened at the same time: a boy ran towards a pigeon and glanced
+> up at Levin with a smile; the pigeon beat its wings and flew off, sparkling in
+> the sun amidst particles of snow shimmering in the air, while from a window
+> came the smell of freshly baked bread, and rolls were put out.  All this
+> together was so exceptionally good that Levin started laughing and crying with
+> happiness (406).
+
+Re blame and forgiveness, see the following. In this scene, Kitty and Levin
+speak for the first time after she reads his diaries and learns about his
+previous sexual experiences.  (Apparently, this episode, like many between Kitty
+and Levin, is based on Tolstoy and his wife.)
+
+> 'Take these dreadful books, take them!' she said, pushing away the notebooks
+> that lay on the table in front of her.  'Why did you give them to me?  ...
+> No, all the same it's better you did,' she added, taking pity on his
+> despairing face.  'But it's awful, awful!'
+>
+> His bowed his head, and was silent.  There was nothing he could say.
+>
+> 'You won't forgive me,' he whispered.
+>
+> 'No, I have forgiven you, but it's awful!'
+>
+> His happiness was so great, however, that this confession did not shatter it,
+> but merely gave it another nuance.  She forgave him; but from that time on he
+> considered himself even more unworthy of her, felt even more abject before her
+> morally, and valued even more highly his undeserved happiness (411).
+
+After Anna gives birth, she is quite ill.  She sends Karenin a note asking him
+to come see her before she dies.  Karenin thinks that this may be a trick, but
+he goes in case she actually is dying.  In his heart, he hopes that Anna will
+die.  In addition, he plans to leave immediately if she is not ill and to
+forgive her (but only in a superficial way?) if she is ill.  When Karenin
+actually sees Anna, however, he finds—to his own surprise—genuine forgiveness in
+himself.
+
+> Alexey Alexandrovich’s emotional distress had been continually increasing and
+> had now reached the point where he had given up struggling with it; he
+> suddenly began to feel that what he had considered emotional distress was in
+> fact a blessed spiritual state giving him a sudden new happiness he had never
+> experienced before.  He did not think that the Christian law which he had
+> wanted to follow all his life ordained that he should forgive and love his
+> enemies; but a joyous feeling of love and forgiveness of his enemies was
+> filling his heart.  He got down on his knees, put his head in the crook of her
+> arm, whose raging heat burned him through her bed-jacket, and sobbed like
+> a child.  She put her arm around his balding head, moved closer to him, and
+> raised her eyes with a defiant pride (416).
+
+Soon after, Karenin explains his new feelings to Vronsky as follows.
+
+> I beg you to listen to me, this is crucial.  I need to explain my feelings,
+> those which have guided me in the past and will continue to guide me, so that
+> you do not misunderstand me.  You know that I had decided on a divorce, and
+> had even begun proceedings.  I will not conceal from you that I was in
+> a dilemma when I began proceedings, and was in agony about it; I confess that
+> I was obsessed with a desire to take revenge on you and her.  When I received
+> the telegram, I came here with the same feelings, and I'll go further:
+> I wanted her to die.  But ...'  He paused to consider whether he should reveal
+> his feelings to him or not.  'But I saw her and forgave her.  And the
+> happiness of forgiveness has revealed to me what my duty is.  I have forgiven
+> her completely.  I want to turn the other cheek, I want to give my shirt when
+> my coat is taken from me, and I pray only that God does not take from me the
+> happiness of forgiveness!'  There were tears in his eyes, and Vronsky was
+> astonished by his radiant, serene expression 'That is my position.  You can
+> trample me into the mud, make me the laughing-stock of society, but I will not
+> abandon her, and will never utter a word of reproach to you,' he continued.
+> 'My duty is clearly marked out for me: I must be with her, and I will be.  If
+> she wishes to see you, I will let you know, but now I believe it would be best
+> for you to leave' (417)
+
+As Anna recovers, Karenin gives in fully to his latent sympathy for other
+people.  As a result, he undergoes a remarkable change.
+
+> The error committed by Alexey Alexandrovich while preparing to see his wife,
+> in not considering the possibility that her repentance might be sincere, that
+> he might forgive her, and that she might not die—this error became glaringly
+> evident to him two months after his return from Moscow.  But the error he had
+> committed had come about not only because he had not considered this
+> possibility, but also because until that day when he had come face to face
+> with his dying wife he had not known his own heart.  At his sick wife's
+> bedside he had for the first time in his life surrendered to that feeling of
+> tender compassion which the sufferings of others always aroused in him, and
+> which he had previously been ashamed of as a harmful weakness; and pity for
+> her, and remorse at having wished for her death, and above all the very joy of
+> forgiveness meant that he suddenly felt not only relief from his sufferings,
+> but also an inner peace which he had never experienced before.  He suddenly
+> felt that the very thing which had been the source of his sufferings had
+> become the source of his spiritual joy, and that what had seemed insoluble
+> when he was engaged in condemning, chastising, and hating became simple and
+> clear when he forgave and loved.
+>
+> He forgave his wife and pitied her for her sufferings and remorse.  He forgave
+> Vronsky and pitied him, especially after rumours reached him of his desperate
+> act.  He also pitied his son more than before, and now reproached himself for
+> taking so little interest in him. But for the newborn baby girl he experienced
+> feelings not just of pity, but of tenderness.  At first it was a feeling of
+> pure compassion which led him to devote himself to the frail little baby girl
+> who was not his daughter and had been neglected during her mother's illness,
+> and who would probably have died if he had not taken care of her—and he did
+> not notice himself how attached to her he became.  He would go into the
+> nursery several times a day and sit there for long periods, so that the
+> wet-nurse and the nanny, who were at first shy with him, eventually got used
+> to him.  Sometimes he would sit there for a good half-hour, gazing silently at
+> the sleeping baby's saffron-red, downy, puckered little face, and observing
+> the movements of her wrinkled forehead and the backs of her chubby little
+> hands with their curled fingers as they rubbed her little eyes and the bridge
+> of her nose.  It was at such moments in particular that Alexey Alexandrovich
+> felt completely calm and at peace with himself, and saw nothing unusual about
+> his situation, nothing that needed to be changed (421-422).
+
+Unfortunately, there is no social space for Anna and Karenin to have a healthy
+relationship any longer.  Karenin realizes this himself, though he tries to deny
+what he knows.
+
+> But the more time passed, the more clearly he saw that however natural this situation was for him now, he would not be allowed to remain in it. He felt that, in addition to the benign force ruling his soul, there was another primitive force ruling his life which was as powerful, if not more powerful, and that this force was not going to give him that meek tranquillity he craved. He felt that everyone was looking at him with quizzical surprise, that they did not understand him, and were expecting something from him. He particularly felt the fragility and artificiality of his relationship with his wife.
+> ...
+> 'No, it can't go on like this,' Alexey Alexandrovich said to himself firmly as
+> he left his wife.
+>
+> Never had the impossibility of his position in the eyes of society, his wife's
+> hatred of him, and the general power of that primitive mysterious force ruling
+> his life, in opposition to his emotional needs, demanding the execution of its
+> will and a change in his relations with his wife, never had this appeared so
+> manifestly obvious to him as at this moment.  He saw clearly that all of
+> society and his wife were expecting something from him, but what exactly it
+> was he could not make out.  He felt a mounting anger in his soul on account of
+> this, which was destroying his peace of mind and all the rewards of his
+> selfless behaviour.  He believed that it would be better for Anna to break off
+> relations with Vronsky, but if they all thought this was not possible, he was
+> even prepared to allow these relations to be resumed, as long as the children
+> were not disgraced, he was not deprived of them, and did not have to change
+> his situation.  However bad this would be, it was still better than
+> a separation, which would place her in a hopeless, shameful position and
+> deprive him of everything he loved. But he felt helpless; he knew in advance
+> that everyone was against him, and that he would not be allowed to do what now
+> seemed to him to be so natural and good, but that he would be forced to do
+> what was wrong, but what they considered to be correct (422, 428).
+
+## Part Five
+
+After Anna and Vronsky leave for Europe, Anna suppresses the guilt she feels
+towards Karenin.  See the following passage re her guilt and blame.
+
+> During that first period of her liberation and rapid recovery, Anna felt
+> unpardonably happy and full of the joys of life.  Recollection of her
+> husband's unhappiness did not spoil her happiness.  On the one hand that
+> recollection was too terrible to contemplate.  On the other, her husband's
+> unhappiness had brought her too much happiness to cause her remorse.  The
+> recollection of everything that happened to her after her illness—the
+> reconciliation with her husband, the rift, the news of Vronsky's wound, his
+> appearance, the preparations for the divorce, the departure from her husband's
+> house, the parting from her son—all that seemed to her like a delirious dream,
+> from which she had woken up alone with Vronsky abroad.  The recollection of
+> the damage inflicted on her husband aroused in her a feeling akin to
+> repugnance, such as a drowning man might feel after shaking off a person
+> clinging to him.  That person had drowned. That had been bad, of course, but
+> it had been the sole means of salvation, and it was better not to dwell on
+> those terrible details.
+>
+> One consoling reflection about her conduct had occurred to her then, at the
+> first moment of the rift, and now when she recalled everything that had
+> happened, she remembered that one reflection. 'I could not avoid bringing
+> misfortune upon this person,' she thought, 'but I don't want to take advantage
+> of that misfortune; I am also suffering, and will go on suffering; I am
+> forfeiting what I valued above all else—I am forfeiting my good name and my
+> son. I have done wrong, and for that reason I don't want happiness, I don't
+> want a divorce, and will go on suffering from the disgrace and the separation
+> from my son.' But however sincerely Anna wanted to suffer, she was not
+> suffering. There was no disgrace at all. With the abundance of tact common to
+> both of them, they never placed themselves in a false position while they were
+> abroad, by avoiding Russian ladies and always meeting people who pretended
+> they fully understood their mutual position, and far better than they did
+> themselves. Even separation from the son she loved did not cause her pain to
+> begin with. The baby girl, his child, was so sweet, and had so endeared
+> herself to Anna since the time when she became the only child left to her,
+> that Anna rarely thought about her son (465-466).
+
+When Vronsky and Anna begin living together in Europe, Vronsky does not become
+happy.  Tolstoy uses Vronsky to teach a lesson about happiness.
+
+> Vronsky, meanwhile, despite the complete fulfilment of what he had desired for
+> so long, was not completely happy.  He soon began to feel that the fulfilment
+> of his desires had given him no more than a grain of sand from the mountain of
+> happiness he had been expecting.  This fulfilment had shown him the error
+> people invariably make when they imagine happiness to be the fulfilment of
+> desires.  In the initial period after joining his life to hers and putting on
+> civilian clothes, he experienced the full delights of freedom in general,
+> which he had not known before, and also the freedom of love, and he was
+> content, but not for long.  He soon felt desires for desires, and tedium
+> arising in his soul.  Independent of his will, he began grasping at every
+> passing whim, perceiving it as a desire and a purpose.  Sixteen hours of the
+> day needed to be filled with something, as they were living a life of complete
+> freedom abroad, and one which lay outside that round of conventional social
+> activities which filled the time in Petersburg.  There could be no question of
+> even thinking about the pleasures of bachelor life which had occupied Vronsky
+> on previous trips abroad, since his one foray of that kind had provoked an
+> unexpected depression in Anna which was incommensurate with a late supper with
+> acquaintances.  Fraternizing with local and Russian society was also out of
+> the question due to the ambivalence of their position.  Sightseeing, apart
+> from the fact that they had already seen everything, did not have for him,
+> a Russian and intelligent man, that unaccountable importance which the English
+> are able to attach to this activity.
+>
+> And like a hungry animal will pounce on every object it comes across, hoping
+> to find food in it, Vronsky quite unconsciously pounced first on politics,
+> then on new books, then on paintings (467-368).
+
+Golenishchev has funny, probably very cliched, views of the "new ideas" of his
+time.
+
+> [Mikhailov, the recently notorious painter, is] eccentric and completely
+> uneducated.  You know, one of those wild new men who are often to be
+> encountered these days; you know, one of those freethinkers brought up
+> d'emblée on ideas of atheism, negation, and materialism.  It used to be the
+> case,' said Golenishchev, not noticing, or not wishing to notice, that both
+> Anna and Vronsky wished to speak, 'it used to be the case that a freethinker
+> was someone brought up on ideas of religion, law, and morality, who came to
+> freethinking by dint of struggle and hard work; but now there is a new breed
+> of unorthodox freethinkers growing up who have never even heard of laws of
+> morality or religion, or authorities, and who are growing up from the very
+> beginning with ideas of negating everything, as savages, in other words.
+> Well, he's one of those.  He’s the son, it seems, of a senior court footman
+> from Moscow and did not receive any education.  Being no fool, when he entered
+> the Academy and made his reputation, he naturally started wanting to educate
+> himself.  And he turned to what he thought was the fount of
+> education—journals.  And a person wanting to educate himself in the old days,
+> you understand, a Frenchman, let’s say, would start by studying all the
+> classics: the theologians, the tragedians, the historians, and the
+> philosophers, and you can imagine the sheer intellectual hard work he would
+> have in prospect.  But in our country these days he will head straight for the
+> literature of negation, rapidly master the whole essence of the science of
+> negation, and leave it at that.  And that’s not all: about twenty years ago he
+> would have found in that literature signs of a struggle with authorities, with
+> age-old views, and he would have realized from this struggle that there was
+> something else possible; but nowadays he will come straight to a literature in
+> which old-fashioned attitudes are not even dignified with an argument, and
+> which says straight out: there is nothing but evolution, natural selection,
+> the struggle for existence—and that’s all (470).

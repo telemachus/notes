@@ -2,8 +2,8 @@
 
 ## Part One
 
-Stepan must "seek oblivion in the dream of life" and Dolly "drown[s] her sorrows
-in [the day's chores] for a while" (6, 16).  There is a parallel but also
+Stepan must "seek oblivion in the dream of life" and Dolly "drown<s> her sorrows
+in <the day's chores> for a while" (6, 16).  There is a parallel but also
 a strong contrast here.
 
 See the long description of how Stepan's mind works (8-10) for a vivid picture
@@ -18,8 +18,8 @@ heart" and (slightly earlier) "An acquaintance he encountered called out to
 him, but Levin did not even recognize who it was" (30).
 
 Re blame, after Kitty rejects Levin, she feels "thrilled" (that he proposed to
-her), and "she [keeps] telling herself...'It's not my fault.'"  Nevertheless,
-"an inner voice [tells] her otherwise" (57).  Kitty, unlike Anna much later,
+her), and "she <keeps> telling herself...'It's not my fault.'"  Nevertheless,
+"an inner voice <tells> her otherwise" (57).  Kitty, unlike Anna much later,
 does not deny her own guilt.  She responds to this inner voice by praying "Lord
 have mercy" over and over before falling asleep (57).  Cf. also Levin who prays
 in a similar way when Kitty is in labor.  (TODO: find the page reference for
@@ -213,7 +213,7 @@ Re guilt and emotional upheaval, see the following.
 
 This passage continues as follows.
 
-> [S]he paused in this small vestibule while she went over in her mind what had
+> <S>he paused in this small vestibule while she went over in her mind what had
 > happened.  Without being able to remember what either of them had said, she
 > understood through her feelings that this brief exchange had brought them
 > terribly close; and she was both frightened and overjoyed by this.  After
@@ -264,7 +264,7 @@ outburst.
 Karenin reveals his unforgiving side when Anna talks with him about Stepan and
 Dolly.
 
-> [Anna] told him about her feelings of pity, first for her brother, and then
+> <Anna> told him about her feelings of pity, first for her brother, and then
 > for Dolly.
 >
 > 'I do not believe a person like that can be excused, even if he is your
@@ -383,7 +383,7 @@ when she discusses in Chapter 2 why Williams has a strong point that for some
 people a loss of meaning threatens any motivation at all, including moral
 motivation.)
 
-> [W]hy do they have to pester me?  It's because they can see this is something
+> <W>hy do they have to pester me?  It's because they can see this is something
 > they can't understand.  If this were the usual trivial society liaison, they
 > would have left me alone.  But they sense this is something different, that
 > it's not a diversion, that this woman is dearer to me than life itself.  And
@@ -1211,7 +1211,7 @@ happy.  Tolstoy uses Vronsky to teach a lesson about happiness.
 Golenishchev has funny, probably very cliched, views of the "new ideas" of his
 time.
 
-> [Mikhailov, the recently notorious painter, is] eccentric and completely
+> <Mikhailov, the recently notorious painter, is> eccentric and completely
 > uneducated.  You know, one of those wild new men who are often to be
 > encountered these days; you know, one of those freethinkers brought up
 > d'emblée on ideas of atheism, negation, and materialism.  It used to be the
@@ -1239,3 +1239,114 @@ time.
 > which old-fashioned attitudes are not even dignified with an argument, and
 > which says straight out: there is nothing but evolution, natural selection,
 > the struggle for existence—and that’s all (470).
+
+When Levin and Kitty visit Levin's dying brother, Tolstoy offers the following
+observations on different ways of knowing (or understanding?) death.
+
+> You have hidden things from the most wise and revealed them to children and
+> the foolish.’  So Levin thought about his wife as he talked to her that
+> evening.
+>
+> It was not because he considered himself one of the most wise that Levin
+> thought of this passage from the Gospel, but he could not help knowing that he
+> was cleverer than his wife and Agafya Mikhailovna, and he also could not help
+> knowing that whenever he thought about death, he thought about it with all the
+> strength of his soul.  He also knew that a great many male intellects, whose
+> thoughts about it he had read, had ruminated about it without knowing
+> a fraction of what his wife and Agafya Mikhailovna knew about it.  However
+> different those two women were, in this Agafya Mikhailovna and Katya, as his
+> brother Nikolay called her and as Levin now took particular pleasure in
+> calling her, were completely as one.  They both knew without a shadow of
+> a doubt what life was, and what death was, and although neither of them could
+> have begun to answer or even understand the questions which occurred to Levin,
+> neither had any doubt as to the significance of this phenomenon, and their
+> attitude to it, which was not just exclusive to them but shared with millions
+> of people, was completely identical.  The proof that they really did know what
+> death was lay in the fact that they knew without a moment’s hesitation how to
+> deal with people who were dying, and were not frightened of them.  Levin and
+> others, on the other hand, although they could say a lot about death, clearly
+> did not know, because they were afraid of death and did not have the faintest
+> idea what to do when people were dying.  If Levin had been alone with his
+> brother Nikolay now, he would have looked at him in terror and sat there
+> waiting with still greater terror, unable to do anything else (498-499).
+
+
+After Levin's brother dies, and we learn that Kitty is pregnant, we return to
+Karenin and the time immediately after Anna leaves for Europe.
+
+> What was most difficult about this position was the fact that he simply could
+> not connect and reconcile his past with what was going on now.  It was not the
+> past when he had lived happily with his wife that troubled him.  He had
+> already experienced the agonizing transition from that past to knowledge of
+> his wife's infidelity; that state had been painful, but comprehensible to him.
+> If his wife had left him after confessing her infidelity back then, he would
+> have been devastated and unhappy, but he would not have been in the hopeless
+> and incomprehensible position he felt himself to be in now.  He simply could
+> not reconcile his recent forgiveness, his tenderness, and his love for his
+> sick wife and another man's child with what was going on now, that is, with
+> the fact that, as if in recompense for all of this, he now found himself
+> alone, pilloried, ridiculed, not needed by anyone and despised by everyone.
+>
+> For the first two days after his wife's departure Alexey Alexandrovich
+> received petitioners and his private secretary, attended committee meetings,
+> and went to have dinner in the dining room as usual.  Without accounting to
+> himself why he was doing so, he strained every nerve of his being during those
+> two days just to maintain a calm and even indifferent air.  When answering
+> questions as to what should be done with Anna Arkadyevna's rooms and
+> belongings, he made a supreme effort to give the impression of a man for whom
+> what had happened had not been unforeseen and was in no way out of the
+> ordinary, and he achieved his aim: no one could have detected in him any signs
+> of despair.  But on the third day after her departure, when Korney gave him
+> a bill from a milliner's shop which Anna had forgotten to pay, and announced
+> that the shopkeeper himself had come in person, Alexey Alexandrovich
+> instructed him to be shown in.
+>
+> 'Excuse me, Your Excellency, for taking the liberty of troubling you. But if
+> you wish us to approach Her Excellency, then please be so kind as to provide
+> her address.'
+>
+> Alexey Alexandrovich seemed to the shopkeeper to be deliberating, and then all
+> of a sudden he turned round and sat down at his desk.  Letting his head sink
+> into his hands, he sat in this position for a long time, making several
+> attempts to speak and coming to a halt each time.
+>
+> Understanding what his master was feeling, Korney asked the shopkeeper to call
+> another time.  Left alone again, Alexey Alexandrovich realized he did not have
+> the strength to maintain the pretence of calmness and resolve.  He dismissed
+> the carriage that was waiting for him, gave instructions that he would receive
+> no one, and did not emerge for dinner.
+>
+> He sensed he would not be capable of enduring the full brunt of the contempt
+> and vitriol he had clearly seen on the faces of both the shopkeeper and
+> Korney, indeed every person without exception whom he had encountered during
+> those two days.  He felt he could not repulse people's hatred of him, because
+> this hatred did not come from his being bad (he could then have tried to be
+> better), but from his being shamefully and repulsively unhappy.  He felt that
+> because of this, precisely because his heart was torn to shreds, they would be
+> merciless to him.  He felt that people would destroy him as dogs savage an
+> injured dog, howling in pain.  Hiding his wounds from people was his only way
+> of escaping from them, and he had unconsciously tried to do that for two days,
+> but now he no longer felt capable of prolonging this unequal battle (508-509).
+
+Re "suspension of judgment," consider the following.
+
+> There were then as many reasons for this step as against it, and there was no
+> single, decisive argument which would have impelled him to alter his general
+> rule of abstaining when in doubt; but Anna's aunt intimated to him through an
+> acquaintance that he had already compromised the girl, and that he was
+> honour-bound to propose (510).
+
+The note on "abstaining when in doubt" tell us that this phrase is "a
+translation of the French phrase 'dans le doute, abstiens-toi', which Tolstoy
+was fond of" (840).  TODO: check for the history of this phrase.
+
+## Part Five
+
+Re "amare magis, sed bene velle minus" (Catullus 72.8), see the following.  (In
+this passage, we are back with Vronsky and Anna.  Vronsky finds that his
+feelings for Anna are changing.)
+
+> 'But how can she not understand <that she should not go the theater, given
+> their current situation>, and what is going on with her?' he wondered.  He
+> felt his respect for her was diminishing at the same time as his consciousness
+> of her beauty was increasing (546).

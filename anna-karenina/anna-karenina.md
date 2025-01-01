@@ -1350,3 +1350,161 @@ feelings for Anna are changing.)
 > their current situation>, and what is going on with her?' he wondered.  He
 > felt his respect for her was diminishing at the same time as his consciousness
 > of her beauty was increasing (546).
+
+Re Anna, guilt, and blame, see the following passage.  (In this passage, Dolly
+is on her way to visit Anna and Vronsky at their country home.)
+
+> 'And they attack Anna.  Why?  Am I any better?  I at least have a husband
+> I love.  Not in the way I would like to love him, but I do love him, and Anna
+> did not love hers.  What is she guilty of?  She wants to live.  God has put
+> that into our hearts.  It could well be that I would have done the same'
+> (610).
+
+When Anna comes to see Dolly in the evening, and they sit down together to talk,
+Anna brings up Kitty first of all.
+
+> Well, how's Kitty?' she said with a heavy sigh, looking guiltily at Dolly.
+> 'Tell me the truth, Dolly, isn't she angry with me?'
+>
+> 'Angry?  No,' said Darya Alexandrovna, smiling.
+>
+> 'But doesn't she hate and despise me?'
+>
+> 'Oh, no!  But you know, that sort of thing can't be forgiven.'
+>
+> 'Yes, I know,' said Anna, turning away and looking out of the open window.
+> 'But I was not to blame.  Who was to blame?  And what does blame mean anyway?
+> Could it have been different?  Well, what do you think?  Could it have
+> happened that you didn't become Stiva's wife?'
+>
+> 'I really don't know.  But what I want you to tell me is ...'
+>
+> 'Yes, yes, but we haven't finished with Kitty.  Is she happy?  He's
+> a wonderful man, they say.'
+>
+> 'Describing him as wonderful does not do him justice.  I don't know a better
+> man.'
+>
+> 'Oh, I am so glad!  I'm very glad!  Describing him as wonderful does not do
+> him justice,' she repeated.
+>
+> Dolly smiled (638).
+
+Anna clearly feels guilty, and she clearly wants to know that Kitty is happy and
+that Levin is a good man in order to lessen her guilt.  But at the same time she
+also pushes the guilt away by saying that she was not to blame and by asking
+five rhetorical questions in a row.  When I read Nietzsche, Bernard Williams, or
+Galen Strawson, the ideas of blame and (real? deep?) moral responsibility seem
+incoherent to me.  But when I read this passage in *AK*, I feel immediately and
+strongly that Anna is self-deceived and sophistical.  She is clearly to blame,
+and her words and behavior make clear that she feels this herself too.
+
+Once we are thinking of blame, Tolstoy raises what I suspect is Anna's greatest
+sin (and guilt?).  Anna avoids becoming pregnant.
+
+> 'Well, <Vronsky's> most legitimate wish is that your children should have
+> a name.'
+>
+> 'Which children?' Anna said, not looking at Dolly and screwing up her eyes.
+>
+> 'Annie and those to come ...'
+>
+> 'He need not worry on that count, as I won't have any more children.'
+>
+> 'How can you possibly say that you won't?'
+>
+> 'I won't, because I don't want any more.'
+>
+> And in spite of all her agitation, Anna smiled when she noticed the naive
+> expression of curiosity, surprise, and horror on Dolly's face.
+>
+> 'The doctor told me after my illness
+> . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ' “It
+> can't be true!' said Dolly, opening her eyes wide. For her, this was one of
+> those discoveries whose ramifications and inferences are so enormous that one
+> feels only the impossibility of grasping it all in the first moment, while
+> aware of the need to devote a very great deal of time thinking about it.
+>
+> This discovery, which suddenly explained to her all those families she had
+> previously found incomprehensible in which there were only one or two
+> children, aroused in her so many thoughts, ideas, and contradictory feelings
+> that she was unable to say anything and could only stare at Anna in wide-eyed
+> amazement.  This was the very thing she had been dreaming about during her
+> journey earlier in the day, but now that she had learnt that it was possible,
+> she was horrified.  She felt that this was an excessively simple solution to
+> an excessively complicated problem.
+>
+> N'est-ce pas immoral?' was all she said, after a pause.
+>
+> 'What's immoral about it? Think about it, I am faced with two alternatives:
+> either to be pregnant, in other words, ill, or to be the friend and companion
+> of my husband, well, practically my husband,' Anna said in a deliberately
+> superficial and glib tone.
+>
+> 'Well, yes, I see,' said Darya Alexandrovna, hearing the very arguments she
+> had mustered herself, and no longer finding them as convincing as before.
+>
+> 'For you and for other people,' said Anna, as if guessing her thoughts, 'there
+> might still be doubts; but for me …  You have to understand that I am not his
+> wife; he loves me as long as he loves me.  So how am I supposed to keep his
+> love?  Like this?'
+>
+> She held out her white arms in front of her stomach.
+>
+> Thoughts and memories crowded into Darya Alexandrovna's mind with
+> extraordinary rapidity, as often happens at moments of agitation. 'I did not
+> make myself attractive to Stiva,' she thought; 'he abandoned me for others,
+> and that first one he betrayed me for certainly did not keep him by always
+> being beautiful and vivacious. He dropped her and took up with another. And
+> surely Anna isn't going to be able to attract and keep Count Vronsky in this
+> way? If that is what he is after, he will find outfits and manners which are
+> even more alluring and vivacious. And however white and lovely her bare arms
+> are, however beautiful her whole shapely figure and flushed face amongst all
+> that black hair, he will find something even better, just as my disgusting,
+> pathetic, dear husband does whenever he goes looking.' “Dolly made no reply
+> and just sighed. Anna noticed this sigh, signifying disagreement, and
+> continued. She had other arguments in reserve which were so powerful it would
+> be utterly impossible to counter them.
+>
+> 'You say it is wrong? But one has to be rational,' she went on. 'You are
+> forgetting my situation. How can I want children? I'm not talking about the
+> suffering, as I'm not afraid of that. But think about it, who are my children
+> going to be? Unfortunate children who will bear someone else's name. They will
+> be obliged to be ashamed of their mother, their father, and their birth just
+> by virtue of being born.'
+>
+> 'But that is why you need a divorce.'
+>
+> But Anna was not listening to her. She wanted to enumerate all the arguments
+> with which she had convinced herself on so many occasions.
+>
+> 'Why have I been given reason if not to use it to avoid bringing unfortunate
+> children into the world?'
+>
+> She looked at Dolly, but went on without waiting for a reply:
+>
+> 'I would always feel guilty towards these unfortunate children,' she said. 'If
+> they do not exist, they are at least not unfortunate, but if they are
+> unfortunate, then I alone am to blame.'
+>
+> These were the very arguments Darya Alexandrovna had marshalled herself; but
+> now she was listening to them and not understanding them. 'How can I feel
+> guilty towards non-existent beings?' she thought. And an idea suddenly
+> occurred to her: could it have been better for Grisha, her favourite, if he
+> had never existed? And this seemed so outlandish to her, so strange, that she
+> shook her head to disperse this jumble of whirling, mad thoughts.
+>
+> 'No, I don't know, it's not right,' was all she said, with an expression of
+> disgust on her face.
+>
+> 'Yes, but you mustn't forget what you are, and what I am … And besides,' Anna
+> added, seemingly acknowledging that it was nevertheless not right, despite the
+> wealth of her arguments and the poverty of Dolly's, 'you mustn't forget the
+> main thing, which is that I am not in the same situation as you are now. For
+> you the question is whether you want not to have any more children, whereas
+> for me it is whether I want to have children. It is a big difference. You have
+> to understand that I can't want them in my situation.'
+>
+> Darya Alexandrovna did not object. She suddenly felt that such a distance had
+> opened up between her and Anna that there were issues between them on which
+> they would never agree, and about which it was better not to speak (639-641).

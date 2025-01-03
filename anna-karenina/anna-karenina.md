@@ -1139,8 +1139,6 @@ what he knows.
 > seemed to him to be so natural and good, but that he would be forced to do
 > what was wrong, but what they considered to be correct (422, 428).
 
-## Part Five
-
 After Anna and Vronsky leave for Europe, Anna suppresses the guilt she feels
 towards Karenin.  See the following passage re her guilt and blame.
 
@@ -1351,6 +1349,8 @@ feelings for Anna are changing.)
 > felt his respect for her was diminishing at the same time as his consciousness
 > of her beauty was increasing (546).
 
+## Part Six
+
 Re Anna, guilt, and blame, see the following passage.  (In this passage, Dolly
 is on her way to visit Anna and Vronsky at their country home.)
 
@@ -1508,3 +1508,222 @@ sin (and guilt?).  Anna avoids becoming pregnant.
 > Darya Alexandrovna did not object. She suddenly felt that such a distance had
 > opened up between her and Anna that there were issues between them on which
 > they would never agree, and about which it was better not to speak (639-641).
+
+## Part Seven
+
+When Anna meets Levin (Chapters 9-10 in Part Seven), she says something very
+strange about Kitty to him as he is leaving.
+
+> 'Goodbye,' she said, holding on to his hand and fixing him with a beguiling
+> look.  'I am very glad que la glace est rompue.'
+>
+> She let go of his hand and narrowed her eyes.
+>
+> 'Tell your wife that I am as fond of her as before, and that if she cannot
+> forgive me my situation, then I would rather she never forgave me.  To
+> forgive, it would be necessary to live through what I have lived through, and
+> may God save her from that.'
+>
+> 'Yes, absolutely, I will tell her ...' said Levin, blushing (703).
+
+While Anna, Stiva, and Levin hang out, Vronsky remains at the club.  When
+Vronsky returns home, he and Anna fight.  They fight, as usual, because Vronsky
+can—and does—enjoy their normal social sphere, but Anna can no longer go out
+into the world.  Anna "wins" the fight by implicitly (though not very subtly)
+threatening to harm herself.
+
+> <Anna> began to feel sorry for herself again, and almost burst into tears.
+> 'If you knew what this means for me!  When I feel, as I do now, that you are
+> being hostile to me, yes, exactly that, if you only knew what it means for me!
+> If you knew how close I feel to disaster at these moments, and how afraid
+> I am, afraid of myself!'  And she turned away, hiding her sobs (708).
+
+Later, when they have (superficially) reconciled, Anna realizes that she cannot
+play her winning card too often.
+
+> And when <Anna> recalled the words that had brought her victory, 'I am close
+> to a terrible disaster and am afraid of myself,' she realized they were
+> a dangerous weapon and could not be used a second time.  And she felt that
+> alongside the love which bound them, an evil spirit of some kind of conflict
+> had installed itself between them, which she was unable to expunge from his
+> heart, let alone her own (708).
+
+Re suspension of judgment, see the following.
+
+> 'Lord, have mercy!  Forgive us and help us!' he kept saying, repeating words
+> which had suddenly come to his lips unexpectedly for some reason.  And he,
+> a non-believer, was not merely mouthing these words with his lips.  He now
+> knew at that moment that not only his doubts, but also the impossibility of
+> believing rationally, which he knew resided in him, did not in any way prevent
+> him from turning to God.  All that was now swept out of his soul like dust.
+> To whom was he supposed to turn if not to Him in whose hands he felt himself,
+> his soul, and his love to be (711)?
+
+In Chapter 24 of Part 7, Anna and Vronsky begin the fight that will end with
+Anna's suicide.  (Anna began to spiral already in Chapter 23.)  Although Anna
+initially tries not to fight with Vronsky over stupid things, she finds that she
+cannot help herself.
+
+> For a moment she came to her senses and was aghast that she had broken her
+> resolution.  But even though she knew she was destroying herself, she could
+> not restrain herself, she could not refrain from showing him how wrong he was,
+> she could not give in to him (746).
+
+For the phrase "she came to her senses," see Part 3, Chapter 15 (293).
+
+Soon after they begin to fight, Anna first thinks (clearly? explicitly?) about
+suicide.  She considers suicide for multiple reasons.  First, if Anna dies, the
+shame on Karenin, her son, and herself disappears.  Second, if Anna kills
+herself, she will punish Vronsky.
+
+> Thinking again about Alexey Alexandrovich, she also recalled the time of her
+> illness after she had given birth, and the feeling which had never left her
+> then.  'Why didn't I die?'—both her words and her feelings back then now came
+> flooding back to her.  And she suddenly understood what it was which was in
+> her soul.  Yes, this was the one thought which could resolve everything.
+> 'Yes, to die! ...'
+>
+> 'Alexey Alexandrovich's shame and disgrace, and Seryozha's, and my dreadful
+> shame—all will be redeemed by death.  If I die, he will feel remorse, he will
+> be filled with pity and love, he will suffer on my account.'  With a fixed
+> smile of compassion for herself she sat in the armchair, taking off and
+> putting on the rings on her left hand, and vividly imagining his feelings
+> after her death from different points of view (747).
+
+Tolstoy takes pains to show the reader that things could have turned out
+otherwise.  In Chapter 25, Vronsky almost goes back to Anna (twice) to speak
+again.  In Chapter 26, Anna tells the maid to say that she has a headache and
+that Vronsky should not come see her, but Anna actually hopes that he will come
+see her.
+
+Anna works herself up into a terrible rage by imagining things that he could
+have said to her but did not.
+
+> And remembering all the cruel words he had spoken, Anna thought up all those
+> other words which he had clearly wanted to say and could have said to her, and
+> became more and more irritated.
+>
+> 'I won't stop you,' he might say.  'You can go wherever you like.  You
+> probably did not want to be divorced from your husband, so you could go back
+> to him.  Go back to him.  If you need money, I'll give it to you.  How many
+> roubles do you need?'
+>
+> All the cruellest words a coarse man could say, he said to her in her
+> imagination, and she could not forgive him for them, as if he had actually
+> said them (753).
+
+When Vronsky does not come see Anna that night, Anna again decides to kill
+herself in order to punish him.
+
+> In the evening she heard the sound of his carriage as it came to a halt, his
+> ringing, his footsteps and conversation with the maid; he believed what he was
+> told, did not want to know any more, and went to his room.  So that meant
+> everything was over.
+>
+> And death appeared clearly and vividly in her imagination as the only way to
+> revive the love for her in his heart, punish him, and score a victory in the
+> battle being waged with him by the evil spirit which had lodged in her heart.
+>
+> Nothing mattered now: whether or not they went to Vozdvizhenskoye, whether or
+> not she obtained a divorce from her husband—none of that mattered.  The only
+> thing that mattered was to punish him.
+>
+> When she poured herself out her usual dose of opium and reflected that she
+> only needed to drink the whole bottle in order to die, it seemed to her so
+> easy and straightforward that she again began thinking with relish about how
+> he would suffer, feel remorse, and revere her memory when it was too late.
+> She lay in bed with her eyes open, staring by the light of a single
+> burned-down candle at the stuccoed cornice of the ceiling and at the shadow
+> cast on part of it by the screen, and vividly imagined what he would feel when
+> she was gone, and was only a memory to him.  ‘How could I say those cruel
+> words to her?’ he would say.  ‘How could I leave the room without saying
+> anything to her? But now she is no more.  She has gone from us for ever.  She
+> is there ...’  Suddenly the shadow of the screen quivered, then enveloped the
+> whole cornice and the whole ceiling; other shadows raced forwards to meet it
+> from the other side; for a moment the shadows retreated, then advanced with
+> renewed speed, quivered, merged, and all became dark.  “Death!’ she thought.
+> And she was so horror-stricken that it took her a long time to work out where
+> she was, and for her shaking hands to find the matches and light another
+> candle in place of the one that had burned down and gone out.  ‘No,
+> anything—just as long as I can live!  I love him after all.  And he loves me
+> after all!  This has happened before and it will pass,’ she said, feeling
+> tears of joy at the return to life running down her cheeks.  And she went
+> quickly to find him in his study to escape from her fear (753-754).
+
+Anna goes to visit Dolly, intending to tell Dolly everything and ask her for
+help.  Unfortunately, Kitty is with Dolly, and Anna grows angry and insulted at
+how she perceives they treat her.  After Anna leaves, she thinks about how hard
+it is to know how someone else feels or to tell someone else how you feel.
+
+> How they looked at me, as if I was something terrible, unfathomable, and
+> peculiar.  What can he be talking about so fervently to that other person?'
+> she thought, looking at two pedestrians.  'Is it possible to tell another
+> person what you are feeling?  I wanted to tell Dolly, and it's a good thing
+> I didn't.  How gleeful she would have been about my misfortune!  She would
+> have hidden it; but her main feeling would have been glee that I am being
+> punished for the pleasures she envied me for.  As for Kitty, she would have
+> been even more gleeful.  How I can see straight through her! She knows I was
+> more than usually hospitable to her husband.  And she's jealous and hates me.
+> And she despises me too.  I'm an immoral woman in her eyes.  If I were an
+> immoral woman I could have made her husband fall in love with me ... if I had
+> wanted to.  And I did want to.  That man looks pleased with himself,' she
+> thought about a fat, ruddy-cheeked gentleman driving towards her, who had
+> taken her for an acquaintance and was lifting his shiny hat above his bald,
+> shiny head, and then realized he had made a mistake.  'He thought he knew me.
+> But he knows me as little as anyone in the world knows me.  I don't know
+> myself.  I know my appetites, as the French say.  Now these two want that
+> filthy ice-cream.  They know that for sure,' she thought, looking at two boys
+> who had stopped an ice-cream seller; he had taken the tub down from his head
+> and was wiping his sweaty face with the end of a towel.  We all want delicious
+> sweet things.  If we can't have confectionery, then filthy ice cream.  And
+> Kitty's the same: if not Vronsky, then Levin.  And she envies me.  And hates
+> me.  And we all of us hate each other.  I Kitty, Kitty me.  That's the truth
+> Tyutkin, coiffeur.  Je me fais coiffer par Tyutkin ... I'll tell him that when
+> he comes back,' she thought and smiled.  But at that same moment she
+> remembered she did not have someone to tell funny things to now.  'There's
+> nothing funny or jolly anyway.  Everything is vile.  They're ringing for
+> vespers, and how diligently that merchant is crossing himself—as if he were
+> afraid of dropping something!  What is the point of these churches, this
+> bell-ringing, and these lies?  Just to hide the fact that we all hate each
+> other, like these cabbies who are swearing at each other so violently.
+> Yashvin says, "He wants to strip me of my shirt, and I want to do the same to
+> him." That is the truth!' (762-763)
+
+Anna kills herself in a passage that I find horrible beyond all words.
+
+> And suddenly, remembering the man who had been crushed on the day she had
+> first met Vronsky, she realized what she had to do.  Treading quickly and
+> lightly, she went down the steps which led from the water-tank* down to the
+> rails, and stopped near the train as it passed right in front of her.  She
+> looked at the bottom of the wagons, at the screws and chains and the tall iron
+> wheels of the first wagon as it rolled slowly along, and tried to gauge with
+> her eye the midpoint between the front and back wheels and the moment when it
+> would be opposite her.
+>
+> 'There!' she said to herself, looking down into the wagon's shadow at the
+> mixture of sand and coal sprinkled on the sleepers; 'there, right at the
+> midpoint, and I'll punish him and be rid of everybody and myself.'
+>
+> She wanted to fall under the midpoint of the first wagon as it drew level with
+> her.  But she was held up by the little red bag which she started to remove
+> from her arm, and then it was too late: she had missed the midpoint.  She had
+> to wait for the next wagon.  She was overcome by a feeling akin to the one she
+> used to experience when she went bathing and was about to enter the water, and
+> she crossed herself.  Making the familiar sign of the cross summoned up in her
+> soul a whole host of childhood and youthful memories, and suddenly the
+> darkness shrouding everything for her was rent, and for a moment life and all
+> its radiant past joys appeared before her.  But she did not take her eyes off
+> the wheels of the approaching second goods-wagon.  And just at the moment when
+> the midpoint between the wheels came level with her, she threw away the little
+> red bag and, drawing her head into her shoulders, fell under the wagon on to
+> her hands and, with a light movement, as if preparing to stand up again
+> straight away, dropped to her knees.  And at that same instant she was
+> horrified by what she was doing.  'Where am I?  What am I doing?  Why?'  She
+> wanted to get to her feet, hurl herself out of the way; but something huge and
+> inexorable hit her on the head and pulled her along by her back.  'Lord,
+> forgive me for everything!' she murmured, feeling the impossibility of
+> struggling.  The little peasant was working over the iron, muttering
+> something.  And the candle by which she had been reading that book full of
+> anxiety, deceptions, grief, and evil flared up more brightly than at any other
+> time, illuminated for her everything that had previously been in darkness,
+> spluttered, grew dim, and went out for ever (770-771).

@@ -300,7 +300,7 @@ Anna.)
 > by God.  This union can only be severed by a crime, and a crime of this nature
 > carries a heavy punishment' (149).
 
-In Chapter 11 of Part 2, Anna and Vronsky consummate their relationship.
+In Chapter 11 of Part Two, Anna and Vronsky consummate their relationship.
 Tolstoy's take on this is shocking and remarkable.
 
 > That which had been the single supreme desire of Vronsky's life for almost
@@ -1727,3 +1727,151 @@ Anna kills herself in a passage that I find horrible beyond all words.
 > anxiety, deceptions, grief, and evil flared up more brightly than at any other
 > time, illuminated for her everything that had previously been in darkness,
 > spluttered, grew dim, and went out for ever (770-771).
+
+## Part Eight
+
+Vronsky's mother judges Anna harshly, but I wonder how much her view reflects
+that of Tolstoy (or the narrator) himself.
+
+> 'Yes, <Anna> met her end in the way a woman like that had to meet her end.
+> Even the death she chose was ignoble and sordid.'
+>
+> 'It's not for us to judge, Countess,' said Sergey Ivanovich with a sigh; 'but
+> I can understand how hard it was for you.'
+> ...
+> 'Oh, it's impossible to talk about!' said the Countess with a wave of her
+> hand.  'A terrible time!  No, whatever you may say, she was a bad woman.
+> Well, what were those desperate passions all about?  It was all about trying
+> to prove something particular.  Well, she certainly proved it.  She destroyed
+> herself and two fine people—her husband and my unfortunate son.  ...  For him,
+> her husband that is, it has been easier after all.  She released him.  But my
+> poor son had devoted himself to her utterly.  He gave up everything—his
+> career, me, and even then she did not spare him, but set out to destroy him
+> completely.  No, whatever you may say, even her death was that of a vile woman
+> without religion.  God forgive me, but I can't help hating her memory when
+> I look at my son's ruin' (782-783).
+
+Tolstoy uses Levin to display the vanity and powerlessness of philosophy against
+primitive, animal human needs and fears.
+
+> From the moment when the sight of his beloved dying brother had caused Levin
+> to look for the first time at the issues of life and death through the prism
+> of those new convictions, as he called them, which between the ages of twenty
+> and thirty-four had imperceptibly replaced the beliefs he had held in his
+> childhood and youth, he had been horrified not so much by death as by life,
+> lacking the slightest knowledge about where it came from, what it was for, why
+> it existed, and what it was.  The human organism, its destruction, the
+> ineradicability of matter, the law of the conservation of energy, and
+> evolution were the terms which had replaced his former beliefs.  These words
+> and the concepts associated with them were very good for intellectual
+> purposes, but as a guide to life they offered nothing, and Levin suddenly felt
+> like a man who has exchanged his warm fur coat for a muslin garment, and who,
+> the first time he is out in the frost, unequivocally establishes with his
+> whole being rather than with his intellect that he is as good as naked and
+> must inexorably suffer an agonizing death.
+>
+> From that moment, although he was not aware of it and went on living as
+> before, Levin did not cease to experience this fear on account of his
+> ignorance.
+>
+> He had a vague sense, moreover, that what he called his convictions
+> constituted not just ignorance, but the kind of cast of mind which made
+> knowledge of what he needed to know impossible
+>
+> Marriage and the new joys and duties it brought had completely suppressed
+> these thoughts to begin with; but lately, while he had been living in Moscow
+> with nothing to do after his wife's confinement, a question requiring an
+> answer had started presenting itself to him with ever greater frequency and
+> urgency.
+>
+> The question for him consisted of the following: 'If I do not accept the
+> answers Christianity gives to the problems of my life, then what answers do
+> I accept?'  And not only was he unable to find any answers amongst the whole
+> arsenal of his convictions, but he could not find anything even approaching an
+> answer.
+>
+> He was in the position of someone looking for food in shops selling toys and
+> guns 
+>
+> He now involuntarily and unconsciously sought a connection and a solution to
+> these questions in every book, every conversation, every person.
+>
+> What most astonished and disconcerted him in this regard was that the majority
+> of people in his circle and age-group who had replaced their previous beliefs
+> as he had, and acquired the same new convictions as he had, saw nothing
+> untoward about this, and were completely contented and calm.  So that, apart
+> from the main question, Levin was tormented by still other questions.  Were
+> these people sincere?  Were they not putting on an act?  Or did they
+> understand in a different or clearer way the answers which science gives to
+> the questions that preoccupied him?  And he diligently studied both these
+> people's opinions and the books that articulated these answers.
+>
+> One thing he had discovered since these questions first started to absorb him
+> was that he was mistaken in presuming on the basis of memories of his youthful
+> university circle that religion had become obsolete and no longer existed.
+> All the people close to him who led good lives believed.  The old Prince, and
+> Lvov, of whom he had grown so fond, and Sergey Ivanovich, and all the women
+> believed, and his wife believed in the way that he had believed in early
+> childhood, and ninety-nine out of a hundred Russian peasants—all the people
+> whose lives inspired him with the most respect—also believed.
+>
+> Another thing was that he came to the conclusion, after reading a great many
+> books, that people who shared identical views with him did not give them
+> a second thought, and that they simply dismissed without explanation those
+> questions he felt he could not live without answering, and tried instead to
+> solve completely different problems which could not be of any interest to him,
+> such as the evolution of organisms, the materialistic explanation of the soul,
+> and so on.
+>
+> During his wife's confinement, moreover, something extraordinary had happened
+> to him. He, a person who did not believe, had started to pray, and in the
+> moment when he was praying he had believed. But that moment had passed, and he
+> was unable to allocate any place in his life to the state of mind he had been
+> in then.
+>
+> He could not admit that he had known the truth then and was mistaken now,
+> because as soon as he began to think calmly about it, everything shattered
+> into little pieces; nor could he admit that he was mistaken then, because he
+> cherished that spiritual state of mind, and admitting it to be the result of
+> weakness would have resulted in him desecrating those moments. He was in
+> painful disharmony with himself and mustering all his emotional energy in
+> order to find a way out of it (789-791).
+
+And again in the next chapter:
+
+> These thoughts taxed and tormented him with varying degrees of intensity, but
+> they never left him.  He went on reading and thinking, and the more he read
+> and thought, the further he felt from the goal he was pursuing.
+>
+> All that spring he was not himself, and he experienced some terrible moments.
+>
+> ‘It is impossible to live without knowing what I am and why I am here.  But
+> I can’t know that, so therefore it is impossible to live,’ Levin said to
+> himself.
+>
+> ‘An organism like a bubble will emerge out of infinite time, infinite matter,
+> and infinite space, and that bubble will last for a while and burst, and that
+> bubble is me.’
+>
+> This was an agonizing untruth, but it was the sole, ultimate conclusion of the
+> work of centuries of human thought in this direction.
+>
+> This was the ultimate belief upon which had been built all investigations in
+> almost every branch of human thought.  This was the reigning dogma, and
+> without knowing when or how, this was the explanation Levin involuntarily
+> adopted out of all the other explanations, as the one that was nevertheless
+> the most lucid.
+>
+> But it was not only an untruth; it was also cruel mockery on the part of some
+> kind of evil power—evil and reprehensible, and of a kind to which one could
+> not surrender.
+>
+> It was necessary to free himself of this power.  And deliverance was in the
+> hands of every person.  It was necessary to put an end to this dependence on
+> evil.  And there was one means—death.
+>
+> And Levin, the happy family man in good health, was on several occasions so
+> close to suicide that he hid a rope so he could not hang himself with it, and
+> was afraid to go out with a gun lest he shoot himself.
+>
+> But Levin did not shoot or hang himself, and he went on living (791-793).

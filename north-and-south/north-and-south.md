@@ -145,3 +145,142 @@ a person's mind or beliefs.
 > sick fools may spit it out i' their faces.  Now Hamper first gi'es me a box on
 > my ear, and then he throws his big bolus at me, and says he reckons it'll do
 > me no good, I'm such a fool, but there it is' (230).
+
+When Mr. Hale visits Mr. Bell in Oxford, Margaret is alone for the first time in
+a very long time—perhaps ever.  This scene implicitly teaches the costs of
+emotional labor.
+
+> When her father had driven off on his way to the railroad, Margaret felt how
+> great and long had been the pressure on her time and her spirits.  It was
+> astonishing, almost stunning, to feel herself so much at liberty; no one
+> depending on her for cheering care, if not for positive happiness; no invalid
+> to plan and think for; she might be idle, and silent and forgetful,—and what
+> seemed worth more than all the other privileges—she might be unhappy if she
+> liked.  For months past, all her own personal cares and troubles had had to be
+> stuffed away into a dark cupboard; but now she had leisure to take them out,
+> and mourn over them, and study their nature, and seek the true method of
+> subduing them into the elements of peace.  All these weeks she had been
+> conscious of their existence in a dull kind of way, though they were hidden
+> out of sight.  Now, once for all she would consider them and appoint to each
+> of them its right work in her life.  So she sat almost motionless for hours in
+> the drawing-room, going over the bitterness of every remembrance with an
+> unwincing resolution.  Only once she cried aloud, at the stinging thought of
+> the faithlessness which gave birth to that abasing falsehood (344-345).
+
+Again a short while later, Gaskell repeats the idea even more pointedly.
+
+> It was past the usual tea-time when she reached home; but she had the comfort
+> of feeling that no one had been kept waiting for her; and of thinking her own
+> thoughts while she rested, instead of anxiously watching another person to
+> learn whether to be grave or gay.  After tea she resolved to examine a large
+> packet of letters, and pick out those that were to be destroyed (347).
+
+When Mr. Bell and Margaret visit Helstone, everything is changed and Gaskell
+uses this as an object for meditative philosophy.
+
+> And, somehow, this visit to Helstone had not been all—had not been exactly
+> what she had expected.  There was change everywhere; slight, yet pervading
+> all.  Households were changed by absence, or death, or marriage, or the
+> natural mutations brought by days and months and years, which carry us on
+> imperceptibly from childhood to youth, and thence through manhood to age,
+> whence we drop like fruit, fully ripe, into the quiet mother earth.  Places
+> were changed—a tree gone here, a bough there, bringing in a long ray of light
+> where no light was before—a road was trimmed and narrowed, and the green
+> straggling pathway by its side enclosed and cultivated.  A great improvement
+> it was called; but Margaret sighed over the old picturesqueness, the old
+> gloom, and the grassy way-side of former days.  She sate by the window on the
+> little settle, sadly gazing out upon the gathering shades of night, which
+> harmonized well with her pensive thought.  Mr. Bell slept soundly, after his
+> unusual exercise through the day.  At last he was roused by the entrance of
+> the tea-tray, brought in by a flushed-looking country-girl, who had evidently
+> been finding some variety from her usual occupation of waiter, in assisting
+> this day in the hay-field (394).
+
+A little later, the philosophy continues as Margaret cannot sleep.
+
+> She kept choking and swallowing all the time that she thought about it.  She
+> tried to comfort herself with the idea, that what he imagined her to be, did
+> not alter the fact of what she was.  But it was a truism, a phantom, and broke
+> down under the weight of her regret.  She had twenty questions on the tip of
+> her tongue to ask Mr. Bell, but not one of them did she utter.  Mr. Bell
+> thought that she was tired, and sent her early to her room, where she sate
+> long hours by the open window, gazing out on the purple dome above, where the
+> stars arose, and twinkled and disappeared behind the great umbrageous trees
+> before she went to bed.  All night long too, there burnt a little light on
+> earth; a candle in her old bedroom, which was the nursery with the present
+> inhabitants of the parsonage, until the new one was built.  A sense of change,
+> of individual nothingness, of perplexity and disappointment, overpowered
+> Margaret.  Nothing had been the same; and this slight, all-pervading
+> instability, had given her greater pain than if all had been too entirely
+> changed for her to recognise it.
+>
+> "I begin to understand now what heaven must be—and, oh! the grandeur and
+> repose of the words—'The same yesterday, to-day, and for ever.'  Everlasting!
+> 'From everlasting to everlasting, Thou art God.'  That beautiful sky above me
+> looks as though it could not change, and yet it will.  I am so tired—so tired
+> of being whirled on through all these phases of my life, in which nothing
+> abides by me, no creature, no place; it is like the circle in which the
+> victims of earthly passion eddy continually.  I am in the mood in which women
+> of another religion take the veil.  I seek heavenly steadfastness in earthly
+> monotony.  If I were a Roman Catholic and could deaden my heart, stun it with
+> some great blow, I might become a nun.  But I should pine after my kind; no,
+> not my kind, for love for my species could never fill my heart to the utter
+> exclusion of love for individuals.  Perhaps it ought to be so, perhaps not;
+> I cannot decide to-night."
+>
+> Wearily she went to bed, wearily she arose in four or five hours' time. But
+> with the morning came hope, and a brighter view of things.
+>
+> "After all it is right," said she, hearing the voices of children at play
+> while she was dressing.  "If the world stood still, it would retrograde and
+> become corrupt, if that is not Irish.  Looking out of myself and my own
+> painful sense of change, the progress of all around me is right and necessary.
+> I must not think so much of how circumstances affect me myself, but how they
+> affect others, if I wish to have a right judgment, or a hopeful trustful
+> heart."  And with a smile ready in her eyes to quiver down to her lips, she
+> went into the parlour and greeted Mr. Bell (399-400).
+
+Before Margaret and Mr. Bell leave, Margaret goes back to her house to grab
+a flower.  This too prompts philosophical meditations.
+
+> Before they left, Margaret stole round to the back of the Vicarage garden, and
+> gathered a little straggling piece of honeysuckle.  She would not take
+> a flower the day before, for fear of being observed, and her motives and
+> feelings commented upon.  But as she returned across the common, the place was
+> reinvested with the old enchanting atmosphere.  The common sounds of life were
+> more musical there than anywhere else in the whole world, the light more
+> golden, the life more tranquil and full of dreamy delight.  As Margaret
+> remembered her feelings yesterday, she said to herself:
+>
+> "And I too change perpetually—now this, now that—now disappointment and
+> peevish because all is not exactly as I had pictured it, and now suddenly
+> discovering that the reality is far more beautiful than I had imagined it.
+> Oh, Helstone!  I shall never love any place like you."
+>
+> A few days afterwards, she had found her level, and decided that she was very
+> glad to have been there, and that she had seen it again, and that to her it
+> would always be the prettiest spot in the world, but that it was so full of
+> associations with former days, and especially with her father and mother, that
+> if it were all to come over again, she should shrink back from such another
+> visit as that which she had paid with Mr. Bell (400-401).
+
+When the family visits the seaside, Margaret spends days and days thinking about
+her life to come.  She reaches a profound realization.
+
+> When they returned to town, Margaret fulfilled one of her sea-side resolves,
+> and took her life into her own hands.  Before they went to Cromer, she had
+> been as docile to her aunt’s laws as if she were still the scared little
+> stranger who cried herself to sleep that first night in the Harley Street
+> nursery.  But she had learnt, in those solemn hours of thought, that she
+> herself must one day answer for her own life, and what she had done with it;
+> and she tried to settle that most difficult problem for woman, how much was to
+> be utterly merged in obedience to authority, and how much might be set apart
+> for freedom in working.  Mrs. Shaw was as good-tempered as could be; and Edith
+> had inherited this charming domestic quality; Margaret herself had probably
+> the worst temper of the three, for her quick perceptions and over-lively
+> imagination made her hasty, and her early isolation from sympathy had made her
+> proud: but she had an indescribable childlike sweetness of heart, which made
+> her manners, even in her rarely wilful moods, irresistible of old; and now,
+> chastened even by what the world called her good fortune, she charmed her
+> reluctant aunt into acquiescence with her will.  So Margaret gained the
+> acknowledgment of her right to follow her own ideas of duty (416).

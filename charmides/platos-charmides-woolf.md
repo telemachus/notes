@@ -110,6 +110,10 @@ critical use of vertical structure.
 
 ## Chapter 2: The Stance of Enquiry: Five Examples
 
+Chapter 2 has two goals: first, to explain what Woolf means by "the stance of
+enquiry"; second, to demonstrate the advantages of distinguishing the
+horizontal and vertical structures of *Charmides*.
+
 > *Charmides* thus ostensibly presents a particular narrative structure,
 > namely that of the character Socrates.  We are given a series of events and
 > conversations as experienced and described by him.  By constructing the work

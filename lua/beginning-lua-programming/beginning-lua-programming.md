@@ -156,3 +156,183 @@ a, a = 1, 2
 There is no guarantee about the order of operations if you call a function
 multiple times in an expression.  In Lua 5.1, these calls happen left to
 right, but that may change, and you should not rely on it.
+
+## Chapter 4: Working with Tables
+
+Tables are Lua's only built-in data structure.  (You can use C to create
+additional data structures for a particular application.)  Tables can be used
+as arrays or dictionaries or both at the same time.  As a result, you can
+create and fill tables in several ways.
+
+### Tables as dictionaries
+
+If you use a table as a dictionary, you can create it in the following way:
+
+```lua
+name_to_instrument = {
+        ["John"] = "rhythm guitar",
+        ["Paul"] = "bass guitar",
+        ["George"] = "lead guitar",
+        ["Ringo"] = "drums",
+    }
+```
+
+You can access the values by indexing the dictionary. E.g.,
+`name_to_instrument["John"]`.
+
+This is the long way to create a dictionary-style table, and it will always
+work. You place the keys inside square brackets and quote them, and you quote
+the keys.  If the keys are valid identifiers, however, you can drop the square
+brackets and the quotes.
+
+```lua
+name_to_instrument = {
+        John = "rhythm guitar",
+        Paul = "bass guitar",
+        George = "lead guitar",
+        Ringo = "drums",
+}
+```
+
+In addition, if a key is a valid identifier, then you can get at the value
+using a period instead of square brackets and quotes. E.g.,
+`name_to_instrument.George`.
+
+### Tables as arrays
+
+You can also use a table as an array.  In this case, the keys are successive
+integers.  By convention, Lua tables number their contents from 1 not 0.  You
+don't have to follow this convention, but you should.  If you don't, you will
+have inconsistencies or problems when you use the standard library or other
+Lua modules.
+
+You can create array-like tables in more than one way in Lua.
+
+```lua
+-- the long way.
+foods = {
+        [1] = "pizza",
+        [2] = "mapo tofu",
+        [3] = "momos",
+}
+-- the short way.
+foods = { "pizza", "mapo tofu", "momos" }
+```
+
+If you use the shorter style, Lua will automatically index the items in the
+list starting from 1.
+
+### Mixed tables
+
+Although I hate this, you can create tables that are simultaneously
+dictionaries and arrays.  (More precisely, all tables are always dictionaries.
+But some tables have portions that are indexed by integer keys as well as
+portions that are indexed by non-integer keys.)
+
+```lua
+t = {
+        a = "x",
+        "one",
+        b = "y",
+        "two",
+        c = "z",
+        "three",
+}
+```
+
+In this table, `t.a`, `t.b`, and `t.b` are non-integer keys, while `t[1]`,
+`t[2]`, and `t[3]` are integer keys.  This is very hard to read or keep track
+of, and I will avoid it whenever possible.
+
+### Table creation and function calls
+
+If you use a function call to populate a table, the return values may be
+adjusted.  If the function call provides the value for an explicit key
+(integer or otherwise), then it is adjusted to one value.  If the function
+call provides the value of an implicit integer key, it will be adjusted to one
+value unless it is the last thing in the table constructor.  In the case of an
+implicit integer key that is last in the table constructor, all values are
+returned and assigned in order.
+
+This is confusing overall, but it provides one advantage: you can fill an
+entire array-like table with a single function call.  Since it is the only
+(and therefore last) item, all values will be returned and be assigned as
+items in the array.
+
+```lua
+local f = function return 1, 2, 3, 4 end
+local t = { f() }
+-- t = { 1, 2, 3, 4 }
+```
+
+### Array length
+
+You can use `#` to find the length of an array-like table.  However, this is
+subject to some constraints and gotchas.  If the table has any gaps in its
+sequence, the `#` operator is unpredictable.  Be sure not to build tables with
+gaps unless you must and you know what you are doing.
+
+### Looping over tables
+
+You should use `ipairs` or `pairs` to loop over tables.  `ipairs` goes through
+an array-like table in order from 1 to `#table`.  `ipairs` assigns two items
+each time through the loop, an index and a value.  If you don't need the index
+or value, you can assign them to `_`, which is the conventional dummy value in
+Lua.  (This dummy value is not enforced in any way by Lua.  Lua is not Go.)
+`pairs` loops over tables in a dictionary-like fashion.  The order is
+arbitrary, and the keys can be anything.  However, `pairs` guarantees that
+each key is visited exactly once.  During a `pairs` loop, you can remove a key
+(set it to `nil`) and you can change the value of a key (by indexing it, not
+by simple assignment).  However, you cannot add a new key to a table while
+looping with `pairs`.
+
+You can use the variables in a loop as upvalues in closures.  For example,
+consider the following.
+
+```lua
+numbers = { "one", "two", "three" }
+prepend_number = {}
+for num, num_name in ipairs(numbers) do
+    prepend_number[num] = function(s)
+        return num_name .. ": " .. s
+    end
+end
+prepend_number[2]("is company")
+prepend_number[3]("is a crowd")
+```
+
+### Tables of functions
+
+You can use tables to store functions, and this is how Lua organizes its
+standard library.  For example, many functions concerning tables are stored in
+a `table` table.
+
++ `table.sort` sorts a table in place.  By default, the function uses `<` to
+  decide the order.  You can override the default sort if you provide
+  a sorting function as a second argument.  The sorting function should take
+  two arguments and return a true value if the first argument should go before
+  the second.  This function only works for array-like tables or the
+  array-like portion of mixed tables.
++ `table.insert` adds an item into an array-like table or the array portion
+  of a mixed table.  You can also do `t[#t + 1] = x` instead of
+  `table.insert(t, x)`  This function takes an optional third argument that
+  determines where in the table to insert the item.  After insertion anywhere
+  but the end, all other items are moved and given a new index.
++ `table.remove` removes an item from an array-like table or the array portion
+  of a mixed table.  This function returns the item that was removed.  By
+  default, this function removes the last item from the table.  But you can
+  give an optional second argument that specifies what index of the table to
+  remove.  After removal, the indexes of the table are adjusted so that there
+  are no gaps.
++ `table.concat` takes an array of strings or numbers and concatenates them
+  into a string joined by the second argument. E.g., `table.concat(t, ", ")`.
+  You can pass optional third and fourth arguments: these determine the start
+  and stop element in the table to concatenate.  If the second argument is
+  nil, it defaults to the empty string.  If the third argument is nil, it
+  defaults to 1.  If the fourth argument is nil, it defaults to the length of
+  the table.  (If the third argument is greater than the fourth, then the
+  return value will be an empty string.)
++ `table.maxn` returns the highest positive number used as a key for a table.
+  This may seem to help the problem of gappy tables, but it has potential
+  problems.  First, it can be slow.  Second, it will look at fractional keys
+  as well as integer keys.  (Who is giving fractional keys to their tables?)

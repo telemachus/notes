@@ -146,6 +146,7 @@ a person's mind or beliefs.
 > my ear, and then he throws his big bolus at me, and says he reckons it'll do
 > me no good, I'm such a fool, but there it is' (230).
 
+<<<<<<< Updated upstream
 When Mr. Hale visits Mr. Bell in Oxford, Margaret is alone for the first time in
 a very long time—perhaps ever.  This scene implicitly teaches the costs of
 emotional labor.
@@ -284,3 +285,109 @@ her life to come.  She reaches a profound realization.
 > chastened even by what the world called her good fortune, she charmed her
 > reluctant aunt into acquiescence with her will.  So Margaret gained the
 > acknowledgment of her right to follow her own ideas of duty (416).
+
+After Mrs. Hale has died, Mr. Hale and Mr. Thornton have a remarkable
+conversation.
+
+> It was curious how the presence of Mr. Thornton had power over Mr. Hale to
+> make him unlock the secret thoughts which he kept shut up even from Margaret.
+> Whether it was that her sympathy would be so keen, and show itself in so
+> lively a manner, that he was afraid of the reaction upon himself, or whether
+> it was that to his speculative mind all kinds of doubts presented themselves
+> at such a time, pleading and crying aloud to be resolved into certainties, and
+> that he knew she would have shrunk from the expression of any such
+> doubts--nay, from him himself as capable of conceiving them--whatever was the
+> reason, he could unburden himself better to Mr. Thornton than to her of all
+> the thoughts and fancies and fears that had been frost-bound in his brain till
+> now.  Mr. Thornton said very little; but every sentence he uttered added to
+> Mr. Hale's reliance and regard for him.  Was it that he paused in the
+> expression of some remembered agony, Mr. Thornton's two or three words would
+> complete the sentence, and show how deeply its meaning was entered into.  Was
+> it a doubt--a fear--a wandering uncertainty seeking rest, but finding none--so
+> tear-blinded were its eyes--Mr. Thornton, instead of being shocked, seemed to
+> have passed through that very stage of thought himself, and could suggest
+> where the exact ray of light was to be found, which should make the dark
+> places plain.  Man of action as he was, busy in the world’s great battle,
+> there was a deeper religion binding him to God in his heart, in spite of his
+> strong wilfulness, through all his mistakes, than Mr. Hale had ever dreamed.
+> They never spoke of such things again, as it happened; but this one
+> conversation made them peculiar people to each other; knit them together, in
+> a way which no loose indiscriminate talking about sacred things can ever
+> accomplish.  When all are admitted, how can there be a Holy of Holies (276)?
+
+Higgins explains to Mr. Hale and to Margaret that his former boss refuses to
+hire people who give money to the union.  He considers that tyranny and refuses
+to ask for work.  Margaret reminds him that the union too has tyrannical
+methods.  This is his reply.
+
+> "I'll not deny but what th' Union finds it necessary to force a man into his
+> own good.  I'll speak truth.  A man leads a dree life who's not i' th' Union.
+> But once i' th' Union, his interests are taken care on better nor he could do
+> it for himsel', or by himsel', for that matter.  It's the only way working men
+> can get their rights, by all joining together.  More the members, more chance
+> for each one separate man having justice done him.  Government takes care o'
+> fools and madmen; and if any man is inclined to do himsel' or his neighbour
+> a hurt, it puts a bit of a check on him, whether he likes it or no.  That's
+> all we do i' th' Union.  We can't clap folk into prison; but we can make
+> a man's life so heavy to be borne, that he's obliged to come in, and be wise
+> and helpful in spite of himsel'.  Boucher were a fool all along, and ne'er
+> a worse fool than at th' last" (292-293).
+
+After Boucher's death, Margaret blames the miseries around her on life in the
+city.
+
+> "It is the town life," said she.  "Their nerves are quickened by the haste and
+> bustle and speed of everything around them, to say nothing of the confinement
+> in these pent-up houses, which of itself is enough to induce depression and
+> worry of spirits.  Now in the country, people live so much more out of doors,
+> even children, and even in the winter."
+>
+> "But people must live in towns.  And in the country some get such stagnant
+> habits of mind that they are almost fatalists."
+
+> "Yes; I acknowledge that.  I suppose each mode of life produces its own trials
+> and its own temptations.  The dweller in towns must find it as difficult to be
+> patient, as the country-bred man must find it to be active, and equal to
+> unwonted emergencies.  Both must find it hard to realise a future of any kind;
+> the one because the present is so living and hurrying and close around him;
+> the other because his life tempts him to revel in the mere sense of animal
+> existence, not knowing of, and consequently not caring for any pungency of
+> pleasure, for the attainment of which he can plan, and deny himself and look
+> forward."
+>
+> "And thus both the necessity for engrossment, and the stupid content in the
+> present, produce the same effects.  But this poor Mrs. Boucher!  how little we
+> can do for her."
+>
+> "And yet we dare not leave her without our efforts, although they may seem so
+> useless. Oh papa! it's a hard world to live in!"
+
+After Boucher kills himself, Higgins wants to move with his family and Boucher's
+to the south.  When he proposes this to Mr. Hale and Margaret, Margaret gives us
+a very different view of life in the south.
+
+> "You must not go the South," said Margaret, "for all that.  You could not
+> stand it.  You would have to be out all weathers.  It would kill you with
+> rheumatism.  The mere bodily work at your time of life would break you down.
+> The fare is far different to what you have been accustomed to."
+>
+> "I'se nought particular about my meat," said he, as if offended.
+>
+> "But you've reckoned on having butcher's meat once a day, if you're in work;
+> pay for that out of your ten shillings, and keep those poor children if you
+> can.  I owe it to you—since it's my way of talking that has set you off on
+> this idea—to put it all clear before you.  You would not bear the dulness of
+> the life; you don't know what it is; it would eat you away like rust.  Those
+> that have lived there all their lives, are used to soaking in the stagnant
+> waters.  They labour on from day to day, in the great solitude of steaming
+> fields—never speaking or lifting up their poor, bent, downcast heads.  The
+> hard spadework robs their brain of life; the sameness of their toil deadens
+> their imagination; they don't care to meet to talk over thoughts and
+> speculations, even of the weakest, wildest kind, after their work is done;
+> they go home brutishly tired, poor creatures! caring for nothing but food and
+> rest.  You could not stir them up into any companionship, which you get in
+> a town as plentiful as the air you breathe, whether it be good or bad—and that
+> I don't know; but I do know, that you of all men are not one to bear a life
+> among such labourers.  What would be peace to them, would be eternal fretting
+> to you.  Think no more of it, Nicholas, I beg.  Besides, you could never pay
+> to get mother and children all there—that's one good thing" (306).

@@ -8,11 +8,26 @@ I skipped this chapter.
 
 I skimmed this chapter.
 
+### Valid Identifiers
+
+A valid identifier (or valid name) in Lua can be any sequence of letters,
+digits, and underscores with a few restrictions.
+
++ A valid identifier cannot start with a digit.
++ The following words are reserved in Lua 5.1.  You cannot use them as valid
+  identifiers: `and`, `break`, `do`, `else`, `elseif`, `end`, `false`, `for`,
+  `function`, `if`, `in`, `local`, `nil`, `not`, `or`, `repeat`, `return`,
+  `then`, `true`, `until`, `while`.
++ By convention, you should not use identifiers that start with an underscore
+  and contain only uppercase letters.  E.g., `_VERSION`.  Identifiers like
+  this are used as internal global variables by Lua itself, and so we should
+  avoid them.
+
 ### The Modulo Operator
 
 The authors explain that "the modulo operator, `%`, is good for modeling
 cyclical things like hours in a day, days in a week, or musical pitches in an
-octave." (47)  They give the following example of modeling a clock face.
+octave" (47).  They give the following example of modeling a clock face.
 
 ```lua
 hour = 3
@@ -50,7 +65,7 @@ highest precedence.
 + `and`
 + `or`
 
-Because relational operators have relative low precedence, the following work
+Because relational operators have relatively low precedence, the following work
 without parentheses.
 
 ```lua

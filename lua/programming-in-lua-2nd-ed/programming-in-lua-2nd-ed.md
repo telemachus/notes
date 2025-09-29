@@ -571,7 +571,7 @@ by a host application.
 Here is how function definition looks in Lua.
 
 ```lua
-function sumTable(t)
+function sum_table(t)
     local sum = 0
     for _, n in ipairs(t) do
         sum = sum + n
@@ -582,7 +582,7 @@ end
 
 How does Lua handle parameters?  First, parameters are local to a function by
 default.  (You cant access `t` *by that name* outside of the `sum_table`
-function.)  Also, you can call a function with a different number o arguments
+function.)  Also, you can call a function with a different number of arguments
 than the number of defined parameters.  Lua adjusts the number of arguments to
 the number of parameters, just as it adjusts return values.  Extra arguments
 are thrown away (but evaluated?), and missing parameters are assigned the
@@ -649,7 +649,7 @@ end
 
 The expression `{...}` creates a table with all the arguments passed to the
 call.  You can also use multiple assignment with `...`.  E.g., `local a, b,
-c = ...`.  Here's an example of where varargs come in handy.
+c = ...`.  Here's an example where varargs come in handy.
 
 ```lua
 function fwrite(fmt, ...)
@@ -660,11 +660,11 @@ end
 This allows us to format a string and print it all at once.  Note that you can
 place any number of fixed parameters before varargs.
 
-You can use `select` to help handle cases where varargs contains valid nils.
+You can use `select` to help handle cases where varargs contains valid `nil`s.
 Here's how `select` works.
 
-+ `select(number, ...)` returns all arguments starting with index position
-  number.
++ `select(number, ...)` returns the items in `...` starting from the index of
+  `number`.  There can be `nil`s among the items that `select` returns.
 + `select('#', ...)` returns the total number of arguments received in
   varargs.
 
@@ -675,6 +675,7 @@ print(select(2, 1, 2, 3))           -- 2    3
 print(select(1, 1, 2, 3))           -- 1    2   3
 print(select(3, 1, 2, 3))           -- 3
 print(select('#', 1, 2, nil, 4, 5)  -- 5
+local a = select(10, 1, 2, 3)       -- a = nil
 ```
 
 Lua does not directly support named arguments, but you can easily imitate them
@@ -779,12 +780,12 @@ print(c1())         -- 1
 print(c1())         -- 2
 ```
 
-By the time the anonymous funnction is called, `i` appears to have gone out of
-scope.  However, the anonymous function is a closure.  As Ierusalimschy
-explains, “a closure is a function plus all it needs to access non-local
-variables correctly” (48).  Every time that you call `newCounter`, you get
-a new value of `i`.  The anonymous function then keeps track of the value of
-*its* `i` throughout its lifetime.
+By the time the anonymous function is called, `i` has gone out of scope.
+However, the anonymous function is a closure.  As Ierusalimschy explains, “a
+closure is a function plus all it needs to access non-local variables
+correctly” (48).  Every time that you call `newCounter`, you get a new value
+of `i`.  The anonymous function then keeps track of the value of *its* `i`
+throughout its lifetime.
 
 Because you can store variables easily in Lua, you can redefine functions
 based on their current implementation.  For example, we can use `math.sin` to
@@ -928,7 +929,7 @@ end
 ```
 
 You might worry that this program will cause stack overflow if given very
-larger numbers.  However, in Lua the program is safe with any number because
+large numbers.  However, in Lua the program is safe with any number because
 of tail-call elimination.  (Tail-call elimination occurs when an
 implementation can detect that a function never needs to return to its caller.
 Thus, they can avoid adding a return to the caller to the stack.)
@@ -953,10 +954,10 @@ On the other hand, the following returns fail to produce tail-call
 elimination.  See the comments for why in each case.
 
 ```lua
-g(x) -- The enclosing function has to discard results from the call to g.
-return g(x) + 1 -- The enclosing function has to perform the addition.
-return x or g(x) -- The enclosing function must adjust to one result.
-return (g(x)) -- The enclosing function must adjust to one result.
+g(x)             -- An enclosing function must discard results from g(x) call.
+return g(x) + 1  -- An enclosing function has to perform the addition.
+return x or g(x) -- An enclosing function must adjust to one result.
+return (g(x))    -- An enclosing function must adjust to one result.
 ```
 
 According to Ierusalimschy, a tail call "is a goto dressed as a call" (52).
@@ -1026,11 +1027,12 @@ Lua are generally functions.  The function returns the next element from
 a collection each time that the program calls the function.
 
 Iterators must maintain state between iterations.  Otherwise, they wouldn't
-know where they were or when to end.  Closures can provide the necessary state
-since they can create state in the enclosing environment.  Since the closure
-will need non-local variables, "a closure construction typically involves two
-functions: the closure itself and a *factory*, the function that creates the
-closure" (55).  He gives the following example.
+know where they are in a collection or when to end.  Closures can provide the
+necessary state since they create non-local variables in the enclosing
+environment. Since the closure will need non-local variables, "a closure
+construction typically involves two functions: the closure itself and
+a *factory*, the function that creates the closure" (55).  He gives the
+following example.
 
 ```lua
 function values(t)
@@ -1078,9 +1080,9 @@ function allwords()
     local pos = 1
     return function()
         while line do
-            local s, e = string.fine(line, '%w+', pos)
+            local s, e = string.fine(line, "%w+", pos)
             if s then
-                pos = e+1
+                pos = e + 1
                 return string.sub(line, s, e)
             else
                 line = io.read()
@@ -1093,7 +1095,7 @@ end
 ```
 
 As Ierusalimschy points out, this code may be somewhat complex, but the
-calling code is still as simple as can be.  As Ierusalimschy suggests, this is
+calling code is as simple as can be.  As Ierusalimschy suggests, this is
 not a bad trade-off since you use iterators far more often than you write
 them.
 
@@ -1105,11 +1107,11 @@ end
 
 ### The Semantics of the Generic `for`
 
-Internally, however, the generic `for` is far more complex than it may appear
-initially.  Here's the syntax of the generic `for`.
+Internally, however, the generic `for` is far more complex than it initially
+appears.  Here's the syntax of the generic `for`.
 
 ```lua
-for <variable list> in <expression list> do
+for <variable_list> in <expression_list> do
     -- body
 end
 ```
@@ -1135,20 +1137,21 @@ state and control variable `nil` initially.
 
 After initialization, the iterator function is called with two arguments,
 namely the invariant state and the control variable.  The variables in the
-variable list are then assigned the return values of the iterator function.
-The loop continues until the control variable becomes `nil`.  If the control
-variable is `nil` on the first round, then the code in the body of the `for`
-loop is never run.  Thus, initialization happens once (no matter what),
-the function is called one or more times (no matter what), and the code in the
-body of the `for` loop is called zero or more times.
+variable list of the `for` loop are then assigned the return values of the
+iterator function.  The loop continues until the control variable becomes
+`nil`.  If the control variable is `nil` on the first round, then the code in
+the body of the `for` loop is never run.  Thus, (1) initialization happens
+once (no matter what), (2) the function is called one or more times (no matter
+what), and (3) the code in the body of the `for` loop is called zero or more
+times.
 
 Ierusalimschy describes the for loop in the following terms.
 
 ```lua
--- for var1, ..., varN in <expression list> do <block> end
+-- for var1, ..., varN in <expression_list> do <block> end
 
 do
-    local _f, _s, _var = <expression list>
+    local _f, _s, _var = <expression_list>
     while true do
         local var1, ..., varN = _f(_s, _var)
         _var = var1
@@ -1162,21 +1165,28 @@ end
 
 ### Stateless Iterators
 
+The name "stateless iterator" may mislead you into thinking that some
+iterators can have zero state.  This isn't true.  Every iterator has to
+maintain *some* state.  However, a (so-called) stateless iterator in Lua has
+no *additional* state beyond the invariant state and control variable that
+every generic `for` loop has.
+
 A stateless iterator does not require a closure because it does not maintain
-any state itself.  Instead, stateless iterators use the `for` loop itself to
-maintain state.  A generic `for` loop passes two arguments to each call to the
-iterator function, the invariant state and a control variable.  A stateless
-iterator gets the next element for the iteration from these two values.
+any additional state.  Instead, stateless iterators use required parts of the
+`for` loop to maintain state.  A generic `for` loop passes two arguments to
+each call to the iterator function, the invariant state and a control
+variable.  A stateless iterator gets the next element for the iteration from
+these two values.
 
 As an example, Ierusalimschy shows a version of `ipairs` in Lua.  (The actual
 implementation is in C, but that isn't the point here.)
 
 ```lua
 local function iter(t, n)
-    i = i + 1
-    local v = a[i]
+    n = n + 1
+    local v = t[n]
     if v then
-        return i, v
+        return n, v
     end
 end
 
@@ -1189,8 +1199,8 @@ When a generic `for` loop initializes `ipairs`, it receives three values: the
 internal iteration function, the table, and zero.  At the first call to the
 iteration function—assuming that the table is not empty—the body of the `for`
 loop receives two values, one and the first item in the table.  This continues
-until the table is out of elements.  At that point, the control variable is
-`nil`, and the loop ends.
+until the table is out of elements.  At that point, the control variable
+becomes `nil`, and the loop ends.
 
 The built-in `pairs` function is similar, but it uses a built-in iterator
 function `next`.  The call `next(t, k)` works as follows.  If `k` is `nil`,
@@ -1204,6 +1214,14 @@ for k, v in next, t do
     -- body
 end
 ```
+
+Stateless iterators like this avoid what Ierusalimschy calls "the cost of
+creating new closures" (59).  Every time that I call a stateful iterator that
+uses a closure, I must call *the factory function* first.  This creates new
+non-local variables and uses a specific closure.  You cannot use that same
+closure in more than one loop at a time.  On the other hand, iterators like
+`pairs` and `ipairs` can be used over and over in multiple loops without any
+additional cost beyond calling the one function itself.
 
 Ierusalimschy also shows how to write and use an iterator to go through the
 items in a linked list.
@@ -1223,7 +1241,7 @@ for line in io.lines() do
 end
 
 for node in traverseList(list) do
-    print(node.val
+    print(node.val)
 end
 ```
 
@@ -1246,7 +1264,7 @@ As an example, Ierusalimschy rewrites the `allwords` function.
 local iterator
 
 function allwords()
-    local state = {line = io.read(), pos = 1}
+    local state = { line = io.read(), pos = 1 }
     return iterator, state
 end
 
@@ -1264,7 +1282,7 @@ function iterator(state)
 end
 ```
 
-Here is Ierusalimschy's final advice about how to write iterators.
+Ierusalimschy recommends writing iterators as follows.
 
 1. If possible, write stateless iterators.  Keep all the state in the `for`
    variables (the invariant state and the control variable).
@@ -1339,7 +1357,7 @@ the two styles in Lua 5.1.
    the iterator body.  With a true iterator, `return` returns from the
    anonymous function rather than the function doing the iteration.
 
-Ierusalimschy prefers generators (i.e., the generic `for` loop) overall (62).
+Ierusalimschy concludes, "Overall, I usually prefer generators" (62).
 
 ## Chapter 8: Compilation, Execution, and Errors
 
@@ -1399,16 +1417,25 @@ for i=1, 20 do
     x = i -- global 'x' (to be visible from the chunk)
     print(string.rep("*", f()))
 end
+
+print "enter function to be plotted (with variable 'x'):"
+local l = io.read()
+local f = assert(loadstring("local x = ...; return " .. l))
+for i=1, 20 do
+    print(string.rep("*", f(i)))
+end
 ```
 
-Notice a few things about this code.  First, Ierusalimschy uses `assert` to
-get better error messages if the call to `loadstring` fails.  (Otherwise,
-`loadstring` returns nil, and the error would be simply "attempt to call a nil
-value".  See page 64.)  Second, Ierusalimschy has to add `return ` to the
-string before calling `loadstring`.  Why?  Because "`loadstring` expects
-a chunk, that is, statements. If you want to evaluate an expression, you must
-prefix it with `return`, so that you get a statement that returns the value of
-the given expression" (65).
+Notice a few things about this code.
+
++ First, Ierusalimschy uses `assert` to get better error messages if the call
+  to `loadstring` fails.  (Otherwise, `loadstring` returns nil, and the error
+  would be simply "attempt to call a nil value".  See page 64.)
++ Second, Ierusalimschy has to add `return ` to the string before calling
+  `loadstring`.  Why?  Because "`loadstring` expects a chunk, that is,
+  statements. If you want to evaluate an expression, you must prefix it with
+  `return`, so that you get a statement that returns the value of the given
+  expression" (65).
 
 Even more primitive than `loadfile` or `loadstring` is `load`.  `load`
 receives neither a file nor a string.  Instead, it receives a reader function
@@ -1435,7 +1462,8 @@ end
 ```
 
 When the chunk is loaded, `i` becomes the value of the vararg expression in
-the anonymous function.
+the anonymous function. This is clever, but almost certainly fragile and error
+prone.
 
 You cannot use chunks to (directly) define functions because functions are
 assignments.  As Ierusalimschy says, "They are made at runtime not compile
@@ -1458,11 +1486,39 @@ f()        -- Now foo is defined as a function.
 foo("ok")  -- This prints "ok".
 ```
 
+The `load` functions don't raise errors.  If there is an error while loading,
+these functions return `nil` and an error string. It is up to the caller to
+deal with this situation appropriately.
+
 Finally, Ierusalimschy ends with this note: "In a production-quality program
 that needs to run external code, you should handle any errors when loading
 a chunk.  Moreover, if the code cannot be trusted, you may want to run the new
 chunk in a protected environment, to avoid unpleasant side effects when
 running the code" (66).
+
+### C Code
+
+Ierusalimschy includes a short section here about loading C code.  For the
+most part, Lua only supports features in ANSI C.  However, dynamic linking is
+not a part of ANSI C, and without dynamic linking, Lua is unable to load
+C code.  Thus, in this case, Lua makes an exception.  Lua provides dynamic
+linking for Windows, Mac OSX, Linux, FreeBSD, Solaris, and "some other Unix
+implementations" (67).
+
+In order to load C code, you can use `package.loadlib`.  This requires two
+arguments: (1) a path to the library you want to load and (2) the name of
+a function.  If there is a problem, `loadlib` returns `nil` and an error
+message. Here is an example.
+
+```lua
+local path = "/usr/local/lib/lua/5.1/socket.so"
+local f = package.loadlib(path, "luaopen_socket")
+```
+
+
+Usually, however, we will use `require`, which is much higher level and more
+friendly than `loadlib`.  The book will discuss `require` and C libraries in
+more detail later (in Chapters 15 and 26).
 
 ### Errors
 
@@ -1473,7 +1529,7 @@ Programs can also explicitly raise an error using `error`.  The function
 `error` takes a string that it uses as an error message.
 
 ```lua
-print n "enter a number:"
+print "enter a number:"
 n = io.read("*number")
 if not n then error("invalid input") end
 ```
@@ -1485,7 +1541,7 @@ function call is false (if it returns `false` or `nil`), then an error is
 raised with the string as its message.
 
 ```lua
-print n "enter a number:"
+print "enter a number:"
 n = assert(io.read("*number"), "invalid input")
 ```
 
@@ -1506,17 +1562,32 @@ When you call `assert`, the concatenation happens, even if `n` *is* a number.
 In those cases, Ierusalimschy suggests that it "may be wiser to use an
 explicit" test (68).
 
-When a function runs into something unexpected, Ierusalimschy says that it can
-do one of two things.  The function can return an error code (often `nil` in
-Lua), or the function can raise an error.  He offers the following "general
-guideline" for choosing what to do (68).  If the exception is "easily
-avoided," the function should raise an error.  If not, the function should
-return an error code.
+```lua
+print "enter a number:"
+n = io.read("*number")
+if not n then
+    error("invalid input: " .. n .. " is not a number")
+end
+```
+
+When a function runs into something unexpected, the function can return an
+error code (often `nil` in Lua) or the function can raise an error.
+Ierusalimschy offers the following rule of thumb for choosing what to do
+(68).  If the exception is "easily avoided," the function should raise an
+error.  If not, the function should return an error code.
+
+Although I initially found this advice confusing, here's how I understand it
+now.  If *a given program or application* can easily avoid something, then we
+should raise an error in order to force the program or application to change.
+That is, we raise an error in such a case as a signal *to a programmer* (who
+may be ourselves).  On the other hand, if the program or application cannot
+easily fix the problem, then we return an error code and either ask users to
+help us or tell them what the problem is.
 
 As an example of the second situation, Ierusalimschy discusses `io.open`.
 There is no easy way for a program to check if a file can be opened before
 calling `io.open`.  (To check, you essentially have to try to open the file!)
-Therefore, if `io.open` fails, it returns nil and an error message string.
+Therefore, if `io.open` fails, it returns `nil` and an error message string.
 The calling code can then handle the problem in an appropriate way.  For
 example, he shows the following.
 
@@ -1532,15 +1603,15 @@ until file
 ```
 
 Sometimes, you don't want to handle the problem in any special way, but you
-still want to catch the error, you can use `assert`.
+still want to catch the error.  In that case, you should use `assert`.
 
 ```lua
 file = assert(io.open('non-existent-file', 'r'))
 -- stdin: 1 non-existent-file: No such file or directory
 ```
 
-The error message from `io.open` ends up as the second argument (the error
-message) to `assert`, which is clever, but a bit too magical for me.
+Note that the error message from `io.open` ends up as the second argument (the
+error message) to `assert`.  This is clever, but a bit too magical for me.
 
 As an example of the first situation, Ierusalimschy gives the following
 example.
@@ -1554,7 +1625,9 @@ local res = math.sin(x)
 
 We can easily check whether the argument to `math.sin` is a number before we
 run the call.  Thus, `math.sin` raises an error if you pass something other
-than a number.
+than a number.  In this case, Ierusalimschy adds that we often omit the code
+that handles the error altogether.  Let the error bubble up as a way to signal
+to the programmer (or application) that `res` should always be a number.
 
 ### Error Handling and Exceptions
 
@@ -1572,7 +1645,9 @@ In fact, you can return any Lua value, but I can't see a reason to return
 anything other than a string or a table.  The error message return value is
 usually a string.
 
-This leads to the following idiom for Lua code.
+This leads to the following idiom for Lua code.  (Question to myself: is this
+actually an idiom?  Ierusalimschy does not explicitly call this an idiom.  Why
+do I?  Had I seen it a lot in Lua code, or did I assume this?)
 
 ```lua
 if pcall(function()
@@ -1602,7 +1677,7 @@ case, we might use `error(message, 2)` to say that the real problem is an
 extra level up in the calling stack.
 
 If you want more detailed tracebacks, you need to use `xpcall` rather than
-`pcall`.  `xpcall` receives two arguments, a function call call with `pcall`
+`pcall`.  `xpcall` receives two arguments, a function to call with `pcall`
 and an error-handling function to use if `pcall` returns an error.  The
 advantage of `xpcall` is that it preserves more of the stack than `pcall`
 does.  The disadvantage of `xpcall` (in Lua 5.1, at least) is that you cannot
@@ -1628,7 +1703,59 @@ end
 status, err, ret = xpcall(pcallfun, err)
 ```
 
+Note that Lua 5.2 and beyond accept a variable number of arguments *after the
+error-handling function*.  Thus we can write the example above more simply.
+
+```lua
+-- See Stackoverflow: https://stackoverflow.com/a/30125834.
+local function f(a,b)
+  return a + b
+end
+
+local function err(x)
+  print ("err called", x)
+  return "oh no!"
+end
+
+local function pcallfun()
+    return f(1,2)
+end
+
+status, err, ret = xpcall(pcallfun, err)
+```
+
 Ierusalimschy says that two common error handlers are `debug.debug` and
 `debug.traceback`.  The first drops you into a Lua prompt to debug, and the
 second creates an extended error message.  (He will discuss the debugging
 library more in a later chapter.)
+
+## Chapter 9: Coroutines
+
+Coroutines have a lot in common with threads, but also some important
+differences from threads.  A coroutine has its own stack, local variables, and
+instruction pointer, but it shares global variables with all other coroutines.
+So far, this is quite similar to threads.  Threads, however, conceptually or
+literally run concurrently.  Coroutines, on the other hand, run one at a time;
+they collaborate with other coroutines and hand execution back and forth.
+
+### Coroutine Basics
+
+Lua stores all coroutine-related functions in the `coroutine` table.  You
+create a new coroutine with `coroutine.create`.  This function takes a single
+argument: a function with the code that the coroutine will execute.  `create`
+returns a value of type `thread`; this value represents a new coroutine.  You
+can pass a named or an anonymous function to `coroutine.create`.
+
+Coroutines have one of four states: suspended, running, dead, and normal.
+A newly made coroutine is in suspended state.  (That way, the coroutine does
+not immediately run; we have more control over its execution.)  You can check
+the state of a coroutine with `coroutine.status`, which returns a string
+report of the state.  `coroutine.resume` starts or resumes the execution of
+a coroutine.  This changes the state from suspended to running.  After the
+coroutine runs, it enters the dead state.  When a coroutine is dead, `resume`
+does **not** restart it.  If you call `resume` on a dead coroutine, the return
+values are `false` and an error message.  (The return value when you call
+`resume` on a suspended coroutine are `true` and no message.)  Calls to
+`resume` are always protected; if there is an error inside a running
+coroutine, Lua returns it to the `resume` call rather than immediately showing
+the error.

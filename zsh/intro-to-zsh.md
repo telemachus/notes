@@ -223,23 +223,84 @@ score_var="${user}_score"
 actual_score=${(P)score_var}    # Gets value of alice_score, namely 95.
 ```
 
-**NOTA BENE**: Continue from here.
-
 ## Functions
 
-| Description                                                       | Syntax                         |
-| -----------                                                       | ------                         |
-| Declare a local variable (not accessible outside the function)    | `local name=...`               |
-| Get the original executable name                                  | `$0`                           |
-| Get a parameter                                                   | `$1` (second is `$2`, etc.)    |
-| Expand all parameters                                             | `$*`                           |
-| Expand all parameters but keep them quoted if needed              | `$@` (tip: it's an array!)     |
-| Get the number of parameters (so not counting `$0`)               | `$#`                           |
-| Remove the first parameter from `$@`                              | `shift`                        |
-| Remove the last parameter from `$@`                               | `shift -p`                     |
-| Exit the function with a status code (behaves like for a command) | `return 1` (or any other code) |
-| Get the list of all functions, as an array                        | `${(k)functions[@]}`           |
-| Delete a function                                                 | `unset -f func_name`           |
+### Defining Functions
+
+Zshell accepts three ways to define functions.
+
+```zsh
+# Type 1: POSIX-compatible syntax
+foo() {
+    # ...
+}
+
+# Type 2: ZSH-specific syntax
+function foo {
+    # ...
+}
+
+# Type 3: ZSH-specific blend of types 1 and 2
+function foo() {
+    # ...
+}
+```
+
+There is no difference in meaning or use for these three styles—provided that
+you are in Zshell. However, only the first style is accepted by POSIX shells.
+
+Recommendation: pick one of the first two types and use it consistently. They
+are both fine, but consistency always helps. The third type requires more typing
+than the second for no benefit. So, let's ignore it.
+
+You can delete a function with `unset`. E.g., `unset -f foo`. Zshell keeps track
+of all currently defined functions in the `$functions` associative array.
+
+### Working with Parameters
+
+| Action                                            | Syntax                            |
+| ------                                            | ------                            |
+| Get a parameter                                   | `$1` (second is `$2`, etc.)       |
+| Get the name of the function itself               | `$0`                              |
+| Expand all parameters as one word (joined by IFS) | `$*`                              |
+| Expand all parameters as separate words           | `$@`                              |
+| Get the number of parameters (not counting `$0`)  | `$#`                              |
+| Remove the first parameter from `$@`              | `shift`                           |
+| Remove the last parameter from `$@`               | `shift -p` or `set -- ${@[1,-2]}` |
+
+### Local Variables and Scope
+
+Within functions, you can define variables as local with the `local` builtin.
+Local variables are undefined outside of the function (or block) where they are
+defined. This is the variable's scope. If a local variable has the same name as
+a variable in a wider scope, the local shadows the outer variable within the
+function (or block).
+
+Local variables are not exported to the child
+processes by default. If you need a local variable in a child process, you can
+use `local -x` or `local` and then `export`.
+
+```zsh
+local -x foo=bar
+local fizz=buzz
+export fizz
+```
+
+### Autoloading Functions
+
+The `autoload` builtin registers a function for lazy loading. The name of the
+function is defined immediately, but the definition is empty until the function
+is first called.
+
+There are two important flags for `autoload`.
+
++ `-U` — Ignore aliases when loading the function.
++ `-z` — Use zsh-style syntax (rather than ksh).
+
+The command `autoload -Uz funcname` looks for a function definition in a file
+named "funcname" in the shell's `$fpath`. The file should contain the body of
+the function without the surrounding `function funcname { ... }` or `funcname()
+{ ... }` wrapper.
 
 ## Aliases
 
@@ -250,6 +311,8 @@ actual_score=${(P)score_var}    # Gets value of alice_score, namely 95.
 | Define an alias                                  | `alias name="command arg1 arg2 arg3 ..."` |
 | Remove an alias                                  | `unalias name`                            |
 | Get the arguments, with escaped spaces           | `${@:q}`                                  |
+
+**TODO**: continue from here.
 
 ## Conditionals
 
